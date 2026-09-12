@@ -7,9 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "ingest:once": "tsx scripts/run-ingest-once.ts",
+    "normalize:once": "tsx scripts/run-normalize-once.ts"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.47.10",
     "next": "^16.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -20,6 +23,7 @@
     "eslint": "^9.17.0",
     "eslint-config-next": "^16.3.5",
     "supabase": "^2.117.0",
+    "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   }
 }

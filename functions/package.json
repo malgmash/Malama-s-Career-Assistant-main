@@ -1,0 +1,17 @@
+{
+  "name": "malama-career-assistant-functions",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/functions/src/functions/*.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && func start"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.5.1",
+    "@supabase/supabase-js": "^2.47.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

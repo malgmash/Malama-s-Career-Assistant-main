@@ -1,6 +1,10 @@
 # dependencies
 node_modules
 
+# azure functions
+functions/dist
+functions/local.settings.json
+
 # next.js
 .next
 out
@@ -14,6 +18,9 @@ supabase/.temp
 
 # azure static web apps
 .swa
+
+# bicep build output
+infra/*.json
 
 # misc
 .DS_Store
