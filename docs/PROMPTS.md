@@ -1,0 +1,67 @@
+# Prompts
+
+Prompts are versioned artifacts, not strings inlined in code. They live in
+`/prompts/<name>.v<N>.md` and are referenced by version everywhere they are
+used.
+
+Status: contracts defined below, prompt bodies to be written next.
+
+## Rules for every prompt
+
+1. Untrusted input goes inside delimiters and is labelled as data. Job
+   descriptions are attacker-controlled text.
+2. Output is JSON matching a stated schema. No prose, no code fences.
+3. Every prompt states what the model may not invent.
+4. Every output schema includes an evidence field forcing the model to point
+   at its input.
+5. Absent data becomes `null` or `"unknown"`. Never a guess.
+6. Drafted application text uses no em-dashes and no colons.
+
+## Versioning
+
+Bump the version on any change to wording, schema or model. Never edit a
+version in place. `matches`, `reviews` and `documents` all store
+`prompt_version`, so scores stay comparable across changes.
+
+## Slots
+
+### `normalize.vN`
+
+**In:** one raw payload, plus the source kind.
+**Out:** `NormalizedOpportunity` from `lib/sources/types.ts`.
+**May not invent:** deadlines, URLs, org names, class years, sponsorship
+status. Copy or null.
+
+### `rank.vN`
+
+**In:** a batch of up to 20 opportunities, plus a compact profile summary
+derived from `profile_facts`.
+**Out:** `[{ opportunity_id, score, reasoning, blockers[] }]`.
+**May not invent:** requirements not present in the posting text.
+
+### `extract-requirements.vN`
+
+**In:** one job description.
+**Out:** `[{ text, kind: 'required' | 'preferred', category }]`.
+Shared by the match engine and the resume reviewer. Write it once.
+
+### `coverage.vN`
+
+**In:** extracted requirements, plus parsed resume text.
+**Out:** `[{ requirement_id, met: boolean, proof: string | null }]`.
+**Rule:** `met: true` with `proof: null` is invalid. Reject and retry once.
+
+### `tailor.vN`
+
+**In:** the opportunity, plus `profile_facts` rows with ids and strengths.
+**Out:** `{ bullets[], fact_ids[], gaps[], keywords_used[] }`.
+**May not invent:** any claim not traceable to a supplied fact id. Facts at
+`strength = 'coursework'` or `'exposure'` may not be written as experience.
+Missing requirements go in `gaps`, never written around.
+
+## Evaluation
+
+Keep a small fixture set in `/prompts/__evals__`. Ten postings with hand
+labelled expected output for `normalize` and `extract-requirements`. Run it
+before bumping any version. This is not a full eval harness, it is a smoke
+test that catches the obvious regressions.
