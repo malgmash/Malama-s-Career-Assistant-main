@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# next.js
+.next
+out
+
+# env
+.env*.local
+
+# supabase
+supabase/.branches
+supabase/.temp
+
+# azure static web apps
+.swa
+
+# misc
+.DS_Store
+*.log
+*.tsbuildinfo
