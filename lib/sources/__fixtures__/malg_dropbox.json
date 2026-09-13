@@ -1,0 +1,103 @@
+{
+  "updated": "2026-09-13",
+  "source": "MALG Assistant Opportunity Dropbox",
+  "count": 4,
+  "opportunities": [
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern, Summer 2027 — Anduril",
+      "organization": "Anduril Industries",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
+      "description": "Pursuing bachelor’s or master’s in CS/SWE/Math/Physics/related; **must return to school after internship** for ≥1 quarter/semester (Class of 2029 OK); U.S. Person (export control) · Paid · Verified Greenhouse description: returning-to-school required. Prefer Atlanta or Reston for region.",
+      "locations": [
+        "Atlanta, GA; Reston, VA; plus Boston, Seattle, Costa Mesa/Irvine, CO sites (in-person)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 — paid 12-week in-person internship",
+      "deadlineLabel": "Rolling / while live on Greenhouse",
+      "term": "Summer 2027 — paid 12-week in-person internship",
+      "reward": "Paid",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Boeing Summer 2027 Internship Program (Paid) — Data Analytics Intern",
+      "organization": "Boeing",
+      "url": "https://jobs.boeing.com/en/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192",
+      "description": "Enrolled student; expected graduation **on or after August 2027**; preferred GPA 3.0+; some roles require U.S. Person / export control; no visa sponsorship · Paid — summary pay range **$44,000–$89,000**; some positions offer relocation · Job ID JR2026520976. Mentorship, facility tours, leadership exposure. Security clearance may be required for some positions.",
+      "locations": [
+        "Multiple U.S. sites (Everett WA, Seattle, Atlanta, Herndon VA, Arlington VA, Fairfax VA, Huntsville, Charleston, Plano, and many others); some hybrid/virtual options per team"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 — **10–12 weeks** full-time",
+      "deadlineLabel": "Applications accepted until **October 23, 2026**",
+      "term": "Summer 2027 — **10–12 weeks** full-time",
+      "reward": "Paid — summary pay range **$44,000–$89,000**; some positions offer relocation",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.boeing.com/en/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192"
+      }
+    },
+    {
+      "kind": "hackathon",
+      "title": "&hacks XII — William & Mary",
+      "organization": "William & Mary Computing / MLH",
+      "url": "https://andhacks.cs.wm.edu/",
+      "description": "Students 18+; beginners welcome; MLH Code of Conduct · Free event (food/merch); travel stipend not advertised — **in-region (Virginia)** so included · Contact computing@wm.edu. Beginner prize track.",
+      "locations": [
+        "Williamsburg, VA — Integrated Science Center 4 (ISC4)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**September 26–27, 2026** (24 hours; MLH also lists Sep 25–27)",
+      "deadlineLabel": "Check site / Discord for application status",
+      "reward": "Free event (food/merch); travel stipend not advertised — **in-region (Virginia)** so included",
+      "tags": [
+        "malg-dropbox",
+        "hackathons_conferences"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://andhacks.cs.wm.edu/"
+      }
+    },
+    {
+      "kind": "conference",
+      "title": "All Things Open 2026 — Research Triangle (NC)",
+      "organization": "All Things Open",
+      "url": "https://2026.allthingsopen.org/",
+      "description": "Students / underrepresented applicants eligible for scholarships; educational discounts available · Student & underrepresented scholarships + educational discounts (limited) · Largest OSS/tech conference on U.S. East Coast. Volunteer CFP also open.",
+      "locations": [
+        "Research Triangle Park / Raleigh–Durham area, North Carolina"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**October 19–20, 2026** (workshops/deep dives Mon 19; conference day Tue 20)",
+      "deadlineLabel": "Summer pricing extended through **September 18, 2026**; student scholarships via interest form",
+      "reward": "Student & underrepresented scholarships + educational discounts (limited)",
+      "tags": [
+        "malg-dropbox",
+        "hackathons_conferences"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://2026.allthingsopen.org/"
+      }
+    }
+  ]
+}

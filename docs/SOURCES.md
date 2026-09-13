@@ -58,6 +58,7 @@ and may call the LLM only for unstructured fields.
 | Lever postings | `lever` | Public JSON per company | Same pattern as Greenhouse |
 | Ashby job boards | `ashby` | Public JSON per company | Add after the first two work |
 | Simplify internship list | `github_json` | Raw file on GitHub | High volume, updates constantly |
+| MALG Opportunity Dropbox | `malg_dropbox` | Raw file on GitHub | Object-with-`opportunities` feed in this repo (`data/malg-dropbox-feed.json`). `conference` maps to kind `hackathon` plus a `conference` tag (the opportunity kind enum is closed). Deadline is set only when `deadlineLabel` is already an ISO date; prose labels stay null. |
 | MLH season list | `github_json` | Published season data | Hackathons |
 | Devpost | `rss` | Public feeds | Hackathons, noisy |
 | Scholarship feeds | `rss` | Varies | Start with two, expand slowly |

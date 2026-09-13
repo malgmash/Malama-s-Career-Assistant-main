@@ -1,11 +1,13 @@
 import type { Adapter } from './types';
 import { githubJsonAdapter } from './github_json';
+import { malgDropboxAdapter } from './malg_dropbox';
 
 // Register a new source here after adding its adapter file. Nothing else
 // in the ingest or normalize path needs to change. See docs/SOURCES.md
 // "Adding a source".
 export const adapters: Record<string, Adapter> = {
   [githubJsonAdapter.kind]: githubJsonAdapter,
+  [malgDropboxAdapter.kind]: malgDropboxAdapter,
 };
 
 export function getAdapter(kind: string): Adapter {
