@@ -1,0 +1,38 @@
+name: Ingest opportunities
+
+# Runs whenever a source feed file changes on main (e.g. grokbot pushing an
+# updated data/malg-dropbox-feed.json), plus a manual button in the GitHub
+# Actions tab for on-demand runs. Fetch + normalize only, same two passes as
+# scripts/run-ingest-once.ts and scripts/run-normalize-once.ts locally.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npm run ingest:once
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+
+      - run: npm run normalize:once
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
