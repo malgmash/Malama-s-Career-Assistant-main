@@ -1,7 +1,7 @@
 {
   "updated": "2026-09-14",
   "source": "MALG Assistant Opportunity Dropbox",
-  "count": 73,
+  "count": 81,
   "opportunities": [
     {
       "kind": "internship",
@@ -129,6 +129,31 @@
     },
     {
       "kind": "internship",
+      "title": "Data Scientist Intern \u2014 Summer Games 2027 \u2014 Booz Allen (Atlanta)",
+      "organization": "Booz Allen Hamilton",
+      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
+      "description": "Scheduled to obtain a **Bachelor\u2019s** in a Technology, Engineering, or Mathematics field by **Summer 2028 or Summer 2029** \u2014 Class of 2029 eligible. Ability to obtain Secret clearance. \u00b7 Paid \u2014 confirm on apply \u00b7 Distinct from McLean DS posting already in Dropbox. Atlanta in-region. Clearance investigation likely.",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (Summer Games program)",
+      "deadlineLabel": "Rolling / posting open (Workday validThrough ~2026-12-02)",
+      "term": "Summer 2027 (Summer Games program)",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Data Scientist Intern \u2014 2027 Summer Games \u2014 Booz Allen (McLean)",
       "organization": "Booz Allen Hamilton",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
@@ -204,6 +229,106 @@
     },
     {
       "kind": "internship",
+      "title": "Junior Software Engineer Intern \u2014 Summer 2027 \u2014 Clarity Innovations (Herndon/Reston VA)",
+      "organization": "Clarity Innovations",
+      "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007",
+      "description": "Pursuing a **BS** in Computer Engineering, Computer Science, or related \u2014 US citizenship required (ability to obtain/maintain Top Secret). School-year options include Class of 2029 on application form. \u00b7 Paid \u2014 confirm on apply \u00b7 \"Junior\" = role level, not rising-junior-only. VA DC-metro. Clearance path.",
+      "locations": [
+        "Herndon, VA (listing also Reston, VA metro)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 Collier Aerospace (Newport News VA)",
+      "organization": "Collier Aerospace",
+      "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51",
+      "description": "In-progress **bachelor\u2019s** in Computer Science, Software Engineering, or related; **US citizen required**. No Class-of cutoff excluding 2029. \u00b7 Paid \u2014 confirm on apply \u00b7 VA in-region. C#/related OOP preferred per posting.",
+      "locations": [
+        "Newport News, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "IT Software Development Intern \u2014 Summer 2027 \u2014 Constellation Energy (Remote)",
+      "organization": "Constellation Energy",
+      "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
+      "description": "Currently pursuing a **Bachelor's or Master's** in CS, Software Engineering, Computer Engineering, MIS, IT, or related \u2014 **no hard grad-year cutoff**; 2029-ok / return-to-school style \u00b7 Paid \u2014 confirm on apply \u00b7 National remote \u2014 kept under remote/hybrid 2029-eligible rule. Baltimore MD HQ affiliation on related postings.",
+      "locations": [
+        "Remote (US)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 approx **June 7 \u2013 August 13, 2027** (~10 weeks)",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027 \u2014 approx **June 7 \u2013 August 13, 2027** (~10 weeks)",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "AI/Automation Intern \u2014 Summer 2027 \u2014 Cox (Atlanta)",
+      "organization": "Cox",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
+      "description": "Pursuing a **bachelor\u2019s or advanced degree** in Computer Science, Information Systems, Data Analytics, MIS, Engineering, AI, Machine Learning, or related \u2014 **no hard grad-year cutoff** stated; 2029-ok \u00b7 Paid \u2014 confirm on apply \u00b7 Complements existing Cox DS/PM Atlanta files. RPA (UiPath/Blue Prism) + AI automation focus.",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Data Scientist Intern, Summer 2027 \u2014 Cox (Atlanta, GA)",
       "organization": "Cox",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
@@ -250,6 +375,30 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "AI/ML Intern \u2014 Summer 2027 \u2014 Dev Technology Group (Reston VA)",
+      "organization": "Dev Technology Group",
+      "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002",
+      "description": "Bachelor\u2019s-track per Simplify degrees field; same employer family as existing React/Node Reston intern \u2014 undergrad AI/ML \u00b7 Paid \u2014 confirm on apply \u00b7 Additional Reston role beyond existing React/Node intern file. VA DC-metro.",
+      "locations": [
+        "Reston, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002"
       }
     },
     {
@@ -497,6 +646,31 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers.garmin.com/jobs/20131?icims=1"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 General Dynamics Mission Systems (Manassas VA)",
+      "organization": "General Dynamics Mission Systems",
+      "url": "https://careers-gdms.icims.com/jobs/74880/job",
+      "description": "Must be **enrolled** in accredited CE/SE/Software/related degree; preference for **sophomore or higher** \u2014 Class of 2029 OK. **US citizenship required**; clearance requirements apply. \u00b7 Paid \u2014 confirm on apply \u00b7 VA in-region defense SWE. Sophomore+ preference fits Livingston Class of 2029.",
+      "locations": [
+        "Manassas, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (posting validThrough ~2027-09-10)",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027 (posting validThrough ~2027-09-10)",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://careers-gdms.icims.com/jobs/74880/job"
       }
     },
     {
@@ -830,6 +1004,31 @@
     },
     {
       "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Palantir (Washington, DC)",
+      "organization": "Palantir Technologies",
+      "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
+      "description": "Undergraduate applicants accepted (application graduation-year choices include through 2030). No Master\u2019s-only lock. DC-metro. \u00b7 Paid \u2014 confirm on apply \u00b7 DC-metro. Competitive; other Palantir DC variants (Defense Tech, Production Infra) also open. Terms are 2028 cycles \u2014 still relevant for Class of 2029 planning.",
+      "locations": [
+        "Washington, DC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Winter 2028 / Spring 2028 / Summer 2028 (per Simplify terms)",
+      "deadlineLabel": "Rolling \u2014 apply early",
+      "term": "Winter 2028 / Spring 2028 / Summer 2028 (per Simplify terms)",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Summer 2027 Data Science Intern \u2014 Peraton",
       "organization": "Peraton",
       "url": "https://www.careers.peraton.com/jobs/summer-2027-data-science-intern-herndon-virginia-170320-jobs--cms-engineering--",
@@ -876,6 +1075,31 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers-peraton.icims.com/jobs/169665/job"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 Principal Financial Group (Charlotte)",
+      "organization": "Principal Financial Group",
+      "url": "https://careers.principal.com/jobs/52513?icims=1",
+      "description": "Currently pursuing or have completed an undergraduate STEM degree \u2014 **no hard Class-of cutoff** stated; 2029-ok \u00b7 Paid internship \u2014 confirm on apply \u00b7 Charlotte SE target. iCIMS listing title: Software Engineer Internship - Charlotte, NC (Summer 2027). Urgent \u2014 validThrough early October.",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Posting valid through ~2026-10-01 (iCIMS validThrough); apply ASAP",
+      "term": "Summer 2027",
+      "reward": "Paid internship \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://careers.principal.com/jobs/52513?icims=1"
       }
     },
     {
@@ -1662,29 +1886,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://vthacks.com/"
-      }
-    },
-    {
-      "kind": "conference",
-      "title": "VueConf US 2026 \u2014 Atlanta",
-      "organization": "VueConf US",
-      "url": "https://vueconf.us/",
-      "description": "Open registration; student discounts not clearly advertised on homepage \u2014 still **in-region Atlanta** \u00b7 Not required (Atlanta); check site for any student rate \u00b7 Dates confirmed on live vueconf.us. Event is before Summer 2027 internships \u2014 good regional networking.",
-      "locations": [
-        "Georgia Tech Learning Center, Midtown Atlanta, GA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**May 19\u201321, 2026** (workshops May 19; conference May 20\u201321)",
-      "deadlineLabel": "Tickets on sale (late individual pricing listed on site at scan)",
-      "reward": "Not required (Atlanta); check site for any student rate",
-      "tags": [
-        "malg-dropbox",
-        "hackathons_conferences"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://vueconf.us/"
       }
     },
     {
