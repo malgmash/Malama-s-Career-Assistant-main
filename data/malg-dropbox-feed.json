@@ -8,11 +8,11 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 87,
+  "count": 94,
   "counts_by_category": {
-    "internships": 55,
+    "internships": 59,
     "conferences_summits_workshops": 9,
-    "hackathons": 12,
+    "hackathons": 15,
     "fellowships_and_ambassadorships": 8,
     "scholarships": 3
   },
@@ -238,6 +238,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Enact (Raleigh)",
+      "organization": "Enact Holdings (Genworth majority-owned)",
+      "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367",
+      "description": "Pursuing a degree in CS, Software Engineering, or related; Java/OOP fundamentals. **This role is eligible for employment visa sponsorship.** No Class-of cutoff excluding 2029. No U.S.-citizenship requirement on posting. \u00b7 Paid internship \u2014 confirm on apply \u00b7 Pricing & Rules Platform team (enterprise Java, Drools, cloud identity). Same role also mirrored on Genworth Workday board (REQ-260367-1) \u2014 apply via one posting only.",
+      "locations": [
+        "Raleigh, NC (Enact HQ \u2014 hybrid)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "12-week internship beginning **May 17, 2027**",
+      "deadlineLabel": "Applications open \u2014 apply early (posted ~2026-09-14)",
+      "term": "12-week internship beginning **May 17, 2027**",
+      "reward": "Paid internship \u2014 confirm on apply",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367"
       }
     },
     {
@@ -1165,6 +1193,63 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Red Hat (Raleigh / Durham)",
+      "organization": "Red Hat",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
+      "description": "Software engineering intern; work with mentor on Python/Golang/etc. Red Hat **will not provide visa sponsorship** \u2014 must be able to work without current/future visa sponsorship (verify CPT/OPT acceptability on apply). No U.S.-citizens-only / clearance language on posting. No hard Class-of cutoff stated. \u00b7 Paid \u2014 confirm on apply \u00b7 NC Triangle in-region. Related: Software Engineer Co-op (R-059039) and Product Manager Intern (R-059060) on same board \u2014 sponsorship language similar.",
+      "locations": [
+        "Raleigh, NC; Durham, NC (also Boston/Lowell MA)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Intern cohort / open-source engineering projects (Ansible, RHEL, OpenShift, AI, etc.) \u2014 confirm Summer 2027 dates on apply",
+      "deadlineLabel": "Posting validThrough **~2026-11-13**",
+      "term": "Intern cohort / open-source engineering projects (Ansible, RHEL, OpenShift, AI, etc.) \u2014 confirm Summer 2027 dates on apply",
+      "reward": "Paid \u2014 confirm on apply",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Developer Intern \u2014 Product Engineering \u2014 RF-SMART (Jacksonville)",
+      "organization": "RF-SMART",
+      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
+      "description": "Open to **undergraduate** (and graduate / May\u2013Spring grads); must be authorized to work in the U.S. for any employer **without future sponsorship**. Employer does **not sponsor H-1B**. No U.S.-citizens-only language. No Class-of cutoff excluding 2029. \u00b7 **$25/hour** \u00b7 Full-stack product engineering internship. Related NetSuite support / Product Strategy intern roles also listed.",
+      "locations": [
+        "Jacksonville, FL (on-site)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Spring & Summer 2027 track; Summer program **May 10 \u2013 July 30, 2027** (12 weeks, 40 hrs/week)",
+      "deadlineLabel": "Applications open \u2014 apply early",
+      "term": "Spring & Summer 2027 track; Summer program **May 10 \u2013 July 30, 2027** (12 weeks, 40 hrs/week)",
+      "reward": "**$25/hour**",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "[Summer 2027] Product Management Intern \u2014 Roblox",
       "organization": "Roblox",
       "url": "https://careers.roblox.com/jobs/8143981",
@@ -1273,6 +1358,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://simoncomputing.applicantpro.com/jobs/4115690"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 State Farm (Enterprise Technology)",
+      "organization": "State Farm",
+      "url": "https://jobs.statefarm.com/jobs/45589?icims=1",
+      "description": "Full-time college students (**Freshmen & Sophomores**); majors IS/IT/CS/Engineering/Cybersecurity/Statistics/Data; **at least one semester remaining after Summer 2027** \u2014 Class of 2029 OK. Must be eligible to work in the U.S. immediately; employer will **not sponsor H-1B** (CPT/OPT typically separate \u2014 confirm on apply). No U.S.-citizens-only language on posting. \u00b7 **$28/hour** + **$2,000 stipend** \u00b7 GA hub (Dunwoody) in-region. Seeking Freshmen/Sophomores \u2014 strong Class of 2029 fit. Related Innovation Group / Mainframe SWE postings exist on State Farm careers; this is the Multiple Teams Enterprise Technology Engineer track.",
+      "locations": [
+        "Remote (continental U.S.) with hub options including **Dunwoody, GA**; also Richardson TX, Tempe AZ, Bloomington IL"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 Wed Jun 2 \u2013 Wed Aug 11, 2027 (10 weeks)",
+      "deadlineLabel": "Expected close **2026-09-18** (may close early \u2014 apply ASAP)",
+      "term": "Summer 2027 \u2014 Wed Jun 2 \u2013 Wed Aug 11, 2027 (10 weeks)",
+      "reward": "**$28/hour** + **$2,000 stipend**",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.statefarm.com/jobs/45589?icims=1"
       }
     },
     {
@@ -1578,6 +1691,33 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://codelinc11.devpost.com/"
+      }
+    },
+    {
+      "category": "hackathons",
+      "kind": "hackathon",
+      "title": "CUhackit 2027 \u2014 Clemson University",
+      "organization": "CUhackit / Clemson / MLH",
+      "url": "https://cuhack.it/",
+      "description": "Collegiate hackathon \u2014 confirm on cuhack.it when registration details publish \u00b7 **Travel reimbursement: unknown** (site stub as of scan). **In-region (SC)** \u2014 include without reimbursement. \u00b7 MLH upcomingEvents entry confirmed; public site was minimal at scan time \u2014 re-check closer to Feb 2027 for apply link and travel policy.",
+      "locations": [
+        "Clemson, South Carolina"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**February 20\u201321, 2027** (per MLH 2027 season)",
+      "deadlineLabel": "Watch site / MLH for registration open",
+      "reward": "**Travel reimbursement: unknown** (site stub as of scan). **In-region (SC)** \u2014 include without reimbursement.",
+      "travel_reimbursement": "**Travel reimbursement: unknown** (site stub as of scan). **In-region (SC)** \u2014 include without reimbursement.",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "hackathons",
+        "hackathon"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://cuhack.it/"
       }
     },
     {
@@ -1938,6 +2078,33 @@
       }
     },
     {
+      "category": "hackathons",
+      "kind": "hackathon",
+      "title": "Palmetto Hacks 2026 \u2014 University of South Carolina (Columbia)",
+      "organization": "Kappa Theta Pi / USC / MLH",
+      "url": "https://palmettohacks.ktpusc.com",
+      "description": "Free; all majors / skill levels; beginners welcome; teams up to 4; official MLH event \u00b7 Free to attend; meals provided. **Travel reimbursement: not advertised** (assume none). **In-region (SC)** \u2014 include without reimbursement. \u00b7 New on MLH 2027 season list. Mentors + prizes; Devpost submit before judging.",
+      "locations": [
+        "Columbia, South Carolina"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**October 10\u201311, 2026** (24 hours; doors Sat Oct 10)",
+      "deadlineLabel": "Registration open \u2014 Register Now on site",
+      "reward": "Free to attend; meals provided. **Travel reimbursement: not advertised** (assume none). **In-region (SC)** \u2014 include without reimbursement.",
+      "travel_reimbursement": "Free to attend; meals provided. **Travel reimbursement: not advertised** (assume none). **In-region (SC)** \u2014 include without reimbursement.",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "hackathons",
+        "hackathon"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://palmettohacks.ktpusc.com"
+      }
+    },
+    {
       "category": "conferences_summits_workshops",
       "kind": "conference",
       "event_subtype": "conference",
@@ -1991,6 +2158,33 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://tapiaconference.cmd-it.org/"
+      }
+    },
+    {
+      "category": "hackathons",
+      "kind": "hackathon",
+      "title": "UGAHacks \u2014 University of Georgia (Athens) \u2014 Feb 2027",
+      "organization": "UGAHacks / University of Georgia / MLH",
+      "url": "https://ugahacks.com/",
+      "description": "Annual ~48-hour collegiate hackathon; students welcome \u2014 confirm age/eligibility on registration \u00b7 Student hackathon (food/swag typical). **Travel reimbursement: not clearly advertised** on homepage. **In-region (GA)** \u2014 include without reimbursement. \u00b7 MLH lists physical Athens, GA. Site currently promotes pre-register / CADATHON registration \u2014 watch for full hack registration window.",
+      "locations": [
+        "Athens, Georgia"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**February 5\u20137, 2027** (per MLH 2027 season)",
+      "deadlineLabel": "**Pre-registration open** on ugahacks.com (UGAHacks 12 / next cycle)",
+      "reward": "Student hackathon (food/swag typical). **Travel reimbursement: not clearly advertised** on homepage. **In-region (GA)** \u2014 include without reimbursement.",
+      "travel_reimbursement": "Student hackathon (food/swag typical). **Travel reimbursement: not clearly advertised** on homepage. **In-region (GA)** \u2014 include without reimbursement.",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "hackathons",
+        "hackathon"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://ugahacks.com/"
       }
     },
     {
