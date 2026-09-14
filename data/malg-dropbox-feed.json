@@ -882,14 +882,14 @@
       "title": "Rosetta Commons Research Experience for Undergraduates (REU)",
       "organization": "Rosetta Commons (multi-institution; NSF-supported)",
       "url": "https://www.rosettacommons.org/about/intern",
-      "description": "Sophomores/juniors preferred; major in CS, engineering, mathematics, chemistry, biology, and/or biophysics. **International students actively pursuing a bachelor\u2019s degree in the United States are eligible.** International students studying outside the U.S. are not. Graduating before program start not eligible. Class of 2029 OK. \u00b7 **$6,000** stipend + housing + paid travel + sustenance allowance \u00b7 Pathways Non-U.S. Citizens + Computer Sciences. Starts with Rosetta/PyRosetta Code School; projects may include AI/ML. Computational \u2014 not wet-lab primary.",
+      "description": "Prefer college sophomores/juniors in CS, engineering, mathematics, chemistry, biology, and/or biophysics. **International students actively pursuing a bachelor\u2019s degree in the United States are eligible.** International students studying outside the U.S. are not. Graduating before program start not eligible. Class of 2029 OK. \u00b7 **$6,000** stipend + housing + paid travel + sustenance allowance \u00b7 Pathways Non-U.S. Citizens + Computer Sciences; Funds International Students. Heavy PyRosetta / computational modeling \u2014 keep as tech/CS (skip if seeking pure SWE product roles only).",
       "locations": [
-        "Distributed U.S. lab sites (varies by project \u2014 e.g. Northeastern, Rutgers, UIUC, etc.)"
+        "Distributed U.S. labs (site varies by project; e.g. Northeastern, Illinois, Rutgers, and others)"
       ],
       "datesConfirmed": true,
-      "dateLabel": "Typically early June\u2013early August (~9 weeks; 2026: Jun 1\u2013Aug 7 including Code School + conference)",
-      "deadlineLabel": "Summer 2026 applications **closed**. Watch  for Summer 2027 open (historically winter).",
-      "term": "Typically early June\u2013early August (~9 weeks; 2026: Jun 1\u2013Aug 7 including Code School + conference)",
+      "dateLabel": "Typically early June\u2013early August (~9 weeks). Summer 2026: Jun 1\u2013Aug 7, 2026 (includes Rosetta Code School week).",
+      "deadlineLabel": "Summer 2026 applications **closed**. Watch  for Summer 2027 open (often fall/winter).",
+      "term": "Typically early June\u2013early August (~9 weeks). Summer 2026: Jun 1\u2013Aug 7, 2026 (includes Rosetta Code School week).",
       "reward": "**$6,000** stipend + housing + paid travel + sustenance allowance",
       "tags": [
         "malg-dropbox",
@@ -904,17 +904,17 @@
     {
       "kind": "internship",
       "title": "Undergraduate Complexity Research (UCR) \u2014 Santa Fe Institute",
-      "organization": "Santa Fe Institute (SFI)",
+      "organization": "Santa Fe Institute",
       "url": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research",
-      "description": "Undergrads (first-year through junior; college seniors graduating before December not eligible). **Applicants from any country welcome**; non-U.S. citizens/PR receive visa sponsorship assistance as appropriate. Class of 2029 OK. \u00b7 **$7,000** stipend ($700/week) + housing + meals + travel support; no tuition \u00b7 Pathways Funds International Students / AI-adjacent search. Theory + methods + data across physical/natural/social sciences \u2014 prefer if interested in computational modeling beyond classic SWE.",
+      "description": "Undergrads (typically first-year through junior). **Applicants from any country welcome**; non-U.S. citizens/PR receive visa-sponsorship assistance as appropriate. Class of 2029 OK. \u00b7 **$7,000** stipend ($700/week) + housing and meals + travel support to/from Santa Fe. No tuition. \u00b7 Pathways AI/Computational search; Funds International Students. Theory + data methods for complex systems \u2014 CS/math/data-science adjacent (not wet-lab).",
       "locations": [
-        "Santa Fe, NM (residential, in-person)"
+        "Santa Fe, NM (residential)"
       ],
       "datesConfirmed": true,
-      "dateLabel": "10 weeks summer (2026: May 31\u2013Aug 8). Next cycle TBA \u2014 watch site after Nov 2026.",
-      "deadlineLabel": "2026 cycle closed; site says return **November 2026** for next summer\u2019s info. Typical undergrad research deadlines winter/early spring.",
-      "term": "10 weeks summer (2026: May 31\u2013Aug 8). Next cycle TBA \u2014 watch site after Nov 2026.",
-      "reward": "**$7,000** stipend ($700/week) + housing + meals + travel support; no tuition",
+      "dateLabel": "10 weeks full-time (2026 cohort: May 31\u2013Aug 8, 2026 \u2014 completed). Next cycle typically similar late May\u2013early August 2027.",
+      "deadlineLabel": "Watch site \u2014 Pathways/SFI note to return **~November 2026** for next summer\u2019s materials. College seniors graduating before December of program year not eligible.",
+      "term": "10 weeks full-time (2026 cohort: May 31\u2013Aug 8, 2026 \u2014 completed). Next cycle typically similar late May\u2013early August 2027.",
+      "reward": "**$7,000** stipend ($700/week) + housing and meals + travel support to/from Santa Fe. No tuition.",
       "tags": [
         "malg-dropbox",
         "internships"
@@ -930,15 +930,15 @@
       "title": "Data Science in Oceanography Undergraduate Summer Program \u2014 University of Washington",
       "organization": "University of Washington \u2014 School of Oceanography",
       "url": "https://www.ocean.washington.edu/story/Data_Science_in_Oceanography_Undergraduate_Summer_Program",
-      "description": "Current undergrads (and gap-year after college) with programming experience + interest in oceanography/data science. **International students welcome**, including those aiming at U.S. grad programs. Program does **not** sponsor U.S. visas \u2014 foreign students must arrange travel independently if accepted. Class of 2029 OK. \u00b7 Confirm on current cycle page (Pathways lists Funds International Students; housing/meals FAQ on UW site) \u00b7 Pathways Non-U.S. Citizens + CS search. Keep for 2027 cycle awareness; verify stipend/housing when 2027 posting appears.",
+      "description": "Current undergrads (and some gap-year) with programming + interest in oceanography/data science. **International students welcome** (esp. those interested in U.S. grad programs). Program does **not** sponsor U.S. visas \u2014 accepted internationals arrange travel independently. Class of 2029 OK. \u00b7 Confirm on annual posting (Pathways flags Funds International Students). Ask about housing/meals in FAQs when 2027 opens. \u00b7 Pathways Non-U.S. Citizens + Computer Sciences. Computational/data focus (not wet-lab). Good early-career research signal.",
       "locations": [
         "Seattle, WA"
       ],
       "datesConfirmed": true,
-      "dateLabel": "Recurring late-summer intensive (~second half of August; 2025 ran Aug 11\u201322). Exact 2027 dates when apps open.",
-      "deadlineLabel": "2026 deadline was **May 31, 2026** (closed). Watch UW page for 2027 open/close.",
-      "term": "Recurring late-summer intensive (~second half of August; 2025 ran Aug 11\u201322). Exact 2027 dates when apps open.",
-      "reward": "Confirm on current cycle page (Pathways lists Funds International Students; housing/meals FAQ on UW site)",
+      "dateLabel": "Typically second half of August (~2 weeks; 2025 cohort Aug 11\u201322). Recurring program.",
+      "deadlineLabel": "2026 apps open through **May 31, 2026** (passed). Watch for **2027** posting (often spring).",
+      "term": "Typically second half of August (~2 weeks; 2025 cohort Aug 11\u201322). Recurring program.",
+      "reward": "Confirm on annual posting (Pathways flags Funds International Students). Ask about housing/meals in FAQs when 2027 opens.",
       "tags": [
         "malg-dropbox",
         "internships",
@@ -977,16 +977,16 @@
     {
       "kind": "internship",
       "title": "Biomedical Engineering & Informatics Summer Research Internship \u2014 Wake Forest",
-      "organization": "Wake Forest University School of Medicine \u2014 Biomedical Engineering & Center for Artificial Intelligence Research",
+      "organization": "Wake Forest University School of Medicine \u2014 Biomedical Engineering & Center for AI Research",
       "url": "https://school.wakehealth.edu/departments/biomedical-engineering/center-for-injury-biomechanics/summer-research-opportunities",
-      "description": "Undergrads at a U.S. academic institution; must not graduate before program start. Open to **U.S. citizens/nationals/PR and international students on J-1 or F-1** at a U.S. institution (**limited** international slots due to grant rules). Class of 2029 OK. \u00b7 Internship stipend + on-campus housing \u00b7 Pathways Funds International Students. Prefer informatics/AI project tracks over pure wet-lab/injury biomechanics if multiple options. Highly competitive (~600+ apps/year).",
+      "description": "Undergrads (and master\u2019s) at a U.S. academic institution; must not graduate before program start. Open to **U.S. citizens/nationals/PR and international students on J-1 or F-1** (limited international spots due to grant rules). Class of 2029 OK. \u00b7 Internship stipend + on-campus housing \u00b7 Pathways Funds International Students. Prefer informatics/AI project tracks over pure wet-lab biomechanics when selecting projects. High competition (~600+ apps).",
       "locations": [
-        "Winston-Salem, NC (Innovation Quarter) \u2014 in-region for Livingston"
+        "Winston-Salem, NC (Innovation Quarter) \u2014 **in-region NC**"
       ],
       "datesConfirmed": true,
-      "dateLabel": "~10 weeks (2026: May 26\u2013Jul 31). Watch for Summer 2027 dates.",
-      "deadlineLabel": "2026 deadline was **Jan 30, 2026** (apps typically open October). Expect **Oct 2026\u2013Jan 2027** for next cycle \u2014 confirm on site.",
-      "term": "~10 weeks (2026: May 26\u2013Jul 31). Watch for Summer 2027 dates.",
+      "dateLabel": "~10 weeks (2026: May 26\u2013Jul 31, 2026). Expect similar Summer 2027 window.",
+      "deadlineLabel": "2026 cycle: apps opened Oct 2025, deadline **Jan 30, 2026** (passed). Watch for **Oct 2026** reopen / Jan 2027 deadline for next cohort.",
+      "term": "~10 weeks (2026: May 26\u2013Jul 31, 2026). Expect similar Summer 2027 window.",
       "reward": "Internship stipend + on-campus housing",
       "tags": [
         "malg-dropbox",
