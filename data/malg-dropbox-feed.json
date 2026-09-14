@@ -8,11 +8,13 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 76,
+  "count": 87,
   "counts_by_category": {
-    "internships": 55,
+    "internships": 56,
     "conferences_summits_workshops": 9,
-    "hackathons": 12
+    "hackathons": 12,
+    "fellowships_and_ambassadorships": 7,
+    "scholarships": 3
   },
   "opportunities": [
     {
@@ -1475,15 +1477,15 @@
       "title": "All Things Open 2026 \u2014 Research Triangle (NC)",
       "organization": "All Things Open",
       "url": "https://2026.allthingsopen.org/",
-      "description": "Students / underrepresented applicants eligible for scholarships; educational discounts available \u00b7 Student & underrepresented scholarships + educational discounts (limited) \u00b7 Largest OSS/tech conference on U.S. East Coast. Volunteer CFP also open. **Scan 2026-09-14:** homepage still pushing registration for Oct 19\u201320; summer-pricing-through-Sep-18 window still relevant (4 days left) \u2014 verify on 2026.allthingsopen.org scholarships/discounts.",
+      "description": "Students / underrepresented applicants eligible for scholarships; educational discounts available \u00b7 Student & underrepresented scholarships + educational discounts (limited). **Travel reimbursement: not a general travel stipend** \u2014 scholarships/discounts only; **in-region (NC)** so included regardless. \u00b7 Largest OSS/tech conference on U.S. East Coast. Volunteer CFP also open. **Scan 2026-09-14:** homepage still pushing registration for Oct 19\u201320; summer-pricing-through-Sep-18 window still relevant (4 days left) \u2014 verify on 2026.allthingsopen.org scholarships/discounts. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Research Triangle Park / Raleigh\u2013Durham area, North Carolina"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 19\u201320, 2026** (workshops/deep dives Mon 19; conference day Tue 20)",
       "deadlineLabel": "Summer pricing extended through **September 18, 2026**; student scholarships via interest form",
-      "reward": "Student & underrepresented scholarships + educational discounts (limited)",
-      "travel_reimbursement": "Student & underrepresented scholarships + educational discounts (limited)",
+      "reward": "Student & underrepresented scholarships + educational discounts (limited). **Travel reimbursement: not a general travel stipend** \u2014 scholarships/discounts only; **in-region (NC)** so included regardless.",
+      "travel_reimbursement": "Student & underrepresented scholarships + educational discounts (limited). **Travel reimbursement: not a general travel stipend** \u2014 scholarships/discounts only; **in-region (NC)** so included regardless.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1502,15 +1504,15 @@
       "title": "&hacks XII \u2014 William & Mary",
       "organization": "William & Mary Computing / MLH",
       "url": "https://andhacks.cs.wm.edu/",
-      "description": "Students 18+; beginners welcome; MLH Code of Conduct \u00b7 Free event (food/merch); travel stipend not advertised \u2014 **in-region (Virginia)** so included \u00b7 Contact computing@wm.edu. Beginner prize track.",
+      "description": "Students 18+; beginners welcome; MLH Code of Conduct \u00b7 Free event (food/merch). **Travel reimbursement: no** (not advertised). **In-region (VA)** \u2014 included without reimbursement. \u00b7 Contact computing@wm.edu. Beginner prize track. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Williamsburg, VA \u2014 Integrated Science Center 4 (ISC4)"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 26\u201327, 2026** (24 hours; MLH also lists Sep 25\u201327)",
       "deadlineLabel": "Check site / Discord for application status",
-      "reward": "Free event (food/merch); travel stipend not advertised \u2014 **in-region (Virginia)** so included",
-      "travel_reimbursement": "Free event (food/merch); travel stipend not advertised \u2014 **in-region (Virginia)** so included",
+      "reward": "Free event (food/merch). **Travel reimbursement: no** (not advertised). **In-region (VA)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "Free event (food/merch). **Travel reimbursement: no** (not advertised). **In-region (VA)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1530,15 +1532,15 @@
       "title": "Clojure Conj 2026 \u2014 Charlotte, NC",
       "organization": "Clojure Conj",
       "url": "https://2026.clojure-conj.org",
-      "description": "Open registration \u00b7 In-region (NC) \u00b7 Niche functional-programming conference; good if exploring Clojure/FP.",
+      "description": "Open registration \u00b7 **Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement. \u00b7 Niche functional-programming conference; good if exploring Clojure/FP. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Charlotte, North Carolina"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 30, 2026** (per conference-data; confirm end date on site)",
       "deadlineLabel": "See 2026.clojure-conj.org",
-      "reward": "In-region (NC)",
-      "travel_reimbursement": "In-region (NC)",
+      "reward": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1557,15 +1559,15 @@
       "title": "codeLinc 11 \u2014 Lincoln Financial & AWS",
       "organization": "Lincoln Financial Group / AWS",
       "url": "https://codelinc11.devpost.com/",
-      "description": "Ages 16+; students only; U.S. residents for prizes \u00b7 **$200 travel reimbursement available**; $10,000 prize pool \u00b7 Mobile development project templates. Contact codelinc@lfg.com. Entire team must be on-site to present.",
+      "description": "Ages 16+; students only; U.S. residents for prizes \u00b7 **Travel reimbursement: yes \u2014 $200** available. $10,000 prize pool. **In-region (NC)**. \u00b7 Mobile development project templates. Contact codelinc@lfg.com. Entire team must be on-site to present. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Greensboro, NC \u2014 Lincoln Financial"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 3\u20134, 2026** (24-hour coding challenge)",
       "deadlineLabel": "Register on Devpost; submissions due ~10:30 AM EST Oct 4",
-      "reward": "**$200 travel reimbursement available**; $10,000 prize pool",
-      "travel_reimbursement": "**$200 travel reimbursement available**; $10,000 prize pool",
+      "reward": "**Travel reimbursement: yes \u2014 $200** available. $10,000 prize pool. **In-region (NC)**.",
+      "travel_reimbursement": "**Travel reimbursement: yes \u2014 $200** available. $10,000 prize pool. **In-region (NC)**.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1585,15 +1587,15 @@
       "title": "DevNexus 2027 \u2014 Atlanta",
       "organization": "Atlanta Java Users Group / DevNexus",
       "url": "https://devnexus.com/",
-      "description": "Developers / students welcome (typical AJUG student rates historically) \u00b7 In-region (Atlanta) \u2014 stipend optional \u00b7 Largest U.S. Java ecosystem conference; AI/engineering tracks expanding.",
+      "description": "Developers / students welcome (typical AJUG student rates historically) \u00b7 **Travel reimbursement: no** / not advertised (student rates historically). **In-region (GA)** \u2014 included without reimbursement. \u00b7 Largest U.S. Java ecosystem conference; AI/engineering tracks expanding. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Georgia World Congress Center, Atlanta, GA"
       ],
       "datesConfirmed": true,
       "dateLabel": "**April 5\u20137, 2027**",
       "deadlineLabel": "Registration opens closer to event \u2014 watch devnexus.com",
-      "reward": "In-region (Atlanta) \u2014 stipend optional",
-      "travel_reimbursement": "In-region (Atlanta) \u2014 stipend optional",
+      "reward": "**Travel reimbursement: no** / not advertised (student rates historically). **In-region (GA)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "**Travel reimbursement: no** / not advertised (student rates historically). **In-region (GA)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1613,15 +1615,15 @@
       "title": "Enterprise AI Summit \u2014 Charlotte, NC",
       "organization": "IT Revolution",
       "url": "https://events.itrevolution.com/2026-charlotte/",
-      "description": "Open / professionals + students (confirm rates) \u00b7 In-region (NC) \u00b7 From confs.tech / tech-conferences conference-data.",
+      "description": "Open / professionals + students (confirm rates) \u00b7 **Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement. \u00b7 From confs.tech / tech-conferences conference-data. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Charlotte, North Carolina"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 7\u20138, 2026**",
       "deadlineLabel": "See event site registration",
-      "reward": "In-region (NC)",
-      "travel_reimbursement": "In-region (NC)",
+      "reward": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1640,15 +1642,15 @@
       "title": "Girls Hoo Hack 2026 \u2014 Charlottesville, VA",
       "organization": "Girls Hoo Hack / UVA / MLH",
       "url": "https://www.mlh.io/seasons/2027/events",
-      "description": "Gender-inclusive women-centered hackathon (typical past years); undergrad welcome \u00b7 In-region (VA); confirm travel policy on event site \u00b7 Listed on live MLH 2027 season page. Event site returned thin HTML from this egress \u2014 recheck girlshoohack.com for apply link.",
+      "description": "Gender-inclusive women-centered hackathon (typical past years); undergrad welcome \u00b7 **Travel reimbursement: unconfirmed** \u2014 check event site. **In-region (VA)** \u2014 included regardless. \u00b7 Listed on live MLH 2027 season page. Event site returned thin HTML from this egress \u2014 recheck girlshoohack.com for apply link. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Charlottesville, Virginia, US"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 17\u201318, 2026** (per MLH 2027 season schedule)",
       "deadlineLabel": "Watch MLH / girlshoohack.com for apps",
-      "reward": "In-region (VA); confirm travel policy on event site",
-      "travel_reimbursement": "In-region (VA); confirm travel policy on event site",
+      "reward": "**Travel reimbursement: unconfirmed** \u2014 check event site. **In-region (VA)** \u2014 included regardless.",
+      "travel_reimbursement": "**Travel reimbursement: unconfirmed** \u2014 check event site. **In-region (VA)** \u2014 included regardless.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1668,15 +1670,15 @@
       "title": "Grace Hopper Celebration (GHC) 2026 \u2014 Anaheim",
       "organization": "AnitaB.org",
       "url": "https://ghc.anitab.org/",
-      "description": "Women and allies in computing; students strongly encouraged \u00b7 AnitaB academic/partner scholarships historically available \u2014 **confirm current student travel/scholarship before committing** (out-of-region requires funding) \u00b7 Kept because curated nationals list + typical scholarship paths. Do not book travel until funding confirmed.",
+      "description": "Women and allies in computing; students strongly encouraged \u00b7 AnitaB academic/partner scholarships historically available. **Travel reimbursement: only if scholarship awarded** \u2014 **out-of-region (CA)**; attend **only if** travel/registration funding secured. \u00b7 Kept because curated nationals list + typical scholarship paths. Do not book travel until funding confirmed. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Anaheim Convention Center, Anaheim, CA"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 27\u201330, 2026**",
       "deadlineLabel": "Registration open on ghc.anitab.org; watch Academic / scholarship programs",
-      "reward": "AnitaB academic/partner scholarships historically available \u2014 **confirm current student travel/scholarship before committing** (out-of-region requires funding)",
-      "travel_reimbursement": "AnitaB academic/partner scholarships historically available \u2014 **confirm current student travel/scholarship before committing** (out-of-region requires funding)",
+      "reward": "AnitaB academic/partner scholarships historically available. **Travel reimbursement: only if scholarship awarded** \u2014 **out-of-region (CA)**; attend **only if** travel/registration funding secured.",
+      "travel_reimbursement": "AnitaB academic/partner scholarships historically available. **Travel reimbursement: only if scholarship awarded** \u2014 **out-of-region (CA)**; attend **only if** travel/registration funding secured.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1695,15 +1697,15 @@
       "title": "Hack_NCState 2027",
       "organization": "NC State / MLH",
       "url": "https://hackncstate.org/",
-      "description": "Open to all university students (not only NC State) \u00b7 Free (food, shirt, stickers); **no travel reimbursements** \u2014 **in-region (NC)** \u00b7 Teams of 2\u20134; tracks/categories; beginner-friendly team formation session. Contact hackncstate@ncsu.edu.",
+      "description": "Open to all university students (not only NC State) \u00b7 Free (food, shirt, stickers). **Travel reimbursement: no**. **In-region (NC)** \u2014 included without reimbursement. \u00b7 Teams of 2\u20134; tracks/categories; beginner-friendly team formation session. Contact hackncstate@ncsu.edu. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Raleigh, NC \u2014 Talley Student Union, NC State Main Campus"
       ],
       "datesConfirmed": true,
       "dateLabel": "**February 6\u20137, 2027** (24 hours; coding 11 AM Sat\u201311 AM Sun)",
       "deadlineLabel": "**Registration now open**",
-      "reward": "Free (food, shirt, stickers); **no travel reimbursements** \u2014 **in-region (NC)**",
-      "travel_reimbursement": "Free (food, shirt, stickers); **no travel reimbursements** \u2014 **in-region (NC)**",
+      "reward": "Free (food, shirt, stickers). **Travel reimbursement: no**. **In-region (NC)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "Free (food, shirt, stickers). **Travel reimbursement: no**. **In-region (NC)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1722,15 +1724,15 @@
       "title": "HackGT 13 \u2014 Seaside Market \u2014 Georgia Tech",
       "organization": "HexLabs / Georgia Tech / MLH",
       "url": "https://hack.gt/",
-      "description": "Open to hackers of all backgrounds/skill levels; 1500+ expected \u00b7 Free for participants; travel reimbursement historically offered \u2014 confirm live portal; **Atlanta in-region** \u00b7 Tracks: ML/AI/Data Viz, Hardware, Immersive AR/VR/XR, Social Good. Check-in Fri Sep 25 2\u20134 PM.",
+      "description": "Open to hackers of all backgrounds/skill levels; 1500+ expected \u00b7 Free for participants. **Travel reimbursement: historically yes** \u2014 confirm live portal (early windows may have closed). **In-region (GA)**. \u00b7 Tracks: ML/AI/Data Viz, Hardware, Immersive AR/VR/XR, Social Good. Check-in Fri Sep 25 2\u20134 PM. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Atlanta, GA \u2014 Klaus Center for Advanced Computing / Ferst Center area, Georgia Tech"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 25\u201327, 2026**",
       "deadlineLabel": "Register via hack.gt (early-bird/travel reimbursement windows may have closed Aug 28 \u2014 verify current status)",
-      "reward": "Free for participants; travel reimbursement historically offered \u2014 confirm live portal; **Atlanta in-region**",
-      "travel_reimbursement": "Free for participants; travel reimbursement historically offered \u2014 confirm live portal; **Atlanta in-region**",
+      "reward": "Free for participants. **Travel reimbursement: historically yes** \u2014 confirm live portal (early windows may have closed). **In-region (GA)**.",
+      "travel_reimbursement": "Free for participants. **Travel reimbursement: historically yes** \u2014 confirm live portal (early windows may have closed). **In-region (GA)**.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1749,15 +1751,15 @@
       "title": "HackHers 2026 \u2014 Girls Who Code @ Georgia State University",
       "organization": "Girls Who Code at GSU / MLH",
       "url": "https://hackhers.club/",
-      "description": "Student hackathon (diversity-focused); see event site for full rules \u00b7 Not stated; **in-region (Atlanta)** so stipend not required for inclusion \u00b7 Tracks released at kickoff. Listed on MLH 2027 season schedule as HackHers @GSU.",
+      "description": "Student hackathon (diversity-focused); see event site for full rules \u00b7 **Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement. \u00b7 Tracks released at kickoff. Listed on MLH 2027 season schedule as HackHers @GSU. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Atlanta, GA \u2014 Georgia State University College of Law, 85 Park Place NE"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 18\u201319, 2026**",
       "deadlineLabel": "Event imminent \u2014 check registration on hackhers.club / MLH",
-      "reward": "Not stated; **in-region (Atlanta)** so stipend not required for inclusion",
-      "travel_reimbursement": "Not stated; **in-region (Atlanta)** so stipend not required for inclusion",
+      "reward": "**Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "**Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1776,15 +1778,15 @@
       "title": "Hacklanta '26 \u2014 Georgia State University",
       "organization": "ProgSU / GSU / MLH",
       "url": "https://hacklanta.dev",
-      "description": "Ages 18+; college students; US only; teams up to 4 \u00b7 Free for accepted participants; $20,000 prize pool \u2014 **Atlanta in-region** \u00b7 1000+ builders expected. Sponsor fair + recruiting. Contact official@progsu.com.",
+      "description": "Ages 18+; college students; US only; teams up to 4 \u00b7 Free for accepted participants; $20,000 prize pool. **Travel reimbursement: no** / not stated. **In-region (GA)**.",
       "locations": [
         "Atlanta, GA \u2014 Student Center East Ballroom, Georgia State University"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 9\u201311, 2026** (36 hours)",
       "deadlineLabel": "Must apply at **hacklanta.dev** (Devpost alone is NOT enough)",
-      "reward": "Free for accepted participants; $20,000 prize pool \u2014 **Atlanta in-region**",
-      "travel_reimbursement": "Free for accepted participants; $20,000 prize pool \u2014 **Atlanta in-region**",
+      "reward": "Free for accepted participants; $20,000 prize pool. **Travel reimbursement: no** / not stated. **In-region (GA)**.",
+      "travel_reimbursement": "Free for accepted participants; $20,000 prize pool. **Travel reimbursement: no** / not stated. **In-region (GA)**.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1803,15 +1805,15 @@
       "title": "Hacklytics 2027: Digital Bloom \u2014 Georgia Tech",
       "organization": "Data Science @ GT / MLH",
       "url": "https://hacklytics.io/",
-      "description": "Open to hackers globally (data science / AI / ML focus); 1000+ expected \u00b7 Free food/swag listed; travel stipend not stated \u2014 **Atlanta in-region** \u00b7 Contact hello@hacklytics.io. Premier Southeast data science hackathon.",
+      "description": "Open to hackers globally (data science / AI / ML focus); 1000+ expected \u00b7 Free food/swag. **Travel reimbursement: no** / not stated. **In-region (GA)**. \u00b7 Contact hello@hacklytics.io. Premier Southeast data science hackathon. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Atlanta, GA \u2014 Klaus Advanced Computing Building, Georgia Tech"
       ],
       "datesConfirmed": true,
       "dateLabel": "**February 26\u201328, 2027** (36 hours)",
       "deadlineLabel": "Registration TBD on hacklytics.io \u2014 watch site",
-      "reward": "Free food/swag listed; travel stipend not stated \u2014 **Atlanta in-region**",
-      "travel_reimbursement": "Free food/swag listed; travel stipend not stated \u2014 **Atlanta in-region**",
+      "reward": "Free food/swag. **Travel reimbursement: no** / not stated. **In-region (GA)**.",
+      "travel_reimbursement": "Free food/swag. **Travel reimbursement: no** / not stated. **In-region (GA)**.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1830,15 +1832,15 @@
       "title": "HackNC 2026 \u2014 UNC Chapel Hill",
       "organization": "HackNC / UNC / MLH",
       "url": "https://form.typeform.com/to/VbwryQz0",
-      "description": "UNC students any age; non-UNC must be 18+; HS, undergrad, grad welcome; beginner-friendly \u00b7 Free food/swag; **no travel reimbursements this year** \u2014 **in-region (NC)** so included \u00b7 Fully in-person. Team size ~3\u20134. Free parking decks listed on FAQ.",
+      "description": "UNC students any age; non-UNC must be 18+; HS, undergrad, grad welcome; beginner-friendly \u00b7 Free food/swag. **Travel reimbursement: no** this year. **In-region (NC)** \u2014 included without reimbursement. \u00b7 Fully in-person. Team size ~3\u20134. Free parking decks listed on FAQ. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Chapel Hill, North Carolina"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 9\u201311, 2026** (per MLH schedule; ~24-hour hack)",
       "deadlineLabel": "Application:",
-      "reward": "Free food/swag; **no travel reimbursements this year** \u2014 **in-region (NC)** so included",
-      "travel_reimbursement": "Free food/swag; **no travel reimbursements this year** \u2014 **in-region (NC)** so included",
+      "reward": "Free food/swag. **Travel reimbursement: no** this year. **In-region (NC)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "Free food/swag. **Travel reimbursement: no** this year. **In-region (NC)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1858,15 +1860,15 @@
       "title": "JCON USA 2026 \u2014 Atlanta (with IBM TechXchange)",
       "organization": "JCON / IBM TechXchange",
       "url": "https://2026.usa.jcon.one",
-      "description": "Open tech conference (Java community + IBM TechXchange) \u00b7 Not stated; **in-region (Atlanta)** so stipend not required \u2014 check student tickets if offered \u00b7 Co-located with IBM TechXchange 2026 in downtown Atlanta.",
+      "description": "Open tech conference (Java community + IBM TechXchange) \u00b7 **Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement; check student tickets. \u00b7 Co-located with IBM TechXchange 2026 in downtown Atlanta. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Atlanta, GA \u2014 Georgia World Congress Center (Building C)"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 26\u201329, 2026**",
       "deadlineLabel": "Registration open \u2014 get tickets via jcon.one",
-      "reward": "Not stated; **in-region (Atlanta)** so stipend not required \u2014 check student tickets if offered",
-      "travel_reimbursement": "Not stated; **in-region (Atlanta)** so stipend not required \u2014 check student tickets if offered",
+      "reward": "**Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement; check student tickets.",
+      "travel_reimbursement": "**Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement; check student tickets.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1886,15 +1888,15 @@
       "title": "KubeCon + CloudNativeCon North America 2026",
       "organization": "CNCF / Linux Foundation",
       "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/",
-      "description": "Open source / cloud-native community; diversity + need-based scholarship categories \u00b7 **LF Registration Scholarships + Travel Funding** (coach airfare + lodging assistance when approved) \u2014 qualifies under out-of-region travel-funded rule \u00b7 confs.tech briefly listed wrong city/dates; live site confirms Salt Lake City Nov 9\u201312, 2026. Apply for scholarships/travel before registering if needed.",
+      "description": "Open source / cloud-native community; diversity + need-based scholarship categories \u00b7 **Travel reimbursement: yes** via LF Registration Scholarships + Travel Funding (coach airfare + lodging assistance when approved). **Out-of-region (UT)** \u2014 qualifies only because reimbursement/scholarship path exists. \u00b7 confs.tech briefly listed wrong city/dates; live site confirms Salt Lake City Nov 9\u201312, 2026. Apply for scholarships/travel before registering if needed. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Salt Lake City, Utah (Salt Palace)"
       ],
       "datesConfirmed": true,
       "dateLabel": "**November 9\u201312, 2026**",
       "deadlineLabel": "LF Registration Scholarships + Travel Fund \u2014 check attend nav on event site (deadlines vary)",
-      "reward": "**LF Registration Scholarships + Travel Funding** (coach airfare + lodging assistance when approved) \u2014 qualifies under out-of-region travel-funded rule",
-      "travel_reimbursement": "**LF Registration Scholarships + Travel Funding** (coach airfare + lodging assistance when approved) \u2014 qualifies under out-of-region travel-funded rule",
+      "reward": "**Travel reimbursement: yes** via LF Registration Scholarships + Travel Funding (coach airfare + lodging assistance when approved). **Out-of-region (UT)** \u2014 qualifies only because reimbursement/scholarship path exists.",
+      "travel_reimbursement": "**Travel reimbursement: yes** via LF Registration Scholarships + Travel Funding (coach airfare + lodging assistance when approved). **Out-of-region (UT)** \u2014 qualifies only because reimbursement/scholarship path exists.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1913,15 +1915,15 @@
       "title": "MLH Global Hack Week: Data \u2014 Digital",
       "organization": "Major League Hacking",
       "url": "https://events.mlh.io/events/14416-global-hack-week-data",
-      "description": "Open MLH digital week \u00b7 n/a; **clearly online** so included under geography filter \u00b7 Digital Global Hack Week focused on data. Archive after Sep 17 if past.",
+      "description": "Open MLH digital week \u00b7 n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed. \u00b7 Digital Global Hack Week focused on data. Archive after Sep 17 if past. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Online / Everywhere, Worldwide"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 11\u201317, 2026**",
       "deadlineLabel": "Event ongoing through Sep 17 \u2014 join ASAP if interested",
-      "reward": "n/a; **clearly online** so included under geography filter",
-      "travel_reimbursement": "n/a; **clearly online** so included under geography filter",
+      "reward": "n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed.",
+      "travel_reimbursement": "n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1942,15 +1944,15 @@
       "title": "RenderATL 2027 \u2014 Atlanta",
       "organization": "RenderATL",
       "url": "https://www.renderatl.com/",
-      "description": "Open registration; career fair / builders focus \u00b7 In-region (Atlanta); watch for student/community discounts \u00b7 2026 edition already passed (Aug 12\u201313, 2026). Tracking 2027 dates from live site.",
+      "description": "Open registration; career fair / builders focus \u00b7 **Travel reimbursement: no** / not advertised; watch student/community discounts. **In-region (GA)**.",
       "locations": [
         "Atlanta, GA (230 John Portman Blvd NW Building 2)"
       ],
       "datesConfirmed": true,
       "dateLabel": "**August 18\u201319, 2027** (+ Atlanta Tech Week side events)",
       "deadlineLabel": "Tickets on sale via renderatl.com",
-      "reward": "In-region (Atlanta); watch for student/community discounts",
-      "travel_reimbursement": "In-region (Atlanta); watch for student/community discounts",
+      "reward": "**Travel reimbursement: no** / not advertised; watch student/community discounts. **In-region (GA)**.",
+      "travel_reimbursement": "**Travel reimbursement: no** / not advertised; watch student/community discounts. **In-region (GA)**.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1970,15 +1972,15 @@
       "title": "CMD-IT Tapia Conference 2026 \u2014 Atlanta",
       "organization": "CMD-IT / Tapia",
       "url": "https://tapiaconference.cmd-it.org/",
-      "description": "Undergrad/grad students and professionals in computing \u00b7 Student scholarships historically cover registration + travel + hotel (deadlines mostly passed); **in-region (Atlanta)** so included regardless \u00b7 Focus themes: Frontier AI, Assistive Technologies, Cybersecurity. Urgent if still registering.",
+      "description": "Undergrad/grad students and professionals in computing \u00b7 Student scholarships historically cover registration + travel + hotel (many deadlines passed). **Travel reimbursement: scholarship-dependent**. **In-region (GA)** \u2014 included regardless. \u00b7 Focus themes: Frontier AI, Assistive Technologies, Cybersecurity. Urgent if still registering. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Hyatt Regency Atlanta, Georgia"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 16\u201318, 2026**",
       "deadlineLabel": "Main student scholarship deadline was earlier (Mar 2026); registration may still be open \u2014 check site ASAP",
-      "reward": "Student scholarships historically cover registration + travel + hotel (deadlines mostly passed); **in-region (Atlanta)** so included regardless",
-      "travel_reimbursement": "Student scholarships historically cover registration + travel + hotel (deadlines mostly passed); **in-region (Atlanta)** so included regardless",
+      "reward": "Student scholarships historically cover registration + travel + hotel (many deadlines passed). **Travel reimbursement: scholarship-dependent**. **In-region (GA)** \u2014 included regardless.",
+      "travel_reimbursement": "Student scholarships historically cover registration + travel + hotel (many deadlines passed). **Travel reimbursement: scholarship-dependent**. **In-region (GA)** \u2014 included regardless.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -1997,15 +1999,15 @@
       "title": "VTHacks 14 \u2014 Virginia Tech",
       "organization": "VTHacks / Virginia Tech / MLH",
       "url": "https://vthacks.com/",
-      "description": "Open to students including first-years and non-CS; non-VT students welcome (see FAQ on site) \u00b7 **Selective travel reimbursements** offered for attendees not from Blacksburg \u00b7 Theme \u201cCode for the Cup.\u201d Free to participate. Apply ASAP \u2014 event is this weekend.",
+      "description": "Open to students including first-years and non-CS; non-VT students welcome (see FAQ on site) \u00b7 **Travel reimbursement: yes \u2014 selective** for attendees not from Blacksburg. Free to participate. **In-region (VA)**. \u00b7 Theme \u201cCode for the Cup.\u201d Free to participate. Apply ASAP \u2014 event is this weekend. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Blacksburg, Virginia (in-person; exact venue pending on site)"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 18\u201320, 2026** (~36 hours)",
       "deadlineLabel": "Applications **now open** (as of site check)",
-      "reward": "**Selective travel reimbursements** offered for attendees not from Blacksburg",
-      "travel_reimbursement": "**Selective travel reimbursements** offered for attendees not from Blacksburg",
+      "reward": "**Travel reimbursement: yes \u2014 selective** for attendees not from Blacksburg. Free to participate. **In-region (VA)**.",
+      "travel_reimbursement": "**Travel reimbursement: yes \u2014 selective** for attendees not from Blacksburg. Free to participate. **In-region (VA)**.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -2024,15 +2026,15 @@
       "title": "WolfHacks by ACM at NC State \u2014 Fall 2026",
       "organization": "ACM at NC State / MLH",
       "url": "https://wolfhacks.org/",
-      "description": "Student hackathon (see site) \u00b7 Not stated; **in-region (NC)** so stipend not required \u00b7 Distinct from Hack_NCState (Feb 2027). New on MLH 2027 season list this scan.",
+      "description": "Student hackathon (see site) \u00b7 **Travel reimbursement: no** / not stated. **In-region (NC)** \u2014 included without reimbursement. \u00b7 Distinct from Hack_NCState (Feb 2027). New on MLH 2027 season list this scan. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Raleigh, NC"
       ],
       "datesConfirmed": true,
       "dateLabel": "**October 3\u20134, 2026**",
       "deadlineLabel": "Event registration \u2014 check wolfhacks.org / MLH (imminent relative to Oct)",
-      "reward": "Not stated; **in-region (NC)** so stipend not required",
-      "travel_reimbursement": "Not stated; **in-region (NC)** so stipend not required",
+      "reward": "**Travel reimbursement: no** / not stated. **In-region (NC)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "**Travel reimbursement: no** / not stated. **In-region (NC)** \u2014 included without reimbursement.",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
@@ -2043,6 +2045,293 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://wolfhacks.org/"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "AWS Student Builder Group Leaders (formerly Cloud Club Captains)",
+      "organization": "Amazon Web Services (AWS)",
+      "url": "https://builder.aws.com/community/student-builder-groups",
+      "description": "18+; actively enrolled in a post-secondary institution. Membership/leadership **open to any enrolled learner** \u2014 **no citizenship requirement**. International students at U.S. campuses eligible. Class of 2029 OK. \u00b7 Non-paid leadership; AWS support for events/community; cloud skilling resources \u00b7 **International eligibility: yes**. Formerly \u201cAWS Cloud Clubs / Captains.\u201d Check if Rutgers/Livingston already has a group; otherwise apply to start one.",
+      "locations": [
+        "Campus-based globally (groups listed worldwide)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Ongoing leadership term once approved; start a new group if none exists",
+      "deadlineLabel": "Rolling \u2014 apply via AWS Builder Center Student Builder Groups",
+      "reward": "Non-paid leadership; AWS support for events/community; cloud skilling resources",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://builder.aws.com/community/student-builder-groups"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "Google Developer Groups (GDG) on Campus \u2014 Lead",
+      "organization": "Google for Developers / Google Developer Groups",
+      "url": "https://developers.google.com/community/gdsc",
+      "description": "Currently enrolled university student with enough time left to serve a lead term. Program spans **international campuses**; **no general citizenship bar** on Google\u2019s community pages. Class of 2029 OK. \u00b7 Non-paid lead role; Google developer resources, event support, community recognition \u00b7 **International eligibility: yes** (global campus program; formerly GDSC). Confirm Rutgers campus chapter status before applying as lead vs. member.",
+      "locations": [
+        "University campus chapters worldwide (100+ countries)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Academic-year leadership cohort (apply when regional lead window opens)",
+      "deadlineLabel": "Periodic lead application windows \u2014 watch GDG on Campus lead page",
+      "reward": "Non-paid lead role; Google developer resources, event support, community recognition",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://developers.google.com/community/gdsc"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "GitHub Campus Experts",
+      "organization": "GitHub Education",
+      "url": "https://education.github.com/campus_experts",
+      "description": "18+; enrolled in formal higher-ed institution; GitHub account \u22656 months; GitHub Student Developer Pack verified; **>1 year remaining before graduation**. **No citizenship / nationality bar** \u2014 program is global. Class of 2029 OK (has >1 year left). \u00b7 Training, mentorship, community support; campus event support historically available (confirm cohort terms) \u00b7 **International eligibility: yes** (global student leaders). Application form + video resume. Prep Student Developer Pack + campus community plan before July window.",
+      "locations": [
+        "Global (campus-based; training remote)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "~6-week training after acceptance; ongoing campus community leadership",
+      "deadlineLabel": "Applications open **every July** for about one month \u2014 next window **July 2027** (watch site; July 2026 window may have closed)",
+      "reward": "Training, mentorship, community support; campus event support historically available (confirm cohort terms)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://education.github.com/campus_experts"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "Google Summer of Code (GSoC)",
+      "organization": "Google Open Source",
+      "url": "https://summerofcode.withgoogle.com/",
+      "description": "18+ at registration; student **or** open-source beginner; eligible to work in country of residence; not in U.S.-embargoed country; accepted into GSoC \u22641 time previously. **International students eligible** (incl. F-1 \u2014 consult school for CPT/OPT; Google does not issue CPT letters beyond acceptance email). Class of 2029 OK. \u00b7 Stipend by project size + country of residence (paid in installments after evaluations) \u00b7 **International eligibility: yes**. Prep: contribute to mentoring orgs Nov\u2013Feb before apps. Mutual exclusivity with Outreachy (past GSoC \u2192 ineligible for Outreachy).",
+      "locations": [
+        "Remote (worldwide)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Annual; coding typically late spring\u2013summer (flexible 8\u201322 weeks). **GSoC 2026 contributor apps already closed** (Mar 2026). Watch **GSoC 2027** timeline.",
+      "deadlineLabel": "Contributor application window usually ~2 weeks in March \u2014 monitor summerofcode.withgoogle.com for 2027 dates",
+      "reward": "Stipend by project size + country of residence (paid in installments after evaluations)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://summerofcode.withgoogle.com/"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "IEEE Computer Society Richard E. Merwin Student Scholarship (Student Ambassador)",
+      "organization": "IEEE Computer Society",
+      "url": "https://www.computer.org/volunteering/awards/scholarships/merwin",
+      "description": "Full-time undergrad in **final two years** OR graduate student in EE/CompE/CS/IT-related field; active IEEE Computer Society member \u22653 months before deadline; GPA \u22652.5/4.0; \u22651 year remaining or continuing study. **No citizenship restriction stated** \u2014 international student members eligible. Class of 2029: become eligible once in final two years (~2027\u20132029); join IEEE CS + student branch now. \u00b7 Up to **US $1,000**; program pools **$40,000** in student scholarships; winners serve as Student Ambassadors \u00b7 **International eligibility: yes** (no citizenship bar on official criteria). Dual fit: scholarship + ambassadorship. Progress reports required at 6 and 12 months.",
+      "locations": [
+        "Global (student branch / chapter based)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Award tenure ~1 year as IEEE CS Student Ambassador",
+      "deadlineLabel": "**30 April** and **30 September** each year",
+      "reward": "Up to **US $1,000**; program pools **$40,000** in student scholarships; winners serve as Student Ambassadors",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.computer.org/volunteering/awards/scholarships/merwin"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "Microsoft Student Ambassadors",
+      "organization": "Microsoft",
+      "url": "https://mvp.microsoft.com/studentambassadors",
+      "description": "Age 18+; full-time student at accredited college/university; Azure for Students account; not a Microsoft employee/contractor. **International students welcome** (no citizenship requirement). Students in Cuba, Iran, North Korea, Sudan, Syria, Russia, Belarus, and Crimea ineligible (export rules). F-1 students should confirm with DSO that participation fits status. Class of 2029 OK. \u00b7 Non-paid ambassadorship; swag, Microsoft Learn resources, rotations with Microsoft teams, @studentambassadors.com email, certificate, community benefits \u00b7 **International eligibility: yes** (restricted countries listed above). Registration-based (no gatekeeping interview). Strong for Azure/AI skilling + campus leadership.",
+      "locations": [
+        "Global / remote + campus (worldwide; export-restricted regions excluded)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Rolling registration; milestone-based membership year-round",
+      "deadlineLabel": "Rolling \u2014 no application interview; register anytime",
+      "reward": "Non-paid ambassadorship; swag, Microsoft Learn resources, rotations with Microsoft teams, @studentambassadors.com email, certificate, community benefits",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://mvp.microsoft.com/studentambassadors"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "MLH Fellowship",
+      "organization": "Major League Hacking (MLH)",
+      "url": "https://fellowship.mlh.com/",
+      "description": "18+; proficient in \u22651 language; English; prior MLH hackathon or Global Hack Week; reside in a **non\u2013U.S.-embargoed** country. **Open to international applicants worldwide** (FAQ). Production Engineering track limited to US/Canada/Mexico. **APAC projects currently limited** \u2014 applicants from many APAC countries may not be matched until demand returns. International students in the U.S. may need CPT \u2014 consult school. Class of 2029 OK. \u00b7 Educational stipend **or** university credits depending on track (per 2026 FAQ) \u00b7 **International eligibility: yes** (embargo exceptions; APAC matching caution). Do MLH Global Hack Week / regional hack first if needed for eligibility. Prefer non\u2013Prod-Eng tracks if outside North America.",
+      "locations": [
+        "Remote (timezone pods: ET / PT / GMT / IST)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Year-round batches (~12 weeks, ~20 hrs/week). Example: **Fall 2026 Web3 track Sep 14 \u2013 Dec 4, 2026**. Apply for later batches if Fall already started.",
+      "deadlineLabel": "Rolling; applications close a few weeks before each batch start",
+      "reward": "Educational stipend **or** university credits depending on track (per 2026 FAQ)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://fellowship.mlh.com/"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Outreachy \u2014 Open Source Internship / Fellowship",
+      "organization": "Outreachy / Software Freedom Conservancy",
+      "url": "https://www.outreachy.org/",
+      "description": "18+ by cohort start; faces underrepresentation/bias in local tech industry; **open to applicants around the world**. Visa must allow **30 hrs/week**. **U.S. F-1 students typically need CPT**; Outreachy can provide CPT docs if selected. Past GSoC interns ineligible. Class of 2029 \u2192 target **May\u2013Aug 2027** cohort. \u00b7 **$7,000** stipend for the internship term \u00b7 **International eligibility: yes** (core design). Do **not** apply to Dec 2026 cohort as a Northern Hemisphere undergrad \u2014 wait for May 2027 round. Coordinate CPT early with Livingston/Rutgers DSO if selected.",
+      "locations": [
+        "Remote (worldwide)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Two cohorts/year: **May\u2013August** and **December\u2013March**. Next Dec cohort: **Dec 7, 2026 \u2013 Mar 8, 2027** (30 hrs/week). **Northern Hemisphere university students (incl. U.S.) are only eligible for the May\u2013August cohort.**",
+      "deadlineLabel": "Initial applications open before each cohort contribution period \u2014 subscribe on outreachy.org (system currently closed between rounds)",
+      "term": "Two cohorts/year: **May\u2013August** and **December\u2013March**. Next Dec cohort: **Dec 7, 2026 \u2013 Mar 8, 2027** (30 hrs/week). **Northern Hemisphere university students (incl. U.S.) are only eligible for the May\u2013August cohort.**",
+      "reward": "**$7,000** stipend for the internship term",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.outreachy.org/"
+      }
+    },
+    {
+      "category": "scholarships",
+      "kind": "scholarship",
+      "title": "MPOWER Global Citizen Scholarship",
+      "organization": "MPOWER Financing",
+      "url": "https://www.mpowerfinancing.com/scholarships/global-citizen",
+      "description": "Accepted/enrolled full-time at an **MPOWER-supported** U.S. or Canadian school; **international student** (valid U.S. study visa, DACA, or U.S. PR) or Canadian study permit/PR as applicable. **U.S. citizens studying in the U.S. are NOT eligible** (scholarship is for international/DACA). **Rutgers University\u2013New Brunswick is on MPOWER\u2019s supported-schools list** (Livingston College / Rutgers NB). No need to be an MPOWER borrower. \u00b7 **$8,000** grand prize; **$2,000** and **$1,000** runner-up awards (tuition/fees/expenses via school) \u00b7 **International eligibility: required** (program is international/DACA-specific). Essay-based. Re-check portal frequently \u2014 capacity message may clear before Dec 31 deadline.",
+      "locations": [
+        "U.S. or Canada school of attendance (funds paid to school)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "2026 scholarship period through **Dec 31, 2026**",
+      "deadlineLabel": "**December 31, 2026** 11:59 p.m. EST \u2014 **note:** site currently says funding capacity for 2026 reached / temporarily not accepting new apps \u2014 **watch for reopen or next cycle**",
+      "reward": "**$8,000** grand prize; **$2,000** and **$1,000** runner-up awards (tuition/fees/expenses via school)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "scholarships",
+        "scholarship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.mpowerfinancing.com/scholarships/global-citizen"
+      }
+    },
+    {
+      "category": "scholarships",
+      "kind": "scholarship",
+      "title": "MPOWER Women in STEM Scholarship",
+      "organization": "MPOWER Financing",
+      "url": "https://www.mpowerfinancing.com/scholarships/women-in-stem",
+      "description": "**Female** international/DACA students enrolled or accepted full-time in a **STEM** degree at an MPOWER-eligible U.S./Canadian school. Immigration: F-1, U.S. PR/Green Card, or DACA (U.S.) / study permit or PR (Canada). **International students only** (not for U.S. citizens studying in U.S.). Rutgers NB is MPOWER-supported. \u00b7 **$5,000** first place; **$2,000** and **$1,000** additional awards \u00b7 **International eligibility: required**. STEM-focused sibling of Global Citizen Scholarship. Confirm current portal open status (same org may pause intakes when capacity hit).",
+      "locations": [
+        "U.S. or Canada MPOWER-eligible school"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "2026 cycle through **Dec 31, 2026**",
+      "deadlineLabel": "**December 31, 2026** 11:59 p.m. EST",
+      "reward": "**$5,000** first place; **$2,000** and **$1,000** additional awards",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "scholarships",
+        "scholarship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.mpowerfinancing.com/scholarships/women-in-stem"
+      }
+    },
+    {
+      "category": "scholarships",
+      "kind": "scholarship",
+      "title": "Out to Innovate\u2122 Scholarships (LGBTQ+ STEM)",
+      "organization": "Out to Innovate (NOGLSTP); Motorola Solutions Foundation funds tech/engineering awards",
+      "url": "https://www.outtoinnovate.org/scholarships",
+      "description": "LGBTQ+ member or ally undergrad; min **2 years** post-high-school at accredited **U.S.** college/university completed; GPA \u22652.75; declared STEM/STEM-teaching major; eligible for fall registration; not under disciplinary sanction. Official page lists **no U.S. citizenship requirement** \u2014 international students at U.S. schools meeting the U.S.-college criteria appear eligible. Class of 2029: verify 2-year completion by Spring 2027 cycle. \u00b7 Historically **~$2,000\u2013$2,500+** per award (varies by funder/year); tuition/fees/books/research \u2014 **not** living stipend \u00b7 **International eligibility: no citizenship bar stated** (must study at accredited U.S. college). Undergrads only as of 2025+. Need two faculty/community references.",
+      "locations": [
+        "U.S. accredited college/university (funds to school)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Fall disbursement for academic year awards",
+      "deadlineLabel": "2026\u201327 portal **closed Jun 30, 2026**. Next cycle begins **Spring 2027** for 2027\u201328 academic year",
+      "reward": "Historically **~$2,000\u2013$2,500+** per award (varies by funder/year); tuition/fees/books/research \u2014 **not** living stipend",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "scholarships",
+        "scholarship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.outtoinnovate.org/scholarships"
       }
     },
     {
