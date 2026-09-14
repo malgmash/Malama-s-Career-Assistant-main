@@ -1,7 +1,7 @@
 {
   "updated": "2026-09-14",
   "source": "MALG Assistant Opportunity Dropbox",
-  "count": 63,
+  "count": 73,
   "opportunities": [
     {
       "kind": "internship",
@@ -129,6 +129,31 @@
     },
     {
       "kind": "internship",
+      "title": "Data Scientist Intern \u2014 2027 Summer Games \u2014 Booz Allen (McLean)",
+      "organization": "Booz Allen Hamilton",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+      "description": "Scheduled to obtain a **Bachelor\u2019s degree** in Technology, Engineering, or Mathematics by **Winter/Summer 2028 or Summer 2029** (Class of 2029 OK); ability to obtain a Secret clearance \u00b7 Paid (typical Booz Allen intern) \u2014 confirm on apply \u00b7 Verified Workday description for Summer 2029 bachelor\u2019s window.",
+      "locations": [
+        "McLean, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 University Summer Games program",
+      "deadlineLabel": "Applications open \u2014 apply early (clearance process)",
+      "term": "Summer 2027 \u2014 University Summer Games program",
+      "reward": "Paid (typical Booz Allen intern) \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Software Engineer Intern, Summer 2027 \u2014 Booz Allen (Fayetteville, NC)",
       "organization": "Booz Allen",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
@@ -150,6 +175,31 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Developer Intern \u2014 2027 Summer Games \u2014 Booz Allen (McLean)",
+      "organization": "Booz Allen Hamilton",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+      "description": "Scheduled to obtain a **Bachelor\u2019s degree** in Technology, Engineering, or Mathematics by **Spring 2028 or Spring 2029** (Class of 2029 OK); ability to obtain a Secret clearance \u00b7 Paid (typical Booz Allen intern) \u2014 confirm on apply \u00b7 Distinct from Booz Allen Fayetteville SWE already in dropbox. Verified Workday description: Spring 2028 or Spring 2029 bachelor\u2019s.",
+      "locations": [
+        "McLean, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 University Summer Games program",
+      "deadlineLabel": "Applications open \u2014 apply early (clearance process)",
+      "term": "Summer 2027 \u2014 University Summer Games program",
+      "reward": "Paid (typical Booz Allen intern) \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
       }
     },
     {
@@ -200,6 +250,55 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "React/Node Developer Intern \u2014 Summer 2027 \u2014 Dev Technology Group (Reston)",
+      "organization": "Dev Technology Group",
+      "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002",
+      "description": "Rising juniors and seniors toward bachelor\u2019s in CS/IT/related; application form includes **graduating 2027, 2028, or 2029** (or recent grad); US citizenship required; must be able to obtain public trust clearance; rising senior strongly preferred \u00b7 Paid \u2014 confirm on apply / FAQ PDF on company site \u00b7 Class of 2029 = rising junior for Summer 2027 \u2014 fits \u201crising juniors and seniors\u201d; senior preferred.",
+      "locations": [
+        "Reston, VA (DC metro)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Applications open \u2014 see Greenhouse posting",
+      "term": "Summer 2027",
+      "reward": "Paid \u2014 confirm on apply / FAQ PDF on company site",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 ENFOS (Durham)",
+      "organization": "ENFOS, Inc.",
+      "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/",
+      "description": "Currently pursuing a degree in CS, Software Engineering, Computer Engineering, or related; strong DS/algorithms/OOP fundamentals \u2014 **no grad-year cutoff** stated \u00b7 **Competitive paid** internship; possible part-time continuation during school year \u00b7 Environmental obligation SaaS platform; enterprise engineering exposure.",
+      "locations": [
+        "Durham, NC (also Chicago, IL listed)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 flexible rolling start/end to fit academic calendar",
+      "deadlineLabel": "Applications open \u2014 apply early",
+      "term": "Summer 2027 \u2014 flexible rolling start/end to fit academic calendar",
+      "reward": "**Competitive paid** internship; possible part-time continuation during school year",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/"
       }
     },
     {
@@ -604,6 +703,82 @@
     },
     {
       "kind": "internship",
+      "title": "Data Analytics Intern \u2014 FAR Program \u2014 Summer 2027 \u2014 LPL Financial (Charlotte / Fort Mill)",
+      "organization": "LPL Financial Holdings",
+      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053",
+      "description": "Currently enrolled as a **sophomore or junior** pursuing a bachelor\u2019s degree; **3.0 GPA** minimum; data visualization tools (e.g. Power BI, Python); Class of 2029 typically sophomore in Fall 2026 \u2014 **eligible** \u00b7 Paid \u2014 confirm on apply \u00b7 Offer contingent on bachelor\u2019s completion path, background screen, local to Fort Mill/Charlotte.",
+      "locations": [
+        "Fort Mill, SC / Charlotte, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
+      "deadlineLabel": "**Priority application date: September 25, 2026 at 11:59 PM PST**",
+      "term": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Data Engineer Intern \u2014 Summer 2027 \u2014 LPL Financial (Charlotte / Fort Mill)",
+      "organization": "LPL Financial Holdings",
+      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
+      "description": "Currently pursuing a **bachelor\u2019s or master\u2019s** in CS, MIS, Data Science, Analytics, Engineering, Math, or related \u2014 no hard grad-year cutoff stated \u00b7 Paid \u2014 confirm on apply \u00b7 Verified via Workday CXS. Apply by Sep 21 for priority consideration.",
+      "locations": [
+        "Fort Mill, SC / Charlotte, NC (also Austin, TX on posting)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
+      "deadlineLabel": "**Priority application date: September 21, 2026 at 11:59 PM PST**",
+      "term": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
+      "reward": "Paid \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 LPL Financial (Charlotte / Fort Mill)",
+      "organization": "LPL Financial Holdings",
+      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921",
+      "description": "Currently pursuing a **bachelor\u2019s or master\u2019s** in CS, MIS, software engineering, or related \u2014 **no hard grad-year cutoff** stated \u00b7 Paid internship \u2014 confirm on apply \u00b7 Priority consideration for apps by Sep 21. Local to Fort Mill/Charlotte preferred.",
+      "locations": [
+        "Fort Mill, SC / Charlotte, NC (also Austin, TX on posting)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks, 40 hrs)",
+      "deadlineLabel": "**Priority application date: September 21, 2026 at 11:59 PM PST** (rolling after)",
+      "term": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks, 40 hrs)",
+      "reward": "Paid internship \u2014 confirm on apply",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Software Development Intern \u2014 Summer 2027 \u2014 McKesson",
       "organization": "McKesson (High Volume Solutions Inc.)",
       "url": "https://careers.mckesson.com/en/job/irving/software-development-intern-summer-2027/733/100099796528",
@@ -856,6 +1031,31 @@
     },
     {
       "kind": "internship",
+      "title": "Software Engineering Intern (US) \u2014 Summer 2027 \u2014 TELUS Digital",
+      "organization": "TELUS Digital",
+      "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11",
+      "description": "Plan to graduate **Fall/Winter 2027 or later** (Class of 2029 OK); mobile/web development experience (Swift, Java, Kotlin, etc.); must be authorized to work permanently in the U.S. (no visa sponsorship) \u00b7 **Paid** internship \u00b7 Verified via Ashby posting API. Hybrid presence required Tue\u2013Thu.",
+      "locations": [
+        "Durham, NC; Charlottesville, VA; Columbus, OH (hybrid in-office Tue\u2013Thu)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 full-time ~40 hrs/week",
+      "deadlineLabel": "Applications open (posted ~Aug 28, 2026) \u2014 apply early",
+      "term": "Summer 2027 \u2014 full-time ~40 hrs/week",
+      "reward": "**Paid** internship",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Software Engineer Intern (TikTok Developer Platform) \u2014 2027 Summer",
       "organization": "TikTok",
       "url": "https://lifeattiktok.com/search/7667935739300792629",
@@ -877,6 +1077,30 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://lifeattiktok.com/search/7667935739300792629"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Intern \u2014 Applications, AI and Machine Learning \u2014 Spring 2027 \u2014 TMEIC (Roanoke)",
+      "organization": "TMEIC Corporation Americas",
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/",
+      "description": "Enrolled in **Bachelor of Science** in Computer Science, Data Science, Mathematics, or related (coursework in data analysis/ETL/visualization); visa sponsorship not available; not benefits-eligible \u00b7 Internship compensation \u2014 confirm on apply (not benefits-eligible) \u00b7 Spring 2027 term (not summer). Domestic travel up to ~5%.",
+      "locations": [
+        "Roanoke, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Spring 2027",
+      "deadlineLabel": "Applications open \u2014 apply early",
+      "term": "Spring 2027",
+      "reward": "Internship compensation \u2014 confirm on apply (not benefits-eligible)",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/"
       }
     },
     {
@@ -1299,6 +1523,29 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://form.typeform.com/to/VbwryQz0"
+      }
+    },
+    {
+      "kind": "conference",
+      "title": "JCON USA 2026 \u2014 Atlanta (with IBM TechXchange)",
+      "organization": "JCON / IBM TechXchange",
+      "url": "https://2026.usa.jcon.one",
+      "description": "Open tech conference (Java community + IBM TechXchange) \u00b7 Not stated; **in-region (Atlanta)** so stipend not required \u2014 check student tickets if offered \u00b7 Co-located with IBM TechXchange 2026 in downtown Atlanta.",
+      "locations": [
+        "Atlanta, GA \u2014 Georgia World Congress Center (Building C)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**October 26\u201329, 2026**",
+      "deadlineLabel": "Registration open \u2014 get tickets via jcon.one",
+      "reward": "Not stated; **in-region (Atlanta)** so stipend not required \u2014 check student tickets if offered",
+      "tags": [
+        "malg-dropbox",
+        "hackathons_conferences"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://2026.usa.jcon.one"
       }
     },
     {
