@@ -10,10 +10,10 @@
   },
   "count": 87,
   "counts_by_category": {
-    "internships": 56,
+    "internships": 55,
     "conferences_summits_workshops": 9,
     "hackathons": 12,
-    "fellowships_and_ambassadorships": 7,
+    "fellowships_and_ambassadorships": 8,
     "scholarships": 3
   },
   "opportunities": [
@@ -2230,9 +2230,9 @@
       }
     },
     {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Outreachy \u2014 Open Source Internship / Fellowship",
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "Outreachy \u2014 Open Source Fellowship",
       "organization": "Outreachy / Software Freedom Conservancy",
       "url": "https://www.outreachy.org/",
       "description": "18+ by cohort start; faces underrepresentation/bias in local tech industry; **open to applicants around the world**. Visa must allow **30 hrs/week**. **U.S. F-1 students typically need CPT**; Outreachy can provide CPT docs if selected. Past GSoC interns ineligible. Class of 2029 \u2192 target **May\u2013Aug 2027** cohort. \u00b7 **$7,000** stipend for the internship term \u00b7 **International eligibility: yes** (core design). Do **not** apply to Dec 2026 cohort as a Northern Hemisphere undergrad \u2014 wait for May 2027 round. Coordinate CPT early with Livingston/Rutgers DSO if selected.",
@@ -2242,13 +2242,12 @@
       "datesConfirmed": true,
       "dateLabel": "Two cohorts/year: **May\u2013August** and **December\u2013March**. Next Dec cohort: **Dec 7, 2026 \u2013 Mar 8, 2027** (30 hrs/week). **Northern Hemisphere university students (incl. U.S.) are only eligible for the May\u2013August cohort.**",
       "deadlineLabel": "Initial applications open before each cohort contribution period \u2014 subscribe on outreachy.org (system currently closed between rounds)",
-      "term": "Two cohorts/year: **May\u2013August** and **December\u2013March**. Next Dec cohort: **Dec 7, 2026 \u2013 Mar 8, 2027** (30 hrs/week). **Northern Hemisphere university students (incl. U.S.) are only eligible for the May\u2013August cohort.**",
       "reward": "**$7,000** stipend for the internship term",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
-        "internships",
-        "internship"
+        "fellowships_and_ambassadorships",
+        "fellowship"
       ],
       "source": {
         "id": "malg-dropbox",
