@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "source": "MALG Assistant Opportunity Dropbox",
-  "count": 43,
+  "count": 63,
   "opportunities": [
     {
       "kind": "internship",
@@ -50,6 +50,56 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Product Manager Intern \u2014 Appian (McLean)",
+      "organization": "Appian",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
+      "description": "Bachelor's or Master's in CS/CE; **must return to school after Summer 2027** \u2192 Class of 2029 OK \u00b7 Paid (amount not in public snippet) \u00b7 Eligibility verified via Greenhouse.",
+      "locations": [
+        "McLean, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (~10 weeks full-time)",
+      "deadlineLabel": "Interviews from August 2026 \u2014 apply ASAP",
+      "term": "Summer 2027 (~10 weeks full-time)",
+      "reward": "Paid (amount not in public snippet)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/appian/jobs/8041243"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Appian (McLean)",
+      "organization": "Appian",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+      "description": "Currently pursuing Bachelor's or Master's in CS/CE; **must return to school after Summer 2027** (Greenhouse) \u2192 Class of 2029 OK \u00b7 Paid (amount not in public snippet) \u00b7 Eligibility verified via Greenhouse job content.",
+      "locations": [
+        "McLean, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (~10 weeks full-time)",
+      "deadlineLabel": "Interviews scheduling noted from August 2026 onward \u2014 apply ASAP",
+      "term": "Summer 2027 (~10 weeks full-time)",
+      "reward": "Paid (amount not in public snippet)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
       }
     },
     {
@@ -178,6 +228,30 @@
     },
     {
       "kind": "internship",
+      "title": "Frontend Programmer Intern \u2014 Epic Games (Cary)",
+      "organization": "Epic Games",
+      "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
+      "description": "Must be legally authorized to work in the U.S.; Bachelor's track per Simplify; no hard 2026\u20132028-only grad cutoff found in Greenhouse content \u00b7 Paid (Epic intern) \u00b7 Complements existing Backend Services Programmer Intern (Cary) file.",
+      "locations": [
+        "Cary, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Flexible start in **2027** (recruiting ongoing until teams match)",
+      "deadlineLabel": "Ongoing until filled",
+      "term": "Flexible start in **2027** (recruiting ongoing until teams match)",
+      "reward": "Paid (Epic intern)",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Software Engineer Intern, Winter 2027 \u2014 Figma",
       "organization": "Figma",
       "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
@@ -203,6 +277,31 @@
     },
     {
       "kind": "internship",
+      "title": "AI Engineer Intern \u2014 Finastra (Atlanta)",
+      "organization": "Finastra",
+      "url": "https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079",
+      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Confirm Class of 2029 / return-to-school on application.",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Summer 2027 Data Science Intern \u2014 First National Bank (FNB)",
       "organization": "First National Bank / F.N.B. Corporation",
       "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/fnbcorp/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016",
@@ -224,6 +323,31 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/fnbcorp/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Developer Intern, Single-Family \u2014 Freddie Mac (McLean)",
+      "organization": "Freddie Mac",
+      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+      "description": "Bachelor's (Simplify degrees) \u00b7 Paid (amount not listed) \u00b7 Related Multifamily SWE intern also live (JR17564). Confirm Class of 2029 eligibility on application.",
+      "locations": [
+        "McLean, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
       }
     },
     {
@@ -349,6 +473,133 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Data Engineer Intern \u2014 The Hartford Tech & Data (Charlotte)",
+      "organization": "The Hartford",
+      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648",
+      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Data-track role; verify eligibility details on Workday.",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 Tech & Data Program",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027 \u2014 Tech & Data Program",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 The Hartford Tech & Data (Charlotte)",
+      "organization": "The Hartford",
+      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
+      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Confirm return-to-school / Class of 2029 on posting.",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 Tech & Data Program",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027 \u2014 Tech & Data Program",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Data Science & Analytics Intern \u2014 The Home Depot (Atlanta)",
+      "organization": "The Home Depot",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968",
+      "description": "Undergrad/Bachelor's-friendly listing (distinct from PhD Data Science Req191948 which was excluded) \u00b7 Paid (amount not listed) \u00b7 Hard-excluded companion PhD-only Data Science intern. Verify degree requirements on application.",
+      "locations": [
+        "Atlanta, GA (Store Support Center)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling / not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Product Management Intern \u2014 The Home Depot (Atlanta)",
+      "organization": "The Home Depot",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931",
+      "description": "Bachelor's degree track (Simplify degrees = Bachelor's) \u00b7 Paid (amount not listed) \u00b7 Separate PhD Data Science posting excluded. Confirm eligibility details on Workday.",
+      "locations": [
+        "Atlanta, GA (Store Support Center)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling / not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 The Home Depot (Atlanta)",
+      "organization": "The Home Depot",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937",
+      "description": "Bachelor's degree track (Simplify degrees = Bachelor's); undergrad SWE \u00b7 Paid (typical corporate intern; amount not in listing) \u00b7 Soft-filtered via Simplify metadata (Bachelor's). Confirm return-to-school / grad year on Workday application.",
+      "locations": [
+        "Atlanta, GA (Store Support Center)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling / not stated on Simplify listing \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (typical corporate intern; amount not in listing)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937"
       }
     },
     {
@@ -479,6 +730,82 @@
     },
     {
       "kind": "internship",
+      "title": "Summer 2027 Intern \u2014 Software Engineer \u2014 Salesforce",
+      "organization": "Salesforce",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771",
+      "description": "Pursuing BS/MS in CS or related; **returning to school after Summer 2027** to complete degree; enrolled in North America college/university (Workday CXS) \u2192 Class of 2029 OK \u00b7 Paid Futureforce intern (benefits may apply) \u00b7 Prefer Atlanta if available in app flow.",
+      "locations": [
+        "Multiple U.S. (incl. **Atlanta, GA**, SF, Seattle, NYC, Indianapolis, Bellevue, Burlington MA, Palo Alto)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 Futureforce campus recruiting; apply early",
+      "term": "Summer 2027",
+      "reward": "Paid Futureforce intern (benefits may apply)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Sierra Nevada Corporation (Southern Pines)",
+      "organization": "Sierra Nevada Corporation",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
+      "description": "Bachelor's (Simplify degrees) \u00b7 Paid (amount not listed) \u00b7 Confirm clearance / grad-year details on Workday if prompted.",
+      "locations": [
+        "Southern Pines, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Software Development Internship \u2014 SimonComputing (Alexandria)",
+      "organization": "SimonComputing",
+      "url": "https://simoncomputing.applicantpro.com/jobs/4115690",
+      "description": "Bachelor's (Simplify degrees) \u00b7 Not stated \u00b7 Smaller VA shop; verify eligibility and sponsorship on ApplicantPro.",
+      "locations": [
+        "Alexandria, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Not stated",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://simoncomputing.applicantpro.com/jobs/4115690"
+      }
+    },
+    {
+      "kind": "internship",
       "title": "Summer 2027 Software Engineering Internship/Co-op \u2014 SpaceX",
       "organization": "SpaceX",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
@@ -553,11 +880,111 @@
       }
     },
     {
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Trimble",
+      "organization": "Trimble",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
+      "description": "Bachelor's (Simplify degrees) \u00b7 Paid (amount not listed) \u00b7 Prefer Atlanta if selectable; confirm eligibility on Workday.",
+      "locations": [
+        "Multiple U.S. incl. **Atlanta, GA**, Westminster CO, Sunnyvale CA, Dayton OH, Knoxville TN, and others"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Data Analyst Intern \u2014 Vanguard College to Corporate IT (Charlotte)",
+      "organization": "Vanguard",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767",
+      "description": "Bachelor's or Master's (Simplify); College to Corporate IT \u00b7 Paid (amount not listed) \u00b7 Confirm grad-year eligibility on application.",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Data Science Intern \u2014 Vanguard College to Corporate IT (Charlotte)",
+      "organization": "Vanguard",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
+      "description": "Bachelor's or Master's (Simplify); College to Corporate IT program \u00b7 Paid (amount not listed) \u00b7 Confirm Class of 2029 / return-to-school wording on Workday.",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Technical Product Manager Intern \u2014 Vanguard College to Corporate IT",
+      "organization": "Vanguard",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969",
+      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Prefer Charlotte if offered; confirm eligibility on Workday.",
+      "locations": [
+        "Dallas, TX / Malvern, PA / **Charlotte, NC**"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Not stated \u2014 apply early",
+      "term": "Summer 2027",
+      "reward": "Paid (amount not listed)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969"
+      }
+    },
+    {
       "kind": "conference",
       "title": "All Things Open 2026 \u2014 Research Triangle (NC)",
       "organization": "All Things Open",
       "url": "https://2026.allthingsopen.org/",
-      "description": "Students / underrepresented applicants eligible for scholarships; educational discounts available \u00b7 Student & underrepresented scholarships + educational discounts (limited) \u00b7 Largest OSS/tech conference on U.S. East Coast. Volunteer CFP also open.",
+      "description": "Students / underrepresented applicants eligible for scholarships; educational discounts available \u00b7 Student & underrepresented scholarships + educational discounts (limited) \u00b7 Largest OSS/tech conference on U.S. East Coast. Volunteer CFP also open. **Scan 2026-09-14:** homepage still pushing registration for Oct 19\u201320; summer-pricing-through-Sep-18 window still relevant (4 days left) \u2014 verify on 2026.allthingsopen.org scholarships/discounts.",
       "locations": [
         "Research Triangle Park / Raleigh\u2013Durham area, North Carolina"
       ],
@@ -898,6 +1325,30 @@
       }
     },
     {
+      "kind": "hackathon",
+      "title": "MLH Global Hack Week: Data \u2014 Digital",
+      "organization": "Major League Hacking",
+      "url": "https://events.mlh.io/events/14416-global-hack-week-data",
+      "description": "Open MLH digital week \u00b7 n/a; **clearly online** so included under geography filter \u00b7 Digital Global Hack Week focused on data. Archive after Sep 17 if past.",
+      "locations": [
+        "Online / Everywhere, Worldwide"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**September 11\u201317, 2026**",
+      "deadlineLabel": "Event ongoing through Sep 17 \u2014 join ASAP if interested",
+      "reward": "n/a; **clearly online** so included under geography filter",
+      "tags": [
+        "malg-dropbox",
+        "hackathons_conferences",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://events.mlh.io/events/14416-global-hack-week-data"
+      }
+    },
+    {
       "kind": "conference",
       "title": "RenderATL 2027 \u2014 Atlanta",
       "organization": "RenderATL",
@@ -964,6 +1415,52 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://vthacks.com/"
+      }
+    },
+    {
+      "kind": "conference",
+      "title": "VueConf US 2026 \u2014 Atlanta",
+      "organization": "VueConf US",
+      "url": "https://vueconf.us/",
+      "description": "Open registration; student discounts not clearly advertised on homepage \u2014 still **in-region Atlanta** \u00b7 Not required (Atlanta); check site for any student rate \u00b7 Dates confirmed on live vueconf.us. Event is before Summer 2027 internships \u2014 good regional networking.",
+      "locations": [
+        "Georgia Tech Learning Center, Midtown Atlanta, GA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**May 19\u201321, 2026** (workshops May 19; conference May 20\u201321)",
+      "deadlineLabel": "Tickets on sale (late individual pricing listed on site at scan)",
+      "reward": "Not required (Atlanta); check site for any student rate",
+      "tags": [
+        "malg-dropbox",
+        "hackathons_conferences"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://vueconf.us/"
+      }
+    },
+    {
+      "kind": "hackathon",
+      "title": "WolfHacks by ACM at NC State \u2014 Fall 2026",
+      "organization": "ACM at NC State / MLH",
+      "url": "https://wolfhacks.org/",
+      "description": "Student hackathon (see site) \u00b7 Not stated; **in-region (NC)** so stipend not required \u00b7 Distinct from Hack_NCState (Feb 2027). New on MLH 2027 season list this scan.",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**October 3\u20134, 2026**",
+      "deadlineLabel": "Event registration \u2014 check wolfhacks.org / MLH (imminent relative to Oct)",
+      "reward": "Not stated; **in-region (NC)** so stipend not required",
+      "tags": [
+        "malg-dropbox",
+        "hackathons_conferences"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://wolfhacks.org/"
       }
     },
     {
