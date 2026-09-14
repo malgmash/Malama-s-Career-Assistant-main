@@ -1,7 +1,7 @@
 {
   "updated": "2026-09-14",
   "source": "MALG Assistant Opportunity Dropbox",
-  "count": 81,
+  "count": 76,
   "opportunities": [
     {
       "kind": "internship",
@@ -25,31 +25,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Software Engineer Intern, Summer 2027 \u2014 Anduril",
-      "organization": "Anduril Industries",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
-      "description": "Pursuing bachelor\u2019s or master\u2019s in CS/SWE/Math/Physics/related; **must return to school after internship** for \u22651 quarter/semester (Class of 2029 OK); U.S. Person (export control) \u00b7 Paid \u00b7 Verified Greenhouse description: returning-to-school required. Prefer Atlanta or Reston for region.",
-      "locations": [
-        "Atlanta, GA; Reston, VA; plus Boston, Seattle, Costa Mesa/Irvine, CO sites (in-person)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 paid 12-week in-person internship",
-      "deadlineLabel": "Rolling / while live on Greenhouse",
-      "term": "Summer 2027 \u2014 paid 12-week in-person internship",
-      "reward": "Paid",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
       }
     },
     {
@@ -125,156 +100,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://jobs.boeing.com/en/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Data Scientist Intern \u2014 Summer Games 2027 \u2014 Booz Allen (Atlanta)",
-      "organization": "Booz Allen Hamilton",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
-      "description": "Scheduled to obtain a **Bachelor\u2019s** in a Technology, Engineering, or Mathematics field by **Summer 2028 or Summer 2029** \u2014 Class of 2029 eligible. Ability to obtain Secret clearance. \u00b7 Paid \u2014 confirm on apply \u00b7 Distinct from McLean DS posting already in Dropbox. Atlanta in-region. Clearance investigation likely.",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 (Summer Games program)",
-      "deadlineLabel": "Rolling / posting open (Workday validThrough ~2026-12-02)",
-      "term": "Summer 2027 (Summer Games program)",
-      "reward": "Paid \u2014 confirm on apply",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Data Scientist Intern \u2014 2027 Summer Games \u2014 Booz Allen (McLean)",
-      "organization": "Booz Allen Hamilton",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
-      "description": "Scheduled to obtain a **Bachelor\u2019s degree** in Technology, Engineering, or Mathematics by **Winter/Summer 2028 or Summer 2029** (Class of 2029 OK); ability to obtain a Secret clearance \u00b7 Paid (typical Booz Allen intern) \u2014 confirm on apply \u00b7 Verified Workday description for Summer 2029 bachelor\u2019s window.",
-      "locations": [
-        "McLean, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 University Summer Games program",
-      "deadlineLabel": "Applications open \u2014 apply early (clearance process)",
-      "term": "Summer 2027 \u2014 University Summer Games program",
-      "reward": "Paid (typical Booz Allen intern) \u2014 confirm on apply",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Software Engineer Intern, Summer 2027 \u2014 Booz Allen (Fayetteville, NC)",
-      "organization": "Booz Allen",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
-      "description": "Bachelor\u2019s per SimplifyJobs listing; confirm citizenship/clearance notes on posting \u00b7 Paid \u00b7 Workday shell \u2014 open posting from listing; verify Class of 2029 eligibility on apply form.",
-      "locations": [
-        "Fayetteville, North Carolina"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "While live on Workday",
-      "term": "Summer 2027",
-      "reward": "Paid",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Software Developer Intern \u2014 2027 Summer Games \u2014 Booz Allen (McLean)",
-      "organization": "Booz Allen Hamilton",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
-      "description": "Scheduled to obtain a **Bachelor\u2019s degree** in Technology, Engineering, or Mathematics by **Spring 2028 or Spring 2029** (Class of 2029 OK); ability to obtain a Secret clearance \u00b7 Paid (typical Booz Allen intern) \u2014 confirm on apply \u00b7 Distinct from Booz Allen Fayetteville SWE already in dropbox. Verified Workday description: Spring 2028 or Spring 2029 bachelor\u2019s.",
-      "locations": [
-        "McLean, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 University Summer Games program",
-      "deadlineLabel": "Applications open \u2014 apply early (clearance process)",
-      "term": "Summer 2027 \u2014 University Summer Games program",
-      "reward": "Paid (typical Booz Allen intern) \u2014 confirm on apply",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Junior Software Engineer Intern \u2014 Summer 2027 \u2014 Clarity Innovations (Herndon/Reston VA)",
-      "organization": "Clarity Innovations",
-      "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007",
-      "description": "Pursuing a **BS** in Computer Engineering, Computer Science, or related \u2014 US citizenship required (ability to obtain/maintain Top Secret). School-year options include Class of 2029 on application form. \u00b7 Paid \u2014 confirm on apply \u00b7 \"Junior\" = role level, not rising-junior-only. VA DC-metro. Clearance path.",
-      "locations": [
-        "Herndon, VA (listing also Reston, VA metro)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid \u2014 confirm on apply",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 Collier Aerospace (Newport News VA)",
-      "organization": "Collier Aerospace",
-      "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51",
-      "description": "In-progress **bachelor\u2019s** in Computer Science, Software Engineering, or related; **US citizen required**. No Class-of cutoff excluding 2029. \u00b7 Paid \u2014 confirm on apply \u00b7 VA in-region. C#/related OOP preferred per posting.",
-      "locations": [
-        "Newport News, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid \u2014 confirm on apply",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
       }
     },
     {
@@ -375,54 +200,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "AI/ML Intern \u2014 Summer 2027 \u2014 Dev Technology Group (Reston VA)",
-      "organization": "Dev Technology Group",
-      "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002",
-      "description": "Bachelor\u2019s-track per Simplify degrees field; same employer family as existing React/Node Reston intern \u2014 undergrad AI/ML \u00b7 Paid \u2014 confirm on apply \u00b7 Additional Reston role beyond existing React/Node intern file. VA DC-metro.",
-      "locations": [
-        "Reston, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid \u2014 confirm on apply",
-      "tags": [
-        "malg-dropbox",
-        "internships"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "React/Node Developer Intern \u2014 Summer 2027 \u2014 Dev Technology Group (Reston)",
-      "organization": "Dev Technology Group",
-      "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002",
-      "description": "Rising juniors and seniors toward bachelor\u2019s in CS/IT/related; application form includes **graduating 2027, 2028, or 2029** (or recent grad); US citizenship required; must be able to obtain public trust clearance; rising senior strongly preferred \u00b7 Paid \u2014 confirm on apply / FAQ PDF on company site \u00b7 Class of 2029 = rising junior for Summer 2027 \u2014 fits \u201crising juniors and seniors\u201d; senior preferred.",
-      "locations": [
-        "Reston, VA (DC metro)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Applications open \u2014 see Greenhouse posting",
-      "term": "Summer 2027",
-      "reward": "Paid \u2014 confirm on apply / FAQ PDF on company site",
-      "tags": [
-        "malg-dropbox",
-        "internships"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002"
       }
     },
     {
@@ -646,31 +423,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers.garmin.com/jobs/20131?icims=1"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 General Dynamics Mission Systems (Manassas VA)",
-      "organization": "General Dynamics Mission Systems",
-      "url": "https://careers-gdms.icims.com/jobs/74880/job",
-      "description": "Must be **enrolled** in accredited CE/SE/Software/related degree; preference for **sophomore or higher** \u2014 Class of 2029 OK. **US citizenship required**; clearance requirements apply. \u00b7 Paid \u2014 confirm on apply \u00b7 VA in-region defense SWE. Sophomore+ preference fits Livingston Class of 2029.",
-      "locations": [
-        "Manassas, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 (posting validThrough ~2027-09-10)",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027 (posting validThrough ~2027-09-10)",
-      "reward": "Paid \u2014 confirm on apply",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://careers-gdms.icims.com/jobs/74880/job"
       }
     },
     {
@@ -979,31 +731,6 @@
     },
     {
       "kind": "internship",
-      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Medtronic",
-      "organization": "Medtronic",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
-      "description": "Working toward BS/MS in CE, SE, CS, or related; anticipated graduation **Winter 2027, Spring 2028, Winter 2028, or Spring 2029**; must be currently authorized to work in U.S. \u2014 **no sponsorship** (F-1 CPT/OPT and other temporary visas not eligible) \u00b7 Paid \u2014 **$26.50\u2013$45.25/hr** (varies by years of school completed); housing assistance & relocation for eligible interns \u00b7 Req R73630. Posted 2026-08-01. Preferred GPA 3.0+. Must reside in U.S. for internship duration.",
-      "locations": [
-        "Primary hubs MN, CA, CO, CT, MA; also AZ, FL, MI, TN, TX \u2014 hybrid/onsite (min 4 days/week onsite)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 full-time 40 hrs/week; semester cohort **Jun 1\u2013Aug 13** or quarter **Jun 14\u2013Aug 20** (~10\u201311 weeks)",
-      "deadlineLabel": "Anticipated close **October 16, 2026** (`validThrough` on posting)",
-      "term": "Summer 2027 \u2014 full-time 40 hrs/week; semester cohort **Jun 1\u2013Aug 13** or quarter **Jun 14\u2013Aug 20** (~10\u201311 weeks)",
-      "reward": "Paid \u2014 **$26.50\u2013$45.25/hr** (varies by years of school completed); housing assistance & relocation for eligible interns",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1"
-      }
-    },
-    {
-      "kind": "internship",
       "title": "Software Engineer Intern \u2014 Palantir (Washington, DC)",
       "organization": "Palantir Technologies",
       "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
@@ -1025,31 +752,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Summer 2027 Data Science Intern \u2014 Peraton",
-      "organization": "Peraton",
-      "url": "https://www.careers.peraton.com/jobs/summer-2027-data-science-intern-herndon-virginia-170320-jobs--cms-engineering--",
-      "description": "U.S. Citizenship; actively enrolled at 4-year university; program geared to rising juniors/seniors but **strong underclassmen may be considered** if major declared + qualified coursework; progress toward BS in data science, analytics, CS, computer engineering, or related; Python/R/Spark/SQL foundations \u00b7 Paid \u2014 **$25.00/hour+** \u00b7 Req ID 2026-170320. IRAD / Agile environment; ML frameworks (TensorFlow, scikit-learn, PyTorch, etc.).",
-      "locations": [
-        "Herndon, VA or Blacksburg, VA (Strategic Innovation Centers); flexible occasional telework \u2014 must be local"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **10 weeks** (June\u2013August); 35\u201340 hrs/week",
-      "deadlineLabel": "Application period estimated ~30 days from posting (check live page); apply while open",
-      "term": "Summer 2027 \u2014 **10 weeks** (June\u2013August); 35\u201340 hrs/week",
-      "reward": "Paid \u2014 **$25.00/hour+**",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://www.careers.peraton.com/jobs/summer-2027-data-science-intern-herndon-virginia-170320-jobs--cms-engineering--"
       }
     },
     {
@@ -1100,6 +802,225 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers.principal.com/jobs/52513?icims=1"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Robotics Institute Summer Scholars (RISS) \u2014 Carnegie Mellon University",
+      "organization": "Carnegie Mellon University \u2014 Robotics Institute",
+      "url": "https://riss.ri.cmu.edu/",
+      "description": "Current undergrads with \u22651 full semester remaining after the program and \u22652 full-time undergrad semesters completed before start. **International students OK** if full-time degree-seeking at a U.S. institution, CPT-eligible, and legally able to receive financial support. Not for students attending university outside the U.S. Class of 2029 at Livingston College fits. \u00b7 Financial support / scholarship for all participants (details in offer letter). Housing not provided (guides offered). \u00b7 Pathways to Science (Non-U.S. Citizens / CS filter). Official FAQ confirms international students at U.S. colleges eligible via CPT. Pathways hub still echoes older NSF-citizen language \u2014 trust CMU FAQ. Prep posters/papers from prior RISS cohorts before applying.",
+      "locations": [
+        "Pittsburgh, PA (in-person immersion)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Typically ~10 weeks early June\u2013early August (RISS 2026 ran Jun 1\u2013Aug 8; watch for Summer 2027 dates)",
+      "deadlineLabel": "Applications typically **Nov 1 \u2013 mid/late January** (RISS 2026 closed Jan 21, 2026 3pm ET). Expect **Nov 2026\u2013Jan 2027** window for next cohort \u2014 confirm on site.",
+      "term": "Typically ~10 weeks early June\u2013early August (RISS 2026 ran Jun 1\u2013Aug 8; watch for Summer 2027 dates)",
+      "reward": "Financial support / scholarship for all participants (details in offer letter). Housing not provided (guides offered).",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://riss.ri.cmu.edu/"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Equitech Futures Institute \u2014 AI & Data Science for Societal Challenges",
+      "organization": "Equitech Futures (listed via Aspen Global Change Institute on Pathways)",
+      "url": "https://www.equitechfutures.com/program/esp",
+      "description": "Currently enrolled undergrads (any discipline), max age 25 at program start, able to commit ~20\u201325 hrs/week. **Funds International Students** (Pathways). No STEM major required. Class of 2029 OK. \u00b7 Fully funded \u2014 full tuition scholarship / no tuition cost for admitted scholars (listed program tuition otherwise ~$10,000). \u00b7 Pathways Non-U.S. Citizens + Computer Sciences / AI search. Application historically includes EFI Scholar Challenge on FuturesHub. Not a corporate SWE internship \u2014 research/learning institute format.",
+      "locations": [
+        "Global cohort-based **online** program"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Eight weeks (2026 cohort: Jun 15\u2013Aug 7, 2026). Watch for **2027** cohort.",
+      "deadlineLabel": "2026 written apps closed **Apr 20, 2026**. Site offers \u201cRemind Me for 2027 Cohort\u201d \u2014 set reminder; expect winter/spring 2027 open.",
+      "term": "Eight weeks (2026 cohort: Jun 15\u2013Aug 7, 2026). Watch for **2027** cohort.",
+      "reward": "Fully funded \u2014 full tuition scholarship / no tuition cost for admitted scholars (listed program tuition otherwise ~$10,000).",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.equitechfutures.com/program/esp"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Summer Geometry Initiative (SGI) \u2014 MIT",
+      "organization": "Massachusetts Institute of Technology (MIT)",
+      "url": "https://sgi.mit.edu/how-apply/",
+      "description": "Current undergrad or master\u2019s students with background in CS, mathematics, or related. **International students invited** (except persons ordinarily resident in comprehensively sanctioned countries / Treasury-blocked parties; honoraria subject to tax rules). No prior geometry-processing research required. Class of 2029 OK. \u00b7 Paid \u2014 stipends/honoraria to help cover expenses / opportunity cost of six weeks. \u00b7 Pathways to Science marks Funds International Students. Strong fit for CS/math undergrads interested in 3D, computer vision, scientific computing.",
+      "locations": [
+        "Remote (online), full-time engagement"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Six weeks summer (SGI 2026: Jul 6\u2013Aug 14). Watch for Summer 2027 dates.",
+      "deadlineLabel": "SGI 2026 applications due **Feb 18, 2026** (closed). Expect similar ~February window for 2027 \u2014 monitor",
+      "term": "Six weeks summer (SGI 2026: Jul 6\u2013Aug 14). Watch for Summer 2027 dates.",
+      "reward": "Paid \u2014 stipends/honoraria to help cover expenses / opportunity cost of six weeks.",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://sgi.mit.edu/how-apply/"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Rosetta Commons Research Experience for Undergraduates (REU)",
+      "organization": "Rosetta Commons (multi-institution; NSF-supported)",
+      "url": "https://www.rosettacommons.org/about/intern",
+      "description": "Sophomores/juniors preferred; major in CS, engineering, mathematics, chemistry, biology, and/or biophysics. **International students actively pursuing a bachelor\u2019s degree in the United States are eligible.** International students studying outside the U.S. are not. Graduating before program start not eligible. Class of 2029 OK. \u00b7 **$6,000** stipend + housing + paid travel + sustenance allowance \u00b7 Pathways Non-U.S. Citizens + Computer Sciences. Starts with Rosetta/PyRosetta Code School; projects may include AI/ML. Computational \u2014 not wet-lab primary.",
+      "locations": [
+        "Distributed U.S. lab sites (varies by project \u2014 e.g. Northeastern, Rutgers, UIUC, etc.)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Typically early June\u2013early August (~9 weeks; 2026: Jun 1\u2013Aug 7 including Code School + conference)",
+      "deadlineLabel": "Summer 2026 applications **closed**. Watch  for Summer 2027 open (historically winter).",
+      "term": "Typically early June\u2013early August (~9 weeks; 2026: Jun 1\u2013Aug 7 including Code School + conference)",
+      "reward": "**$6,000** stipend + housing + paid travel + sustenance allowance",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.rosettacommons.org/about/intern"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Undergraduate Complexity Research (UCR) \u2014 Santa Fe Institute",
+      "organization": "Santa Fe Institute (SFI)",
+      "url": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research",
+      "description": "Undergrads (first-year through junior; college seniors graduating before December not eligible). **Applicants from any country welcome**; non-U.S. citizens/PR receive visa sponsorship assistance as appropriate. Class of 2029 OK. \u00b7 **$7,000** stipend ($700/week) + housing + meals + travel support; no tuition \u00b7 Pathways Funds International Students / AI-adjacent search. Theory + methods + data across physical/natural/social sciences \u2014 prefer if interested in computational modeling beyond classic SWE.",
+      "locations": [
+        "Santa Fe, NM (residential, in-person)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "10 weeks summer (2026: May 31\u2013Aug 8). Next cycle TBA \u2014 watch site after Nov 2026.",
+      "deadlineLabel": "2026 cycle closed; site says return **November 2026** for next summer\u2019s info. Typical undergrad research deadlines winter/early spring.",
+      "term": "10 weeks summer (2026: May 31\u2013Aug 8). Next cycle TBA \u2014 watch site after Nov 2026.",
+      "reward": "**$7,000** stipend ($700/week) + housing + meals + travel support; no tuition",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Data Science in Oceanography Undergraduate Summer Program \u2014 University of Washington",
+      "organization": "University of Washington \u2014 School of Oceanography",
+      "url": "https://www.ocean.washington.edu/story/Data_Science_in_Oceanography_Undergraduate_Summer_Program",
+      "description": "Current undergrads (and gap-year after college) with programming experience + interest in oceanography/data science. **International students welcome**, including those aiming at U.S. grad programs. Program does **not** sponsor U.S. visas \u2014 foreign students must arrange travel independently if accepted. Class of 2029 OK. \u00b7 Confirm on current cycle page (Pathways lists Funds International Students; housing/meals FAQ on UW site) \u00b7 Pathways Non-U.S. Citizens + CS search. Keep for 2027 cycle awareness; verify stipend/housing when 2027 posting appears.",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Recurring late-summer intensive (~second half of August; 2025 ran Aug 11\u201322). Exact 2027 dates when apps open.",
+      "deadlineLabel": "2026 deadline was **May 31, 2026** (closed). Watch UW page for 2027 open/close.",
+      "term": "Recurring late-summer intensive (~second half of August; 2025 ran Aug 11\u201322). Exact 2027 dates when apps open.",
+      "reward": "Confirm on current cycle page (Pathways lists Funds International Students; housing/meals FAQ on UW site)",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.ocean.washington.edu/story/Data_Science_in_Oceanography_Undergraduate_Summer_Program"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "SSEC Summer Programming Internship \u2014 University of Wisconsin\u2013Madison",
+      "organization": "Space Science and Engineering Center (SSEC), University of Wisconsin\u2013Madison",
+      "url": "https://www.ssec.wisc.edu/summer-internships/",
+      "description": "Undergrads completing freshman year or higher (also MS). Must be **authorized to work in the U.S.** F-1 students may participate with home-institution CPT/authorization. **Some** positions may require U.S. citizenship/PR due to funding \u2014 apply and filter those. Class of 2029 OK. \u00b7 Paid \u2014 minimum **$17/hr**, up to 40 hrs/week; rate based on experience \u00b7 Pathways Funds International Students. Core work is coding for atmospheric/space research systems (data ingest, archival, etc.). Skip individual projects that state citizen-only when listings post in Jan.",
+      "locations": [
+        "Madison, WI"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 31 \u2013 Aug 6, 2027** (per SSEC timeline)",
+      "deadlineLabel": "Project list ~**Jan 8, 2027**; application link live **Jan 22, 2027**; deadline **Feb 19, 2027**; interviews/offers Mar 5\u201326, 2027",
+      "term": "Summer 2027 \u2014 **May 31 \u2013 Aug 6, 2027** (per SSEC timeline)",
+      "reward": "Paid \u2014 minimum **$17/hr**, up to 40 hrs/week; rate based on experience",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.ssec.wisc.edu/summer-internships/"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Biomedical Engineering & Informatics Summer Research Internship \u2014 Wake Forest",
+      "organization": "Wake Forest University School of Medicine \u2014 Biomedical Engineering & Center for Artificial Intelligence Research",
+      "url": "https://school.wakehealth.edu/departments/biomedical-engineering/center-for-injury-biomechanics/summer-research-opportunities",
+      "description": "Undergrads at a U.S. academic institution; must not graduate before program start. Open to **U.S. citizens/nationals/PR and international students on J-1 or F-1** at a U.S. institution (**limited** international slots due to grant rules). Class of 2029 OK. \u00b7 Internship stipend + on-campus housing \u00b7 Pathways Funds International Students. Prefer informatics/AI project tracks over pure wet-lab/injury biomechanics if multiple options. Highly competitive (~600+ apps/year).",
+      "locations": [
+        "Winston-Salem, NC (Innovation Quarter) \u2014 in-region for Livingston"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "~10 weeks (2026: May 26\u2013Jul 31). Watch for Summer 2027 dates.",
+      "deadlineLabel": "2026 deadline was **Jan 30, 2026** (apps typically open October). Expect **Oct 2026\u2013Jan 2027** for next cycle \u2014 confirm on site.",
+      "term": "~10 weeks (2026: May 26\u2013Jul 31). Watch for Summer 2027 dates.",
+      "reward": "Internship stipend + on-campus housing",
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://school.wakehealth.edu/departments/biomedical-engineering/center-for-injury-biomechanics/summer-research-opportunities"
+      }
+    },
+    {
+      "kind": "internship",
+      "title": "Biostatistics Summer Internship \u2014 Weill Cornell Medicine",
+      "organization": "Weill Cornell Medicine \u2014 Division of Biostatistics",
+      "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship",
+      "description": "Undergrads (all years). Open to **U.S. citizens/PR or international students studying at a U.S. university**. R coding helpful but not required. Class of 2029 at Livingston OK. \u00b7 **$5,000** stipend + housing + travel reimbursement + conference funding the following year \u00b7 Pathways Non-U.S. Citizens + CS/AI search (Funds International Students). Applied health research using R; poster presentation. Strong data-analytics fit (not wet-lab).",
+      "locations": [
+        "New York, NY"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**Jun 7 \u2013 Jul 23, 2027**",
+      "deadlineLabel": "**Feb 19, 2027**",
+      "term": "**Jun 7 \u2013 Jul 23, 2027**",
+      "reward": "**$5,000** stipend + housing + travel reimbursement + conference funding the following year",
+      "tags": [
+        "malg-dropbox",
+        "internships"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship"
       }
     },
     {
@@ -1205,31 +1126,6 @@
     },
     {
       "kind": "internship",
-      "title": "Summer 2027 Software Engineering Internship/Co-op \u2014 SpaceX",
-      "organization": "SpaceX",
-      "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
-      "description": "Enrolled in bachelor\u2019s or graduate program; 3+ months programming experience; C/C++/C#/Java/JavaScript/Python; must be U.S. citizen/national, LPR, refugee, or asylee (ITAR). Freshman/sophomore pay band listed \u2014 no graduation-year cutoff \u00b7 Paid \u2014 Freshman/Sophomore **$30/hr**; Junior/Senior **$34/hr**; possible relocation stipend; medical; paid holidays \u00b7 Promoted by @zero2sudo (Aug 2026). Own transportation required for Brownsville, Cape Canaveral, McGregor.",
-      "locations": [
-        "Flexible \u2014 any SpaceX site (Bastrop TX, Brownsville TX, Cape Canaveral FL, Hawthorne CA, Irvine CA, McGregor TX, Palo Alto CA, Redmond WA)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 full-time onsite minimum **12 consecutive weeks** beginning May or June 2027",
-      "deadlineLabel": "Not stated on posting (published ~2026-08-03); apply while live",
-      "term": "Summer 2027 \u2014 full-time onsite minimum **12 consecutive weeks** beginning May or June 2027",
-      "reward": "Paid \u2014 Freshman/Sophomore **$30/hr**; Junior/Senior **$34/hr**; possible relocation stipend; medical; paid holidays",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://boards.greenhouse.io/spacex/jobs/8621757002"
-      }
-    },
-    {
-      "kind": "internship",
       "title": "Software Engineer Intern (Summer or Winter) \u2014 Stripe",
       "organization": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745",
@@ -1251,31 +1147,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://stripe.com/jobs/search?gh_jid=8128745"
-      }
-    },
-    {
-      "kind": "internship",
-      "title": "Software Engineering Intern (US) \u2014 Summer 2027 \u2014 TELUS Digital",
-      "organization": "TELUS Digital",
-      "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11",
-      "description": "Plan to graduate **Fall/Winter 2027 or later** (Class of 2029 OK); mobile/web development experience (Swift, Java, Kotlin, etc.); must be authorized to work permanently in the U.S. (no visa sponsorship) \u00b7 **Paid** internship \u00b7 Verified via Ashby posting API. Hybrid presence required Tue\u2013Thu.",
-      "locations": [
-        "Durham, NC; Charlottesville, VA; Columbus, OH (hybrid in-office Tue\u2013Thu)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 full-time ~40 hrs/week",
-      "deadlineLabel": "Applications open (posted ~Aug 28, 2026) \u2014 apply early",
-      "term": "Summer 2027 \u2014 full-time ~40 hrs/week",
-      "reward": "**Paid** internship",
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
       }
     },
     {
