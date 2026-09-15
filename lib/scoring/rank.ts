@@ -20,6 +20,30 @@ type RankOutputRow = {
   blockers: string[];
 };
 
+// Observed in practice: on some batches the model puts the array as a
+// JSON-encoded string under `rankings` instead of a real nested array
+// (still schema-conformant per the tool's declared type, `string` was never
+// promised, but Anthropic's tool-use doesn't hard-enforce nested array
+// types the same way a strict JSON Schema validator would). Handle both
+// shapes rather than rejecting a batch outright for it.
+function extractRankings(input: unknown): unknown[] | null {
+  if (typeof input !== 'object' || input === null) return null;
+  const rankings = (input as { rankings?: unknown }).rankings;
+  if (Array.isArray(rankings)) return rankings;
+  if (typeof rankings === 'string') {
+    try {
+      const parsed = JSON.parse(rankings);
+      if (Array.isArray(parsed)) return parsed;
+      if (Array.isArray((parsed as { rankings?: unknown })?.rankings)) {
+        return (parsed as { rankings: unknown[] }).rankings;
+      }
+    } catch {
+      return null;
+    }
+  }
+  return null;
+}
+
 function isRankOutputRow(value: unknown): value is RankOutputRow {
   if (typeof value !== 'object' || value === null) return false;
   const v = value as Record<string, unknown>;
@@ -127,14 +151,14 @@ export async function rankBatch(
     throw new Error('rankBatch: model did not call submit_rankings');
   }
 
-  const input = toolUse.input as { rankings?: unknown };
-  if (!Array.isArray(input.rankings)) {
+  const rankings = extractRankings(toolUse.input);
+  if (!rankings) {
     throw new Error('rankBatch: submit_rankings input missing a rankings array');
   }
 
   const batchIds = new Set(batch.map((o) => o.id));
   const results: MatchResult[] = [];
-  for (const row of input.rankings) {
+  for (const row of rankings) {
     if (!isRankOutputRow(row) || !batchIds.has(row.opportunity_id)) continue;
     results.push({
       opportunityId: row.opportunity_id,
