@@ -10,7 +10,7 @@ const MODEL = 'claude-sonnet-5';
 export const BATCH_SIZE = 20; // per prompts/rank.v1.md's stated batch contract
 const MAX_DESCRIPTION_CHARS = 2000; // cost guardrail, not a content decision
 
-const PROMPT_PATH = fileURLToPath(new URL('../../prompts/rank.v1.md', import.meta.url));
+const PROMPT_PATH = fileURLToPath(new URL('../../prompts/rank.v2.md', import.meta.url));
 
 type RankOutputRow = {
   opportunity_id: string;

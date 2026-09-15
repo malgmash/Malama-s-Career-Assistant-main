@@ -7,7 +7,8 @@
 // docs/PROMPTS.md. Lives here (not rank.ts) because rank.ts pulls in
 // node:fs and the Anthropic SDK, neither safe to import from the
 // client-side ranked feed page, which only needs this string.
-export const RANK_PROMPT_VERSION = 'rank.v1';
+// v2: added the US-location requirement below.
+export const RANK_PROMPT_VERSION = 'rank.v2';
 
 // Pass 1 (rules.ts) only filters on this. "newgrad" is intentionally
 // excluded — not an active interest right now.
@@ -30,6 +31,10 @@ All kinds:
 - Must not exclude international students. Explicit U.S.-citizenship or
   permanent-residency requirements are disqualifying. Silence on the topic
   is not disqualifying.
+- Must be based in the United States, or remote with no country restriction
+  stated. A posting whose location is explicitly outside the U.S. (e.g.
+  "Tokyo, Japan", "Remote in Canada") is disqualifying, even if the role
+  itself would otherwise fit.
 
 Internships:
 - Open to undergraduate / bachelor's-level students. Postings restricted to
