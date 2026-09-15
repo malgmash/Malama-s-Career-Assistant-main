@@ -64,6 +64,35 @@ function renderPrompt(template: string, profileSummary: string, batch: Opportuni
     .replace('{{POSTINGS_JSON}}', JSON.stringify(buildPostingsPayload(batch), null, 2));
 }
 
+// Forcing a tool call gets a schema-conformant JSON object back directly
+// (response.content has a tool_use block with a pre-parsed `input`), instead
+// of asking the model to follow a "no prose, no code fences" instruction in
+// free text and hoping it complies — which it did not, in practice.
+const SUBMIT_RANKINGS_TOOL: Anthropic.Tool = {
+  name: 'submit_rankings',
+  description: 'Submit the eligibility and fit ranking for every posting in POSTINGS, in the same order.',
+  input_schema: {
+    type: 'object',
+    properties: {
+      rankings: {
+        type: 'array',
+        items: {
+          type: 'object',
+          properties: {
+            opportunity_id: { type: 'string' },
+            score: { type: 'number' },
+            eligible: { type: 'boolean' },
+            reasoning: { type: 'string' },
+            blockers: { type: 'array', items: { type: 'string' } },
+          },
+          required: ['opportunity_id', 'score', 'eligible', 'reasoning', 'blockers'],
+        },
+      },
+    },
+    required: ['rankings'],
+  },
+};
+
 // Batches survivors of Pass 1 (rules.ts) through the Anthropic API per
 // prompts/rank.v1.md. Returns one MatchResult per posting the model
 // returned a valid row for — an invalid or missing row for a posting is
@@ -86,27 +115,26 @@ export async function rankBatch(
   const response = await client.messages.create({
     model: MODEL,
     max_tokens: 4096,
+    tools: [SUBMIT_RANKINGS_TOOL],
+    tool_choice: { type: 'tool', name: 'submit_rankings' },
     messages: [{ role: 'user', content: prompt }],
   });
 
-  const text = response.content
-    .filter((block): block is Anthropic.TextBlock => block.type === 'text')
-    .map((block) => block.text)
-    .join('');
-
-  let parsed: unknown;
-  try {
-    parsed = JSON.parse(text);
-  } catch {
-    throw new Error('rankBatch: model output was not valid JSON');
+  const toolUse = response.content.find(
+    (block): block is Anthropic.ToolUseBlock => block.type === 'tool_use',
+  );
+  if (!toolUse) {
+    throw new Error('rankBatch: model did not call submit_rankings');
   }
-  if (!Array.isArray(parsed)) {
-    throw new Error('rankBatch: model output was not a JSON array');
+
+  const input = toolUse.input as { rankings?: unknown };
+  if (!Array.isArray(input.rankings)) {
+    throw new Error('rankBatch: submit_rankings input missing a rankings array');
   }
 
   const batchIds = new Set(batch.map((o) => o.id));
   const results: MatchResult[] = [];
-  for (const row of parsed) {
+  for (const row of input.rankings) {
     if (!isRankOutputRow(row) || !batchIds.has(row.opportunity_id)) continue;
     results.push({
       opportunityId: row.opportunity_id,

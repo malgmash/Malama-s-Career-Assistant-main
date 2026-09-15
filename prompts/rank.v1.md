@@ -39,20 +39,8 @@ For each posting in POSTINGS:
    summary does not support at `demonstrated` strength. An eligible posting
    can still have blockers — that is expected, not a contradiction.
 
-Output strictly as a JSON array matching this shape, one entry per posting,
-in the same order as POSTINGS. No prose before or after. No code fences.
-
-```json
-[
-  {
-    "opportunity_id": "string, copied from the posting",
-    "score": 0,
-    "eligible": true,
-    "reasoning": "string",
-    "blockers": ["string"]
-  }
-]
-```
+Call the `submit_rankings` tool with one entry per posting, in the same
+order as POSTINGS. Do not respond with plain text.
 
 ### POSTINGS
 
