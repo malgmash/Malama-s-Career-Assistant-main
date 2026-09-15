@@ -9,12 +9,12 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 66,
+  "count": 67,
   "counts_by_category": {
     "internships": 38,
     "conferences_summits_workshops": 9,
     "hackathons": 15,
-    "fellowships_and_ambassadorships": 4
+    "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
     {
@@ -1737,6 +1737,32 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://developers.google.com/community/gdsc"
+      }
+    },
+    {
+      "category": "fellowships_and_ambassadorships",
+      "kind": "fellowship",
+      "title": "IEEE Computer Society Richard E. Merwin Student Scholarship (Student Ambassador)",
+      "organization": "IEEE Computer Society",
+      "url": "https://www.computer.org/volunteering/awards/scholarships/merwin",
+      "description": "Full-time undergrad in **final two years** OR graduate student in EE/CompE/CS/IT-related field; active IEEE Computer Society member \u22653 months before deadline; GPA \u22652.5/4.0; \u22651 year remaining or continuing study. **No citizenship restriction stated** \u2014 international student members eligible. Class of 2029: become eligible once in final two years (~2027\u20132029); join IEEE CS + student branch now. \u00b7 Up to **US $1,000**; program pools **$40,000** in student scholarships; winners serve as Student Ambassadors \u00b7 **International eligibility: yes** (no citizenship bar on official criteria). Dual fit: scholarship + ambassadorship. Progress reports required at 6 and 12 months.",
+      "locations": [
+        "Global (student branch / chapter based)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Award tenure ~1 year as IEEE CS Student Ambassador",
+      "deadlineLabel": "**30 April** and **30 September** each year",
+      "reward": "Up to **US $1,000**; program pools **$40,000** in student scholarships; winners serve as Student Ambassadors",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "fellowships_and_ambassadorships",
+        "fellowship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.computer.org/volunteering/awards/scholarships/merwin"
       }
     },
     {
