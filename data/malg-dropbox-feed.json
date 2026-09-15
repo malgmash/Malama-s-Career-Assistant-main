@@ -1,49 +1,23 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
+    "usa_only": "US locations or US-based remote for students in the US",
     "international": "Must allow international students or have no citizenship bar",
     "internships": "Undergrad/BS, 2027, apps open, 2029 or no cutoff; SWE/IT/systems/web/PM/data",
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 94,
+  "count": 93,
   "counts_by_category": {
-    "internships": 59,
+    "internships": 58,
     "conferences_summits_workshops": 9,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 8,
     "scholarships": 3
   },
   "opportunities": [
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "\u3010Class of 2029\uff0fInternship\u3011Applied Scientists \u2014 Amazon Japan Store Tech",
-      "organization": "Amazon (International Stores \u2014 Japan Store Tech)",
-      "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech",
-      "description": "**Target: students graduating in 2029**; Bachelor or Master in CS, ML, Statistics, Applied Math, EE, or related quantitative field; Python/Java/C++; ML/NLP/IR/CV/stats coursework or research; English fluency required (Japanese a plus) \u00b7 Paid Amazon internship (exact stipend not listed on page) \u00b7 Job ID 10504617. On-site Tokyo \u2014 consider visa/travel logistics. Strong ML/applied science fit.",
-      "locations": [
-        "Tokyo, Japan (onsite)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 (June\u2013September); **8\u201312 weeks** full-time (min 12 weeks if JP visa support needed)",
-      "deadlineLabel": "Application & assessment: **mid-October 2026**; selection communications end Oct 2026; offers Dec 2026\u2013Mar 2027",
-      "term": "Summer 2027 (June\u2013September); **8\u201312 weeks** full-time (min 12 weeks if JP visa support needed)",
-      "reward": "Paid Amazon internship (exact stipend not listed on page)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
-      }
-    },
     {
       "category": "internships",
       "kind": "internship",
