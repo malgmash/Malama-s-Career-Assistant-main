@@ -35,8 +35,16 @@ status. Copy or null.
 ### `rank.vN`
 
 **In:** a batch of up to 20 opportunities, plus a compact profile summary
-derived from `profile_facts`.
-**Out:** `[{ opportunity_id, score, reasoning, blockers[] }]`.
+derived from `profile_facts`, plus Malama's standing match criteria
+(`lib/scoring/config.ts`).
+**Out:** `[{ opportunity_id, score, eligible, reasoning, blockers[] }]`.
+`eligible` was added in v1 once real criteria turned out to include hard
+gates (field relevance, international-student eligibility, region/travel
+reimbursement) that only exist in free text, not structured fields — see
+`matches.eligible` in `006_matches_eligible_and_anon_read.sql`. These are
+gates, not blockers: `docs/SCORING.md`'s "a posting can score 80 and still
+have one blocker" is about softer gaps, not a rule Malama stated as a hard
+requirement.
 **May not invent:** requirements not present in the posting text.
 
 ### `extract-requirements.vN`

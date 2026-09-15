@@ -30,6 +30,8 @@ type DropboxListing = {
   description?: string;
   locations?: string[];
   deadlineLabel?: string;
+  dateLabel?: string;
+  reward?: string;
   tags?: string[];
 };
 
@@ -106,6 +108,28 @@ function remoteFromLocations(locations: unknown): NormalizedOpportunity['remote'
   return parts.every((loc) => /^remote/i.test(loc)) ? 'remote' : 'unknown';
 }
 
+// The feed carries `reward`, `dateLabel` and prose `deadlineLabel` text
+// alongside `description`. `deadline` only captures a clean ISO date (see
+// isoDeadline above), so anything prose-only would otherwise be silently
+// dropped. Fold it all into `description` instead — verbatim, nothing
+// inferred — so the match ranking pass still has access to it.
+function enrichedDescription(item: DropboxListing): string | null {
+  const parts: string[] = [];
+  if (typeof item.description === 'string' && item.description.length > 0) {
+    parts.push(item.description);
+  }
+  if (typeof item.dateLabel === 'string' && item.dateLabel.length > 0) {
+    parts.push(`Dates: ${item.dateLabel}`);
+  }
+  if (typeof item.deadlineLabel === 'string' && isoDeadline(item.deadlineLabel) === null) {
+    parts.push(`Deadline (as stated): ${item.deadlineLabel}`);
+  }
+  if (typeof item.reward === 'string' && item.reward.length > 0) {
+    parts.push(`Reward/reimbursement: ${item.reward}`);
+  }
+  return parts.length > 0 ? parts.join('\n') : null;
+}
+
 function copiedTags(item: DropboxListing): string[] {
   const tags = Array.isArray(item.tags)
     ? item.tags.filter((tag): tag is string => typeof tag === 'string' && tag.length > 0)
@@ -161,10 +185,7 @@ export const malgDropboxAdapter: Adapter = {
         location: locationText(item.locations),
         remote: remoteFromLocations(item.locations),
         url: item.url,
-        description:
-          typeof item.description === 'string' && item.description.length > 0
-            ? item.description
-            : null,
+        description: enrichedDescription(item),
         deadline: isoDeadline(item.deadlineLabel),
         classYears: [],
         sponsorship: 'unknown',

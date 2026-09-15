@@ -22,6 +22,7 @@ type SimplifyListing = {
   sponsorship: string;
   category: string;
   degrees: string[];
+  terms?: string[];
 };
 
 function isSimplifyListing(value: unknown): value is SimplifyListing {
@@ -34,14 +35,25 @@ function isSimplifyListing(value: unknown): value is SimplifyListing {
 // 'Does Not Offer Sponsorship', 'U.S. Citizenship is Required'. Only the
 // two unambiguous ones are mapped; everything else (including citizenship
 // requirements, which is a distinct fact from sponsorship) falls to
-// 'unknown' rather than being guessed at.
+// 'unknown' rather than being guessed at. The citizenship-required case is
+// still copied through as a tag (see CITIZENSHIP_REQUIRED_TAG below) so
+// downstream matching can hard-exclude on it instead of the signal being
+// dropped entirely.
 const SPONSORSHIP_MAP: Record<string, 'yes' | 'no' | 'unknown'> = {
   'Does Not Offer Sponsorship': 'no',
   'Offers Sponsorship': 'yes',
 };
 
+const CITIZENSHIP_REQUIRED_TAG = 'citizenship_required';
+
 function normalizeForDedupe(value: string): string {
   return value.trim().toLowerCase().replace(/\s+/g, ' ');
+}
+
+// "Summer 2026" -> "term:summer-2026". Copied verbatim from the source's
+// own `terms` field, just slugified, so match rules can filter on it.
+function termTag(term: string): string {
+  return `term:${normalizeForDedupe(term).replace(/\s+/g, '-')}`;
 }
 
 export const githubJsonAdapter: Adapter = {
@@ -90,6 +102,11 @@ export const githubJsonAdapter: Adapter = {
         ? 'remote'
         : 'unknown';
 
+    const tags: string[] = [];
+    if (item.category) tags.push(item.category);
+    if (Array.isArray(item.terms)) tags.push(...item.terms.map(termTag));
+    if (item.sponsorship === 'U.S. Citizenship is Required') tags.push(CITIZENSHIP_REQUIRED_TAG);
+
     return {
       kind: 'ok',
       status: item.active === false ? 'closed' : 'open',
@@ -104,7 +121,7 @@ export const githubJsonAdapter: Adapter = {
         deadline: null,
         classYears: Array.isArray(item.degrees) ? item.degrees : [],
         sponsorship: SPONSORSHIP_MAP[item.sponsorship] ?? 'unknown',
-        tags: item.category ? [item.category] : [],
+        tags,
       },
     };
   },

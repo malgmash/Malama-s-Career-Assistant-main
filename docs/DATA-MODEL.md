@@ -56,6 +56,7 @@ create table matches (
   opportunity_id uuid not null references opportunities(id) on delete cascade,
   rule_score     int  not null,
   llm_score      int,
+  eligible       boolean not null, -- added 006_matches_eligible_and_anon_read.sql
   reasoning      text,
   blockers       text[] not null default '{}',
   prompt_version text,
@@ -151,8 +152,11 @@ scores stay for comparison instead of being silently overwritten.
 ## RLS posture
 
 Enable RLS on every table. Owner-only policies keyed on `auth.uid()`. Service
-role is used only by the ingestion worker, and only for `sources`,
-`raw_postings`, `opportunities` and `opportunity_sources`.
+role is used only by the ingestion and match worker code, and only for
+`sources`, `raw_postings`, `opportunities`, `opportunity_sources` and
+`matches`. `opportunities` and `matches` also grant anon read (see
+`003_anon_read_opportunities.sql`, `006_matches_eligible_and_anon_read.sql`)
+since the ranked feed is a static-export page with no server.
 
 Any function that needs elevated rights is `security definer` with
 `set search_path = public, pg_temp`.
