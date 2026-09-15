@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 99,
+  "count": 103,
   "counts_by_category": {
-    "internships": 64,
+    "internships": 68,
     "conferences_summits_workshops": 9,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 8,
@@ -894,6 +894,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Data Science Intern \u2014 NCR Atleos (Atlanta)",
+      "organization": "NCR Atleos",
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686",
+      "description": "Currently pursuing a **Bachelor\u2019s or Master\u2019s** in Data Science, CS, Engineering, Statistics, or related. Python + SQL familiarity. No U.S.-citizens-only / clearance / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Not listed (full-time employee benefits listed separately; confirm intern pay on apply) \u00b7 **In-region (GA)**. ML models, Power BI / Python viz, cash forecasting, geospatial, Azure/Databricks exposure. Fintech / self-service banking analytics org (team est. 2019).",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Global Internship Program \u2014 listed on Summer 2027 internship boards (posted Sep 14, 2026); confirm exact summer window on apply",
+      "deadlineLabel": "Applications open (apply ASAP)",
+      "term": "Global Internship Program \u2014 listed on Summer 2027 internship boards (posted Sep 14, 2026); confirm exact summer window on apply",
+      "reward": "Not listed (full-time employee benefits listed separately; confirm intern pay on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Product Intern \u2014 Summer 2027 \u2014 OpenGov (Atlanta)",
       "organization": "OpenGov",
       "url": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66",
@@ -1450,6 +1478,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 SingleStore (United States)",
+      "organization": "SingleStore",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "description": "Enrolled in a **B.S.** in CS, Electrical Engineering, Computer Engineering, or related. Strong CS fundamentals; JavaScript / Golang / TypeScript preferred. **Sponsorship is available** for this role. No grad-year cutoff stated \u2014 Class of 2029 OK. \u00b7 Not listed on posting (confirm on apply) \u00b7 Real-time distributed SQL / cloud-native database. End-to-end ownership on collaborative eng teams; continuous production releases. **Intl-friendly (sponsorship available)**. Raleigh hub is SE-relevant if placed there.",
+      "locations": [
+        "United States (company hubs include San Francisco, Sunnyvale, **Raleigh**, Seattle, Boston)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **12 weeks** (production engineering internship)",
+      "deadlineLabel": "Applications open (posted ~Sep 14, 2026 \u2014 apply ASAP)",
+      "term": "Summer 2027 \u2014 **12 weeks** (production engineering internship)",
+      "reward": "Not listed on posting (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 State Farm (Enterprise Technology)",
       "organization": "State Farm",
       "url": "https://jobs.statefarm.com/jobs/45589?icims=1",
@@ -1501,6 +1557,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://stripe.com/jobs/search?gh_jid=8128745"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Superhuman (US hubs)",
+      "organization": "Superhuman (Grammarly / Superhuman Platform Inc.)",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+      "description": "Currently enrolled full-time, pursuing a **bachelor\u2019s** in CS or related. Available full 12 weeks; strong CS fundamentals; proficiency in \u22651 language (Java, TypeScript, JS, C#, Python, or Go common). No U.S.-citizens-only or grad-year cutoff on posting \u2014 Class of 2029 OK. \u00b7 **$50/hour** \u00b7 Front-end / back-end / full-stack / security / mobile projects shipping to tens of millions of users. Mentored end-to-end project. Confirm CPT/work auth on apply \u2014 posting does not bar international students.",
+      "locations": [
+        "Hybrid US hubs \u2014 **San Francisco, New York, or Seattle** (\u22652 days/week in-office). Skip Toronto hub (Canada)."
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **12 weeks**",
+      "deadlineLabel": "Applications open (posted ~Sep 14, 2026 \u2014 apply ASAP)",
+      "term": "Summer 2027 \u2014 **12 weeks**",
+      "reward": "**$50/hour**",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0"
       }
     },
     {
@@ -1668,6 +1752,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern (BS/MS) \u2014 Summer 2027 \u2014 Waymo (San Francisco)",
+      "organization": "Waymo",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+      "description": "**BS or MS** software engineering track. Proficient in **C++**; data fluency. Robotics/ML preferred but not required. No U.S.-citizens-only or clearance language on posting. Class of 2029 OK for BS track. \u00b7 **$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility \u00b7 Analyze ML vs production behavior; cluster analysis; port desirable ML behavior to production systems. Autonomous driving software. Confirm CPT/work auth on apply \u2014 posting does not bar international students. Related: Commercialization SWE Intern also open (separate gh_jid).",
+      "locations": [
+        "San Francisco / Mountain View, CA (hybrid onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling until filled (apply ASAP; apply separately to each Waymo role of interest \u2014 top 3 recommended)",
+      "term": "Summer 2027",
+      "reward": "**$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
       }
     },
     {
