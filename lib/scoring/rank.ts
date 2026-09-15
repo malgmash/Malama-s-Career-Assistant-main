@@ -114,7 +114,7 @@ export async function rankBatch(
 
   const response = await client.messages.create({
     model: MODEL,
-    max_tokens: 4096,
+    max_tokens: 8192,
     tools: [SUBMIT_RANKINGS_TOOL],
     tool_choice: { type: 'tool', name: 'submit_rankings' },
     messages: [{ role: 'user', content: prompt }],
