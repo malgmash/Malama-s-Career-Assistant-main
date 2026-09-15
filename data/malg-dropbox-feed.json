@@ -9,99 +9,15 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 103,
+  "count": 82,
   "counts_by_category": {
-    "internships": 68,
+    "internships": 47,
     "conferences_summits_workshops": 9,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 8,
     "scholarships": 3
   },
   "opportunities": [
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Product Manager Intern \u2014 Appian (McLean)",
-      "organization": "Appian",
-      "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
-      "description": "Bachelor's or Master's in CS/CE; **must return to school after Summer 2027** \u2192 Class of 2029 OK \u00b7 Paid (amount not in public snippet) \u00b7 Eligibility verified via Greenhouse.",
-      "locations": [
-        "McLean, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 (~10 weeks full-time)",
-      "deadlineLabel": "Interviews from August 2026 \u2014 apply ASAP",
-      "term": "Summer 2027 (~10 weeks full-time)",
-      "reward": "Paid (amount not in public snippet)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "product management"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://job-boards.greenhouse.io/appian/jobs/8041243"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineering Intern \u2014 Appian (McLean)",
-      "organization": "Appian",
-      "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
-      "description": "Currently pursuing Bachelor's or Master's in CS/CE; **must return to school after Summer 2027** (Greenhouse) \u2192 Class of 2029 OK \u00b7 Paid (amount not in public snippet) \u00b7 Eligibility verified via Greenhouse job content.",
-      "locations": [
-        "McLean, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 (~10 weeks full-time)",
-      "deadlineLabel": "Interviews scheduling noted from August 2026 onward \u2014 apply ASAP",
-      "term": "Summer 2027 (~10 weeks full-time)",
-      "reward": "Paid (amount not in public snippet)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Boeing Summer 2027 Internship Program (Paid) \u2014 Data Analytics Intern",
-      "organization": "Boeing",
-      "url": "https://jobs.boeing.com/en/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192",
-      "description": "Enrolled student; expected graduation **on or after August 2027**; preferred GPA 3.0+; some roles require U.S. Person / export control; no visa sponsorship \u00b7 Paid \u2014 summary pay range **$44,000\u2013$89,000**; some positions offer relocation \u00b7 Job ID JR2026520976. Mentorship, facility tours, leadership exposure. Security clearance may be required for some positions.",
-      "locations": [
-        "Multiple U.S. sites (Everett WA, Seattle, Atlanta, Herndon VA, Arlington VA, Fairfax VA, Huntsville, Charleston, Plano, and many others); some hybrid/virtual options per team"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **10\u201312 weeks** full-time",
-      "deadlineLabel": "Applications accepted until **October 23, 2026**",
-      "term": "Summer 2027 \u2014 **10\u201312 weeks** full-time",
-      "reward": "Paid \u2014 summary pay range **$44,000\u2013$89,000**; some positions offer relocation",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://jobs.boeing.com/en/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192"
-      }
-    },
     {
       "category": "internships",
       "kind": "internship",
@@ -129,35 +45,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Digital & IT Intern \u2014 Data & AI Platform Engineering \u2014 Summer 2027 \u2014 Corning (Charlotte)",
-      "organization": "Corning Inc.",
-      "url": "https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Data-&-AI-Platform-Engineering-Summer-2027-NC-28216/1425716600/?ats=successfactors",
-      "description": "Undergraduate or graduate degree in IT, CS, IS, Data Science, Computer Engineering, Software Engineering, or related. **Graduation date December 2027 or later** \u2014 Class of 2029 OK. Posting states role **does not support immigration sponsorship** (CPT/OPT often separate \u2014 **verify with recruiter**). No U.S.-citizens-only / clearance language found. \u00b7 About **$1,635\u2013$3,185 biweekly** (range on posting) \u00b7 **In-region (NC)**. Related Corning NC tracks: Enterprise Data Management (Charlotte), Manufacturing AI/ML (Charlotte), AI/ML (Wilmington), Digital & IT Analyst (Concord). Same sponsorship caveat likely applies.",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **10 weeks May\u2013August 2027**",
-      "deadlineLabel": "Applications open (apply ASAP)",
-      "term": "Summer 2027 \u2014 **10 weeks May\u2013August 2027**",
-      "reward": "About **$1,635\u2013$3,185 biweekly** (range on posting)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Data-&-AI-Platform-Engineering-Summer-2027-NC-28216/1425716600/?ats=successfactors"
       }
     },
     {
@@ -241,34 +128,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Enact (Raleigh)",
-      "organization": "Enact Holdings (Genworth majority-owned)",
-      "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367",
-      "description": "Pursuing a degree in CS, Software Engineering, or related; Java/OOP fundamentals. **This role is eligible for employment visa sponsorship.** No Class-of cutoff excluding 2029. No U.S.-citizenship requirement on posting. \u00b7 Paid internship \u2014 confirm on apply \u00b7 Pricing & Rules Platform team (enterprise Java, Drools, cloud identity). Same role also mirrored on Genworth Workday board (REQ-260367-1) \u2014 apply via one posting only.",
-      "locations": [
-        "Raleigh, NC (Enact HQ \u2014 hybrid)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "12-week internship beginning **May 17, 2027**",
-      "deadlineLabel": "Applications open \u2014 apply early (posted ~2026-09-14)",
-      "term": "12-week internship beginning **May 17, 2027**",
-      "reward": "Paid internship \u2014 confirm on apply",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367"
       }
     },
     {
@@ -414,90 +273,6 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "Summer 2027 Data Science Intern \u2014 First National Bank (FNB)",
-      "organization": "First National Bank / F.N.B. Corporation",
-      "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/fnbcorp/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016",
-      "description": "Officially enrolled in undergrad bachelor\u2019s program with major in Finance, Accounting, Marketing, Information Technology, or similar; no graduation-year cutoff stated; U.S. work authorization required (no sponsorship) \u00b7 Not stated on posting \u00b7 Req 2026-02016. Exposure to data engineering, report development, visualization, and model development.",
-      "locations": [
-        "Pittsburgh, PA \u2014 626 Washington Place (onsite; **no corporate housing**)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "**October 17, 2026**",
-      "term": "Summer 2027",
-      "reward": "Not stated on posting",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/fnbcorp/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Developer Intern, Single-Family \u2014 Freddie Mac (McLean)",
-      "organization": "Freddie Mac",
-      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
-      "description": "Bachelor's (Simplify degrees) \u00b7 Paid (amount not listed) \u00b7 Related Multifamily SWE intern also live (JR17564). Confirm Class of 2029 eligibility on application.",
-      "locations": [
-        "McLean, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid (amount not listed)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "IT Data Analyst Internship 2027 \u2014 GALLO",
-      "organization": "E. & J. Gallo Winery (GALLO)",
-      "url": "https://careers.bu.edu/jobs/gallo-it-data-analyst-internship-2027/",
-      "description": "Currently enrolled BS or MS in CS, MIS, Business Analytics, Economics, Math, Stats, Data Science/Analytics, Informatics, Marketing Research, Cognitive Science, or Applied/Quantitative Psychology; degree to be obtained **December 2027\u2013June 2029**; Python/R/SQL; age 18+; sponsorship not available \u00b7 Paid \u2014 **$26.50\u2013$28.50/hour** \u00b7 First-round: Paradox self-recorded video + coding assessment. Rotations across Application Development, Business Analysis, and/or Data Services.",
-      "locations": [
-        "Confirm on application (10-week program)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Anticipated start **June 2027** \u2014 **10 weeks**",
-      "deadlineLabel": "Application close **October 18, 2026** (BU career listing also noted recruitment window; apps reviewed after close)",
-      "term": "Anticipated start **June 2027** \u2014 **10 weeks**",
-      "reward": "Paid \u2014 **$26.50\u2013$28.50/hour**",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://careers.bu.edu/jobs/gallo-it-data-analyst-internship-2027/"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
       "title": "Software Engineer Intern, Summer 2027 \u2014 Garmin (Cary, NC)",
       "organization": "Garmin",
       "url": "https://careers.garmin.com/jobs/20131?icims=1",
@@ -577,34 +352,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Summer 2027 \u2014 IEF \u2014 Software Engineer Collegiate Associate Intern \u2014 Gulfstream",
-      "organization": "Gulfstream Aerospace (General Dynamics)",
-      "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/",
-      "description": "Full-time enrolled student pursuing bachelor\u2019s or higher in EE, Computer Engineering, Software Engineering, or Computer Science; cumulative GPA **3.0+** (unrounded, list on resume); all undergrad through PhD levels welcome; reliable transportation; no visa sponsorship unless already sponsored Gulfstream employee \u00b7 Competitive pay; PTO; **housing stipend** if permanent residence >50 miles from Gulfstream; medical; 401(k) match \u00b7 Requisition 235815. Depts may include Simulation Engineering, Application & Data Systems.",
-      "locations": [
-        "Savannah, GA (onsite only)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 beginning May 2027; **10\u201312 weeks** (summer)",
-      "deadlineLabel": "Posting end date **10/30/2026**",
-      "term": "Summer 2027 \u2014 beginning May 2027; **10\u201312 weeks** (summer)",
-      "reward": "Competitive pay; PTO; **housing stipend** if permanent residence >50 miles from Gulfstream; medical; 401(k) match",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/"
       }
     },
     {
@@ -775,91 +522,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Analytics Intern \u2014 FAR Program \u2014 Summer 2027 \u2014 LPL Financial (Charlotte / Fort Mill)",
-      "organization": "LPL Financial Holdings",
-      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053",
-      "description": "Currently enrolled as a **sophomore or junior** pursuing a bachelor\u2019s degree; **3.0 GPA** minimum; data visualization tools (e.g. Power BI, Python); Class of 2029 typically sophomore in Fall 2026 \u2014 **eligible** \u00b7 Paid \u2014 confirm on apply \u00b7 Offer contingent on bachelor\u2019s completion path, background screen, local to Fort Mill/Charlotte.",
-      "locations": [
-        "Fort Mill, SC / Charlotte, NC"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
-      "deadlineLabel": "**Priority application date: September 25, 2026 at 11:59 PM PST**",
-      "term": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
-      "reward": "Paid \u2014 confirm on apply",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Intern-2027---FAR-Program---Data-Analytics_R-052053"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Engineer Intern \u2014 Summer 2027 \u2014 LPL Financial (Charlotte / Fort Mill)",
-      "organization": "LPL Financial Holdings",
-      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
-      "description": "Currently pursuing a **bachelor\u2019s or master\u2019s** in CS, MIS, Data Science, Analytics, Engineering, Math, or related \u2014 no hard grad-year cutoff stated \u00b7 Paid \u2014 confirm on apply \u00b7 Verified via Workday CXS. Apply by Sep 21 for priority consideration.",
-      "locations": [
-        "Fort Mill, SC / Charlotte, NC (also Austin, TX on posting)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
-      "deadlineLabel": "**Priority application date: September 21, 2026 at 11:59 PM PST**",
-      "term": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks)",
-      "reward": "Paid \u2014 confirm on apply",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 LPL Financial (Charlotte / Fort Mill)",
-      "organization": "LPL Financial Holdings",
-      "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921",
-      "description": "Currently pursuing a **bachelor\u2019s or master\u2019s** in CS, MIS, software engineering, or related \u2014 **no hard grad-year cutoff** stated \u00b7 Paid internship \u2014 confirm on apply \u00b7 Priority consideration for apps by Sep 21. Local to Fort Mill/Charlotte preferred.",
-      "locations": [
-        "Fort Mill, SC / Charlotte, NC (also Austin, TX on posting)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks, 40 hrs)",
-      "deadlineLabel": "**Priority application date: September 21, 2026 at 11:59 PM PST** (rolling after)",
-      "term": "Summer 2027 \u2014 **6/1/2027 \u2013 8/6/2027** (10 weeks, 40 hrs)",
-      "reward": "Paid internship \u2014 confirm on apply",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
       }
     },
     {
@@ -1308,91 +970,6 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Red Hat (Raleigh / Durham)",
-      "organization": "Red Hat",
-      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
-      "description": "Software engineering intern; work with mentor on Python/Golang/etc. Red Hat **will not provide visa sponsorship** \u2014 must be able to work without current/future visa sponsorship (verify CPT/OPT acceptability on apply). No U.S.-citizens-only / clearance language on posting. No hard Class-of cutoff stated. \u00b7 Paid \u2014 confirm on apply \u00b7 NC Triangle in-region. Related: Software Engineer Co-op (R-059039) and Product Manager Intern (R-059060) on same board \u2014 sponsorship language similar.",
-      "locations": [
-        "Raleigh, NC; Durham, NC (also Boston/Lowell MA)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Intern cohort / open-source engineering projects (Ansible, RHEL, OpenShift, AI, etc.) \u2014 confirm Summer 2027 dates on apply",
-      "deadlineLabel": "Posting validThrough **~2026-11-13**",
-      "term": "Intern cohort / open-source engineering projects (Ansible, RHEL, OpenShift, AI, etc.) \u2014 confirm Summer 2027 dates on apply",
-      "reward": "Paid \u2014 confirm on apply",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Developer Intern \u2014 Product Engineering \u2014 RF-SMART (Jacksonville)",
-      "organization": "RF-SMART",
-      "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
-      "description": "Open to **undergraduate** (and graduate / May\u2013Spring grads); must be authorized to work in the U.S. for any employer **without future sponsorship**. Employer does **not sponsor H-1B**. No U.S.-citizens-only language. No Class-of cutoff excluding 2029. \u00b7 **$25/hour** \u00b7 Full-stack product engineering internship. Related NetSuite support / Product Strategy intern roles also listed.",
-      "locations": [
-        "Jacksonville, FL (on-site)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Spring & Summer 2027 track; Summer program **May 10 \u2013 July 30, 2027** (12 weeks, 40 hrs/week)",
-      "deadlineLabel": "Applications open \u2014 apply early",
-      "term": "Spring & Summer 2027 track; Summer program **May 10 \u2013 July 30, 2027** (12 weeks, 40 hrs/week)",
-      "reward": "**$25/hour**",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering",
-        "product management"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "[Summer 2027] Product Management Intern \u2014 Roblox",
-      "organization": "Roblox",
-      "url": "https://careers.roblox.com/jobs/8143981",
-      "description": "Pursuing undergraduate or graduate degree in CS, engineering, information systems, business, mathematics, or related; no specific graduation-year cutoff stated \u00b7 Paid \u2014 **$62/hour** \u00b7 Early Career ID 41297. Cross-functional PM work with eng/design/data. Visa/H-1B limitations noted on posting.",
-      "locations": [
-        "San Mateo, CA (onsite Tue\u2013Thu; optional Mon/Fri)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **12 weeks**",
-      "deadlineLabel": "**Friday, October 30, 2026 at 5 PM PST** (rolling)",
-      "term": "Summer 2027 \u2014 **12 weeks**",
-      "reward": "Paid \u2014 **$62/hour**",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "product management"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://careers.roblox.com/jobs/8143981"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
       "title": "Summer 2027 Intern \u2014 Software Engineer \u2014 Salesforce",
       "organization": "Salesforce",
       "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771",
@@ -1416,34 +993,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Sierra Nevada Corporation (Southern Pines)",
-      "organization": "Sierra Nevada Corporation",
-      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
-      "description": "Bachelor's (Simplify degrees) \u00b7 Paid (amount not listed) \u00b7 Confirm clearance / grad-year details on Workday if prompted.",
-      "locations": [
-        "Southern Pines, NC"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid (amount not listed)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759"
       }
     },
     {
@@ -1618,33 +1167,6 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "Intern \u2014 Applications, AI and Machine Learning \u2014 Spring 2027 \u2014 TMEIC (Roanoke)",
-      "organization": "TMEIC Corporation Americas",
-      "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/",
-      "description": "Enrolled in **Bachelor of Science** in Computer Science, Data Science, Mathematics, or related (coursework in data analysis/ETL/visualization); visa sponsorship not available; not benefits-eligible \u00b7 Internship compensation \u2014 confirm on apply (not benefits-eligible) \u00b7 Spring 2027 term (not summer). Domestic travel up to ~5%.",
-      "locations": [
-        "Roanoke, VA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Spring 2027",
-      "deadlineLabel": "Applications open \u2014 apply early",
-      "term": "Spring 2027",
-      "reward": "Internship compensation \u2014 confirm on apply (not benefits-eligible)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
       "title": "Software Engineer Intern \u2014 Trimble",
       "organization": "Trimble",
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
@@ -1668,90 +1190,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Analyst Intern \u2014 Vanguard College to Corporate IT (Charlotte)",
-      "organization": "Vanguard",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767",
-      "description": "Bachelor's or Master's (Simplify); College to Corporate IT \u00b7 Paid (amount not listed) \u00b7 Confirm grad-year eligibility on application.",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid (amount not listed)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Science Intern \u2014 Vanguard College to Corporate IT (Charlotte)",
-      "organization": "Vanguard",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
-      "description": "Bachelor's or Master's (Simplify); College to Corporate IT program \u00b7 Paid (amount not listed) \u00b7 Confirm Class of 2029 / return-to-school wording on Workday.",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid (amount not listed)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Technical Product Manager Intern \u2014 Vanguard College to Corporate IT",
-      "organization": "Vanguard",
-      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969",
-      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Prefer Charlotte if offered; confirm eligibility on Workday.",
-      "locations": [
-        "Dallas, TX / Malvern, PA / **Charlotte, NC**"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid (amount not listed)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "product management"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969"
       }
     },
     {
@@ -2781,33 +2219,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://www.outtoinnovate.org/scholarships"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "@zero2sudo \u2014 Adobe Student Insiders 2026\u20132027",
-      "organization": "@zero2sudo \u2192 Adobe",
-      "url": "https://event.adobe.com/insiders-summit-26",
-      "description": "Students networking with Adobe product teams \u00b7 Program / event dependent \u00b7 Networking pipeline into Adobe internships. Confirm whether application window still open.",
-      "locations": [
-        "Program / summit (see Adobe event link)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "2026\u20132027 Student Insiders cycle",
-      "deadlineLabel": "Caption said apps close in 3 days at time of post (may be closed \u2014 recheck)",
-      "term": "2026\u20132027 Student Insiders cycle",
-      "reward": "Program / event dependent",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://event.adobe.com/insiders-summit-26"
       }
     },
     {
