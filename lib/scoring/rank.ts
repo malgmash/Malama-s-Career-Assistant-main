@@ -81,11 +81,25 @@ async function loadPromptTemplate(): Promise<string> {
   return readFile(PROMPT_PATH, 'utf8');
 }
 
-function renderPrompt(template: string, profileSummary: string, batch: OpportunityForMatching[]): string {
-  return template
+// Split into a static prefix (criteria + profile summary + fixed
+// instructions — identical across every batch in a run, and across runs
+// until facts or criteria change) and a dynamic suffix (just this batch's
+// postings). The prefix is marked as a prompt-cache breakpoint: the first
+// call in a run pays a small premium to write it, every subsequent batch
+// in that run reads it back at roughly a tenth of the normal input price.
+// Splitting on the placeholder keeps this in sync with the template file
+// automatically — no separate copy of the wording to drift out of date.
+function renderPromptParts(
+  template: string,
+  profileSummary: string,
+  batch: OpportunityForMatching[],
+): { prefix: string; suffix: string } {
+  const [prefixTemplate, suffixTemplate] = template.split('{{POSTINGS_JSON}}');
+  const prefix = prefixTemplate
     .replace('{{MATCH_CRITERIA}}', MATCH_CRITERIA_TEXT)
-    .replace('{{PROFILE_SUMMARY}}', profileSummary)
-    .replace('{{POSTINGS_JSON}}', JSON.stringify(buildPostingsPayload(batch), null, 2));
+    .replace('{{PROFILE_SUMMARY}}', profileSummary);
+  const suffix = JSON.stringify(buildPostingsPayload(batch), null, 2) + suffixTemplate;
+  return { prefix, suffix };
 }
 
 // Forcing a tool call gets a schema-conformant JSON object back directly
@@ -134,15 +148,30 @@ export async function rankBatch(
   }
 
   const template = await loadPromptTemplate();
-  const prompt = renderPrompt(template, buildProfileSummary(facts), batch);
+  const { prefix, suffix } = renderPromptParts(template, buildProfileSummary(facts), batch);
 
   const response = await client.messages.create({
     model: MODEL,
     max_tokens: 8192,
     tools: [SUBMIT_RANKINGS_TOOL],
     tool_choice: { type: 'tool', name: 'submit_rankings' },
-    messages: [{ role: 'user', content: prompt }],
+    messages: [
+      {
+        role: 'user',
+        content: [
+          { type: 'text', text: prefix, cache_control: { type: 'ephemeral' } },
+          { type: 'text', text: suffix },
+        ],
+      },
+    ],
   });
+
+  // Visible evidence the cache is actually being hit, not just assumed —
+  // cache_read_input_tokens > 0 means this batch paid the ~10% rate for
+  // the criteria+profile prefix instead of the full input price.
+  console.log(
+    `rankBatch usage: input=${response.usage.input_tokens} cache_read=${response.usage.cache_read_input_tokens ?? 0} cache_write=${response.usage.cache_creation_input_tokens ?? 0} output=${response.usage.output_tokens}`,
+  );
 
   const toolUse = response.content.find(
     (block): block is Anthropic.ToolUseBlock => block.type === 'tool_use',
