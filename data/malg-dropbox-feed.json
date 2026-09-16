@@ -9,14 +9,41 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 71,
+  "count": 75,
   "counts_by_category": {
-    "internships": 42,
+    "internships": 46,
     "conferences_summits_workshops": 9,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Automation Developer Intern \u2014 Summer 2027 \u2014 apexanalytix (Greensboro)",
+      "organization": "apexanalytix",
+      "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7",
+      "description": "Intern role building RPA / Python automation, Django APIs, UiPath. No citizenship / clearance / no-sponsorship language on official Rippling posting \u2014 Class of 2029 OK (same pattern as other apexanalytix 2027 intern roles). Confirm undergrad status on apply. \u00b7 Not listed (confirm on apply) \u00b7 **In-region (NC)**. Complements existing APEX Data Science / Engineering / Analyst Greensboro internships.",
+      "locations": [
+        "Greensboro, NC (onsite if local; remote if out of state; possible Greensboro collaboration)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Applications open (apply ASAP)",
+      "term": "Summer 2027",
+      "reward": "Not listed (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"
+      }
+    },
     {
       "category": "internships",
       "kind": "internship",
@@ -610,6 +637,62 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Data Science Intern \u2014 Summer 2027 \u2014 LexisNexis Legal & Professional (Raleigh)",
+      "organization": "LexisNexis Legal & Professional (RELX)",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
+      "description": "Currently enrolled student pursuing data science, CS, statistics, mathematics, engineering, or related. **Graduation date AFTER June 2027** \u2014 Class of 2029 OK. No citizenship / clearance / no-sponsorship language on official Workday posting. \u00b7 **$22\u2013$34/hour** depending on degree level \u00b7 **In-region (NC)**. ML / generative AI / product data science for legal & professional products.",
+      "locations": [
+        "Raleigh, NC (onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
+      "deadlineLabel": "Applications open (apply while live)",
+      "term": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
+      "reward": "**$22\u2013$34/hour** depending on degree level",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 LexisNexis Legal & Professional (Raleigh)",
+      "organization": "LexisNexis Legal & Professional (RELX)",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692",
+      "description": "Currently enrolled student pursuing CS, engineering, computer engineering, or related. **Graduation date AFTER June 2027** \u2014 Class of 2029 OK. No citizenship / clearance / no-sponsorship language on official Workday posting (EOE lists citizenship status among protected categories). \u00b7 **$22\u2013$34/hour** depending on degree level \u00b7 **In-region (NC)**. AI-enabled legal products; agile, secure coding, APIs/services. Pair with LexisNexis Data Science Intern Raleigh.",
+      "locations": [
+        "Raleigh, NC (onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
+      "deadlineLabel": "Applications open (apply while live)",
+      "term": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
+      "reward": "**$22\u2013$34/hour** depending on degree level",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "AI Enablement & Forward-Deployed Engineering Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
       "organization": "Live Oak Bank",
       "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
@@ -661,6 +744,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Exploratory Software Engineer Intern \u2014 Summer 2027 \u2014 Lowe\u2019s (Charlotte)",
+      "organization": "Lowe\u2019s",
+      "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542",
+      "description": "Pursuing bachelor\u2019s in CS, Engineering, HCI, Data Science, or related. **Expected graduation Dec 2028, May 2029, Dec 2029, or May 2030** \u2014 **Class of 2029 explicit**. No citizenship / no-sponsorship language found on official Workday posting. (Regular Lowe\u2019s SWE Intern listing is Dec 2027 / May 2028 only \u2014 skipped.) \u00b7 Paid (confirm rate on apply) \u00b7 **In-region (NC)** + Class of 2029 window. Emerging tech / AI-ML / AR-VR / prototyping track vs standard SWE intern.",
+      "locations": [
+        "Charlotte, NC \u2014 Tech Hub (onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027** (10 weeks)",
+      "deadlineLabel": "Applications open (apply while live)",
+      "term": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027** (10 weeks)",
+      "reward": "Paid (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
       }
     },
     {
