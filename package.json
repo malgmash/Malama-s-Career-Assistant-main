@@ -10,12 +10,14 @@
     "typecheck": "tsc --noEmit",
     "ingest:once": "tsx scripts/run-ingest-once.ts",
     "normalize:once": "tsx scripts/run-normalize-once.ts",
-    "match:once": "tsx scripts/run-match-once.ts"
+    "match:once": "tsx scripts/run-match-once.ts",
+    "review:once": "tsx scripts/run-review-once.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.125.0",
     "@supabase/supabase-js": "^2.47.10",
     "next": "^16.3.5",
+    "pdf-parse": "^2.4.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

@@ -78,7 +78,7 @@ create table profile_facts (
 create table resumes (
   id           uuid primary key default gen_random_uuid(),
   label        text not null,
-  storage_path text not null,             -- Azure Blob path
+  storage_path text not null,             -- Supabase Storage path, "resumes" bucket
   parsed_text  text,
   role_family  text,
   created_at   timestamptz not null default now()
@@ -103,6 +103,19 @@ create table reviews (
   findings       jsonb not null,
   prompt_version text not null,
   created_at     timestamptz not null default now()
+);
+
+-- Added 010_review_requests.sql. reviews' score columns are all "not
+-- null" -- a reviews row can only represent a *completed* review -- so a
+-- request needs somewhere to sit in the gap between "the user asked for
+-- this" and "review:once computed it". Same split as raw_postings ->
+-- opportunities.
+create table review_requests (
+  id             uuid primary key default gen_random_uuid(),
+  resume_id      uuid not null references resumes(id) on delete cascade,
+  opportunity_id uuid not null references opportunities(id) on delete cascade,
+  requested_at   timestamptz not null default now(),
+  processed_at   timestamptz
 );
 
 create table applications (
@@ -151,12 +164,18 @@ scores stay for comparison instead of being silently overwritten.
 
 ## RLS posture
 
-Enable RLS on every table. Owner-only policies keyed on `auth.uid()`. Service
-role is used only by the ingestion and match worker code, and only for
-`sources`, `raw_postings`, `opportunities`, `opportunity_sources` and
-`matches`. `opportunities` and `matches` also grant anon read (see
+Enable RLS on every table. Owner-only policies check the session's email
+against the one real account (`007_owner_policies_by_email.sql`) rather
+than just `auth.uid() is not null`, once real login (magic link) existed to
+make "any authenticated session" a real hole, not a theoretical one.
+Service role is used only by the ingestion, match and review worker code,
+and only for `sources`, `raw_postings`, `opportunities`,
+`opportunity_sources`, `matches`, `resumes`, `review_requests` and
+`reviews`. `opportunities` and `matches` also grant anon read (see
 `003_anon_read_opportunities.sql`, `006_matches_eligible_and_anon_read.sql`)
-since the ranked feed is a static-export page with no server.
+since the ranked feed is a static-export page with no server. Resume files
+in Supabase Storage's `resumes` bucket get the same owner-by-email policy,
+on `storage.objects` (`009_resume_storage.sql`).
 
 Any function that needs elevated rights is `security definer` with
 `set search_path = public, pg_temp`.

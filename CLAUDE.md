@@ -16,8 +16,12 @@ Single user. Me. Not a product, not multi-tenant, but built as if it were.
 - Next.js (App Router) + TypeScript, hosted on Azure Static Web Apps
 - Supabase Postgres with Row Level Security
 - Azure Functions (timer trigger) for ingestion, Bicep for IaC
-- Azure Blob Storage for raw payloads and resume files
-- Azure AI Document Intelligence for resume parsing
+- Supabase Storage for resume files (raw payloads live in Postgres
+  `raw_postings`, not blob storage)
+- Local PDF text extraction (`pdf-parse`) for the deterministic structural
+  check; Anthropic API for everything requiring judgment (requirement
+  extraction, coverage, review). No Azure AI Document Intelligence — see
+  docs/DATA-MODEL.md for why (Azure subscription off for cost reasons)
 - Azure Key Vault for secrets, Application Insights for telemetry
 - Anthropic API for all LLM calls
 
