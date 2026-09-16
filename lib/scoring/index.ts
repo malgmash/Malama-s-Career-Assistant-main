@@ -21,6 +21,7 @@ export async function runMatchPass(): Promise<void> {
   const survivors = candidates.filter(
     (o) => !alreadyScored.has(o.id) && applyRules(o).pass,
   );
+  console.log(`runMatchPass: candidates=${candidates.length} alreadyScored=${alreadyScored.size} survivors=${survivors.length}`);
   if (survivors.length === 0) return;
 
   const facts = await getProfileFacts();

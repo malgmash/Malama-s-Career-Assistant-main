@@ -188,7 +188,14 @@ export async function rankBatch(
   const batchIds = new Set(batch.map((o) => o.id));
   const results: MatchResult[] = [];
   for (const row of rankings) {
-    if (!isRankOutputRow(row) || !batchIds.has(row.opportunity_id)) continue;
+    if (!isRankOutputRow(row)) {
+      console.log('rankBatch: row failed isRankOutputRow', JSON.stringify(row).slice(0, 300));
+      continue;
+    }
+    if (!batchIds.has(row.opportunity_id)) {
+      console.log('rankBatch: opportunity_id not in batch', row.opportunity_id, 'batch ids sample:', [...batchIds].slice(0, 3));
+      continue;
+    }
     results.push({
       opportunityId: row.opportunity_id,
       ruleScore: 100,
@@ -198,5 +205,6 @@ export async function rankBatch(
       blockers: row.blockers,
     });
   }
+  console.log(`rankBatch: batch=${batch.length} rankings=${rankings.length} results=${results.length}`);
   return results;
 }

@@ -1,5 +1,30 @@
 import { createServiceRoleClient } from './client';
 
+const PAGE_SIZE = 1000; // Supabase/PostgREST's own default row cap per request
+
+// Supabase caps any unpaginated .select() at 1000 rows — silently, no
+// error, no warning. Confirmed the hard way: past ~1000 opportunities and
+// ~1000 matches rows, getCandidateOpportunities and getScoredOpportunityIds
+// were each truncated to an arbitrary first 1000, which both hid genuine
+// new candidates past that row and made the "already scored" set
+// incomplete (causing wasteful re-scoring of rows actually already done).
+// This pages through every row regardless of table size — pass a function
+// that runs the same query with a given range.
+async function fetchAllPages<T>(
+  fetchPage: (from: number, to: number) => PromiseLike<{ data: T[] | null; error: unknown }>,
+): Promise<T[]> {
+  const rows: T[] = [];
+  let offset = 0;
+  for (;;) {
+    const { data, error } = await fetchPage(offset, offset + PAGE_SIZE - 1);
+    if (error) throw error;
+    rows.push(...(data ?? []));
+    if (!data || data.length < PAGE_SIZE) break;
+    offset += PAGE_SIZE;
+  }
+  return rows;
+}
+
 export type OpportunityForMatching = {
   id: string;
   kind: string;
@@ -34,12 +59,13 @@ export type MatchResult = {
 // candidate set.
 export async function getCandidateOpportunities(): Promise<OpportunityForMatching[]> {
   const db = createServiceRoleClient();
-  const { data, error } = await db
-    .from('opportunities')
-    .select('id, kind, title, org, location, description, deadline, tags, status, last_seen_at')
-    .neq('status', 'closed');
-  if (error) throw error;
-  return data ?? [];
+  return fetchAllPages<OpportunityForMatching>((from, to) =>
+    db
+      .from('opportunities')
+      .select('id, kind, title, org, location, description, deadline, tags, status, last_seen_at')
+      .neq('status', 'closed')
+      .range(from, to),
+  );
 }
 
 export async function getProfileFacts(): Promise<ProfileFactForMatching[]> {
@@ -54,12 +80,10 @@ export async function getProfileFacts(): Promise<ProfileFactForMatching[]> {
 // docs/SCORING.md's "cache, never rescore an unchanged row."
 export async function getScoredOpportunityIds(promptVersion: string): Promise<Set<string>> {
   const db = createServiceRoleClient();
-  const { data, error } = await db
-    .from('matches')
-    .select('opportunity_id')
-    .eq('prompt_version', promptVersion);
-  if (error) throw error;
-  return new Set((data ?? []).map((row) => row.opportunity_id));
+  const rows = await fetchAllPages<{ opportunity_id: string }>((from, to) =>
+    db.from('matches').select('opportunity_id').eq('prompt_version', promptVersion).range(from, to),
+  );
+  return new Set(rows.map((row) => row.opportunity_id));
 }
 
 export async function saveMatch(promptVersion: string, match: MatchResult): Promise<void> {
