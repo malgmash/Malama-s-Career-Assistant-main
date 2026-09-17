@@ -66,6 +66,21 @@ Shared by the match engine and the resume reviewer. Write it once.
 **May not invent:** any claim not traceable to a supplied fact id. Facts at
 `strength = 'coursework'` or `'exposure'` may not be written as experience.
 Missing requirements go in `gaps`, never written around.
+Persisted in `documents`: `content` (bullets joined by newline), `fact_ids`,
+plus `gaps` and `keywords_used` (added in `012_draft_requests.sql` — the
+original `documents` schema had no column for either, and silently
+dropping what the prompt is explicitly required to produce would defeat
+the point of asking for it).
+
+### `short-answer.vN`
+
+**In:** the opportunity, `profile_facts` rows with ids and strengths, and
+the actual application question (supplied by Malama — the question itself
+can't be invented, it varies per application and isn't derivable from the
+posting).
+**Out:** `{ answer, fact_ids[], gaps[] }`.
+**May not invent:** same rules as `tailor.vN` — no claim without a fact id,
+no coursework/exposure written as experience, gaps stay gaps.
 
 ## Evaluation
 

@@ -11,7 +11,8 @@
     "ingest:once": "tsx scripts/run-ingest-once.ts",
     "normalize:once": "tsx scripts/run-normalize-once.ts",
     "match:once": "tsx scripts/run-match-once.ts",
-    "review:once": "tsx scripts/run-review-once.ts"
+    "review:once": "tsx scripts/run-review-once.ts",
+    "draft:once": "tsx scripts/run-draft-once.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.125.0",
