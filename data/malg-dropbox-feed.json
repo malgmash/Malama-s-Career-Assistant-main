@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,11 +9,11 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 75,
+  "count": 78,
   "counts_by_category": {
-    "internships": 46,
+    "internships": 48,
     "conferences_summits_workshops": 9,
-    "hackathons": 15,
+    "hackathons": 16,
     "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
@@ -806,6 +806,62 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Product Owner Intern \u2014 Summer 2027 \u2014 Nasdaq (Atlanta)",
+      "organization": "Nasdaq",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976",
+      "description": "Currently pursuing a **Bachelor\u2019s** in Finance, Information Technology, Business, or related (or equivalent projects). Agile/Lean Product Owner exposure helpful. **No graduation-year cutoff** and **no citizenship / no-sponsorship / clearance language** on official Workday description \u2014 Class of 2029 OK. \u00b7 Paid Nasdaq internship program (confirm rate on apply) \u00b7 **In-region (GA)**. PM-track: backlog refinement, user stories/acceptance criteria, stakeholder discovery under a Product Owner mentor. Fits product management filter.",
+      "locations": [
+        "Atlanta, GA (Glenridge Point) \u2014 hybrid \u22653 days/week in-office"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 Nasdaq 10-week internship program",
+      "deadlineLabel": "Applications open (posted ~2026-09-16; apply while live)",
+      "term": "Summer 2027 \u2014 Nasdaq 10-week internship program",
+      "reward": "Paid Nasdaq internship program (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Developer/Engineer Intern \u2014 Summer 2027 \u2014 Nasdaq (Atlanta)",
+      "organization": "Nasdaq",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972",
+      "description": "Undergrad-friendly SWE intern role; posting lists skills (C#/.NET/Vue/SQL/cloud) with **no graduation-year cutoff** and **no citizenship / no-sponsorship / clearance language** on the official Workday description \u2014 Class of 2029 OK. EOE / inclusive workplace language present. \u00b7 Paid Nasdaq internship program (confirm rate on apply) \u00b7 **In-region (GA)**. Modern SaaS stack (C#, .NET Core, Vue.js, AWS/Terraform, microservices). Pair with Nasdaq Product Owner Intern Atlanta if exploring PM track.",
+      "locations": [
+        "Atlanta, GA (Glenridge Point) \u2014 hybrid \u22653 days/week in-office"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 Nasdaq 10-week internship program",
+      "deadlineLabel": "Applications open (posted ~2026-09-16; apply while live)",
+      "term": "Summer 2027 \u2014 Nasdaq 10-week internship program",
+      "reward": "Paid Nasdaq internship program (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Data Science Intern \u2014 NCR Atleos (Atlanta)",
       "organization": "NCR Atleos",
       "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern/job/ATLANTA-GA-USA/Data-Science-Intern_R1154686",
@@ -1360,6 +1416,33 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://codelinc11.devpost.com/"
+      }
+    },
+    {
+      "category": "hackathons",
+      "kind": "hackathon",
+      "title": "CrownHacks 2026 \u2014 Charlotte (UNC Charlotte)",
+      "organization": "CAIR (Club for AI Research) \u2014 Charlotte",
+      "url": "https://crownhacks.devpost.com/",
+      "description": "Ages **18+**; **college students only**; **US only** (U.S.-based participants \u2014 OK for international students studying in the US). No citizenship-only language in public blurb. \u00b7 **Travel reimbursement: not stated**. **In-region (NC)** \u2014 included without reimbursement. Prizes: iPad+Pencil / Apple Watch SE / AirPods (team awards). \u00b7 ~40-hour in-person hackathon targeting Carolinas builders. Rules page still \u201ccoming soon.\u201d Email airesearch@charlotte.edu with questions. See Funding for travel reimbursement yes/no.",
+      "locations": [
+        "UNC Charlotte \u2013 Union, Charlotte, NC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**October 9\u201311, 2026** (submissions Oct 9 7:00pm \u2013 Oct 11 11:00am EDT)",
+      "deadlineLabel": "Registration/submissions via Devpost \u2014 listed as opening soon; watch crownhacks.devpost.com",
+      "reward": "**Travel reimbursement: not stated**. **In-region (NC)** \u2014 included without reimbursement. Prizes: iPad+Pencil / Apple Watch SE / AirPods (team awards).",
+      "travel_reimbursement": "**Travel reimbursement: not stated**. **In-region (NC)** \u2014 included without reimbursement. Prizes: iPad+Pencil / Apple Watch SE / AirPods (team awards).",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "hackathons",
+        "hackathon"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://crownhacks.devpost.com/"
       }
     },
     {
