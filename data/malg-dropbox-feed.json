@@ -9,11 +9,11 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 78,
+  "count": 82,
   "counts_by_category": {
-    "internships": 48,
+    "internships": 49,
     "conferences_summits_workshops": 9,
-    "hackathons": 16,
+    "hackathons": 19,
     "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
@@ -462,6 +462,35 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Data Science Engineer Intern \u2014 Summer 2027 \u2014 Gordon Food Service (Atlanta)",
+      "organization": "Gordon Food Service",
+      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
+      "description": "Currently enrolled undergrad pursuing Bachelor\u2019s in **Math/Statistics, Data Science, or Computer Engineering**; **3.0+ GPA**. Posting requires being **authorized to work in the U.S.** with **no citizenship / clearance / explicit no-sponsorship / CPT-OPT bar** on the Workday description \u2014 F-1 with CPT typically OK; confirm on apply. **No graduation-year cutoff** \u2014 Class of 2029 OK. \u00b7 Paid weekly + flex hours, store discount, EAP (confirm rate on apply) \u00b7 **In-region (GA)**. Data pipelines, predictive models, stakeholder discovery, AI-as-collaborator team. North America\u2019s largest family-owned broadline food distributor.",
+      "locations": [
+        "Atlanta, GA \u2014 Atlanta Tech Hub (onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **12-week** paid internship program",
+      "deadlineLabel": "Applications open (Workday posted ~2026-09-16; `canApply=true` as of 2026-09-17)",
+      "term": "Summer 2027 \u2014 **12-week** paid internship program",
+      "reward": "Paid weekly + flex hours, store discount, EAP (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1"
       }
     },
     {
@@ -1586,6 +1615,60 @@
     {
       "category": "hackathons",
       "kind": "hackathon",
+      "title": "Hack ITP \u2014 Atlanta Tech Village (Buckhead)",
+      "organization": "Atlanta Tech Village / Hack ITP",
+      "url": "https://www.eventbrite.com/e/hack-itp-a-hackathon-for-builders-tickets-1999030811971",
+      "description": "Open to **students**, software engineers, product folks, creatives/designers (mixed student + professional weekend hackathon) \u00b7 **Free** entry. **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement. \u00b7 Two-day in-perimeter builders hackathon. Team matching + overnight optional. More info/FAQs at hackitp.com. See Funding for travel reimbursement yes/no.",
+      "locations": [
+        "Atlanta Tech Village \u2014 Buckhead, Atlanta, GA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**September 19\u201320, 2026** (doors/opening Sat morning; judging Sun afternoon)",
+      "deadlineLabel": "Eventbrite registration open \u2014 **tickets InStock** as of 2026-09-17; space limited",
+      "reward": "**Free** entry. **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "**Free** entry. **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement.",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "hackathons",
+        "hackathon"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.eventbrite.com/e/hack-itp-a-hackathon-for-builders-tickets-1999030811971"
+      }
+    },
+    {
+      "category": "hackathons",
+      "kind": "hackathon",
+      "title": "Hack Like W@CC 2026 \u2014 Back to 2016 \u2014 Georgia Tech",
+      "organization": "Women at the College of Computing (W@CC) \u2014 Georgia Tech",
+      "url": "https://hack-like-wacc-26.devpost.com/",
+      "description": "**Women and allies** across **U.S. universities**; must be above legal age of majority; US-based student event. Devpost lists \u201cU.S. University students with invitation\u201d \u2014 complete registration/application flow on Devpost. \u00b7 Meals listed on schedule (lunch/dinner/breakfast). **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement. \u00b7 Theme \u201cBack to 2016.\u201d Flagship W@CC hackathon. Devpost account required to submit; GitHub optional. Same mid-Oct Atlanta weekend as Girls Hoo Hack (Charlottesville). See Funding for travel reimbursement yes/no.",
+      "locations": [
+        "Klaus Atrium / Klaus 1116, Georgia Tech, Atlanta, GA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**October 17\u201318, 2026** (~11 AM Sat Oct 17 \u2192 ~3 PM Sun Oct 18; ~24 hours)",
+      "deadlineLabel": "**Registration OPEN** on Devpost (as of 2026-09-17); apply early",
+      "reward": "Meals listed on schedule (lunch/dinner/breakfast). **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "Meals listed on schedule (lunch/dinner/breakfast). **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement.",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "hackathons",
+        "hackathon"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://hack-like-wacc-26.devpost.com/"
+      }
+    },
+    {
+      "category": "hackathons",
+      "kind": "hackathon",
       "title": "Hack_NCState 2027",
       "organization": "NC State / MLH",
       "url": "https://hackncstate.org/",
@@ -1807,13 +1890,13 @@
       "title": "MLH Global Hack Week: Data \u2014 Digital",
       "organization": "Major League Hacking",
       "url": "https://events.mlh.io/events/14416-global-hack-week-data",
-      "description": "Open MLH digital week \u00b7 n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed. \u00b7 Digital Global Hack Week focused on data. Archive after Sep 17 if past. See Funding for travel reimbursement yes/no.",
+      "description": "Open MLH digital week \u00b7 n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed. \u00b7 Digital Global Hack Week focused on data. Official endDate **2026-09-17 18:00 UTC / 2:00 PM EDT**. Keep through end of day window; **archive on next scan after 2pm ET Sep 17**. See Funding for travel reimbursement yes/no.",
       "locations": [
         "Online / Everywhere, Worldwide"
       ],
       "datesConfirmed": true,
       "dateLabel": "**September 11\u201317, 2026**",
-      "deadlineLabel": "Event ongoing through Sep 17 \u2014 join ASAP if interested",
+      "deadlineLabel": "Ends **Thu Sep 17, 2:00 PM EDT** (18:00 UTC) \u2014 still ongoing at ~11am ET scan; archive after completion",
       "reward": "n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed.",
       "travel_reimbursement": "n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed.",
       "international_ok": true,
@@ -1882,6 +1965,33 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://www.renderatl.com/"
+      }
+    },
+    {
+      "category": "hackathons",
+      "kind": "hackathon",
+      "title": "SC Quantathon v3 \u2014 Clemson University",
+      "organization": "Clemson Quantum / Clemson University (Watt Family Innovation Center)",
+      "url": "https://forms.gle/vWRNfTQMNQBrGFUh7",
+      "description": "**Undergraduate and graduate students**, **18+**; teams of **3\u20135**; companies/professional orgs excluded. Devpost: **all countries/territories** (standard exceptions) \u2014 international students OK. \u00b7 **Free** + meals provided. Prizes announced at opening. **Travel reimbursement: no** / not advertised. **In-region (SC)** \u2014 included without reimbursement. \u00b7 Student-led **quantum** hackathon \u2014 hands-on learning, team problem solving, industry connection. Registering on Devpost alone is **not** enough \u2014 use the Google Form. Discord: linked in welcome email / https://discord.com/invite/HP4BhW3hnp. Contact cqc@clemson.edu. See Funding for travel reimbursement yes/no.",
+      "locations": [
+        "Watt Family Innovation Center, Clemson, SC"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "**September 25\u201327, 2026** (Fri check-in ~5 PM; Sat 10 AM\u2013Sun 10 AM hacking)",
+      "deadlineLabel": "Register via Google Form + Devpost; join Discord after welcome email \u2014 apply ASAP",
+      "reward": "**Free** + meals provided. Prizes announced at opening. **Travel reimbursement: no** / not advertised. **In-region (SC)** \u2014 included without reimbursement.",
+      "travel_reimbursement": "**Free** + meals provided. Prizes announced at opening. **Travel reimbursement: no** / not advertised. **In-region (SC)** \u2014 included without reimbursement.",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "hackathons",
+        "hackathon"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://forms.gle/vWRNfTQMNQBrGFUh7"
       }
     },
     {
