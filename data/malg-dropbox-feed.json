@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 81,
+  "count": 82,
   "counts_by_category": {
-    "internships": 49,
+    "internships": 50,
     "conferences_summits_workshops": 9,
     "hackathons": 18,
     "fellowships_and_ambassadorships": 5
@@ -773,6 +773,33 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Technology Project Management Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
+      "organization": "Live Oak Bank",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Technology-Project-Management_R-002625",
+      "description": "Currently enrolled in an **undergraduate** program; coursework/involvement related to project management, business, information systems, or related field. Interest in agile/PM tools (SmartSheet, Jira, Confluence a plus). No citizenship / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Paid internship program (posting lists a broad base pay range; confirm intern rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 23 (same window as Live Oak AI + Architecture). Technology Portfolio Management Office \u2014 support project managers on real delivery, agile ceremonies, capstone + mentor. Tech PM / delivery track (not product manager title). Soft filters: USA, undergrad, no citizenship bar.",
+      "locations": [
+        "Wilmington, NC (onsite HQ)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "deadlineLabel": "**2026-09-23** 11:59 p.m. ET",
+      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "reward": "Paid internship program (posting lists a broad base pay range; confirm intern rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Technology-Project-Management_R-002625"
       }
     },
     {
