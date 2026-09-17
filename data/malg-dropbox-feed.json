@@ -9,11 +9,11 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 82,
+  "count": 81,
   "counts_by_category": {
     "internships": 49,
     "conferences_summits_workshops": 9,
-    "hackathons": 19,
+    "hackathons": 18,
     "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
@@ -1882,34 +1882,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/"
-      }
-    },
-    {
-      "category": "hackathons",
-      "kind": "hackathon",
-      "title": "MLH Global Hack Week: Data \u2014 Digital",
-      "organization": "Major League Hacking",
-      "url": "https://events.mlh.io/events/14416-global-hack-week-data",
-      "description": "Open MLH digital week \u00b7 n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed. \u00b7 Digital Global Hack Week focused on data. Official endDate **2026-09-17 18:00 UTC / 2:00 PM EDT**. Keep through end of day window; **archive on next scan after 2pm ET Sep 17**. See Funding for travel reimbursement yes/no.",
-      "locations": [
-        "Online / Everywhere, Worldwide"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**September 11\u201317, 2026**",
-      "deadlineLabel": "Ends **Thu Sep 17, 2:00 PM EDT** (18:00 UTC) \u2014 still ongoing at ~11am ET scan; archive after completion",
-      "reward": "n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed.",
-      "travel_reimbursement": "n/a. **Travel reimbursement: n/a (online)**. Worldwide digital event \u2014 no travel needed.",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "hackathons",
-        "hackathon",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://events.mlh.io/events/14416-global-hack-week-data"
       }
     },
     {
