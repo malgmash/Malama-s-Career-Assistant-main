@@ -1,4 +1,5 @@
 import { createServiceRoleClient } from './client';
+import { fetchAllPages } from './pagination';
 
 export type PendingReviewRequest = {
   id: string;
@@ -8,16 +9,20 @@ export type PendingReviewRequest = {
   opportunities: { title: string; org: string; description: string | null };
 };
 
+// Paginated per lib/db/pagination.ts — low volume today, but this is the
+// same "unprocessed queue" shape that silently broke getUnprocessed() in
+// rawPostings.ts once it grew, so fixed here before it has the chance to.
 export async function getPendingReviewRequests(): Promise<PendingReviewRequest[]> {
   const db = createServiceRoleClient();
-  const { data, error } = await db
-    .from('review_requests')
-    .select(
-      'id, resume_id, opportunity_id, resumes!inner(storage_path, role_family), opportunities!inner(title, org, description)',
-    )
-    .is('processed_at', null);
-  if (error) throw error;
-  return (data ?? []) as unknown as PendingReviewRequest[];
+  return fetchAllPages<PendingReviewRequest>((from, to) =>
+    db
+      .from('review_requests')
+      .select(
+        'id, resume_id, opportunity_id, resumes!inner(storage_path, role_family), opportunities!inner(title, org, description)',
+      )
+      .is('processed_at', null)
+      .range(from, to) as unknown as PromiseLike<{ data: PendingReviewRequest[] | null; error: unknown }>,
+  );
 }
 
 export async function markRequestProcessed(id: string): Promise<void> {

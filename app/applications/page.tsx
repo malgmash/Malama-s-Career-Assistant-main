@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import type { Session } from '@supabase/supabase-js';
 import { createAnonClient } from '@/lib/db/publicClient';
+import { fetchAllPages } from '@/lib/db/pagination';
 import { RANK_PROMPT_VERSION } from '@/lib/scoring/config';
 
 // Matches docs/DATA-MODEL.md's applications.stage — plain text, no DB check
@@ -69,20 +70,22 @@ export default function ApplicationsPage() {
   }> => {
     const client = createAnonClient();
 
-    const [
-      { data: apps, error: appsError },
-      { data: eligible, error: eligibleError },
-      { data: docs, error: docsError },
-    ] = await Promise.all([
+    const [{ data: apps, error: appsError }, eligible, { data: docs, error: docsError }] = await Promise.all([
       client
         .from('applications')
         .select('id, stage, applied_at, notes, opportunity_id, opportunities(title, org, url, deadline)')
         .order('created_at', { ascending: false }),
-      client
-        .from('opportunities')
-        .select('id, title, org, url, matches!inner(eligible, prompt_version)')
-        .eq('matches.prompt_version', RANK_PROMPT_VERSION)
-        .eq('matches.eligible', true),
+      // Paginated per lib/db/pagination.ts — the eligible set is already
+      // past Supabase's 1000-row default cap (confirmed against real
+      // data), which would otherwise silently hide trackable opportunities.
+      fetchAllPages<TrackableOpportunity>((from, to) =>
+        client
+          .from('opportunities')
+          .select('id, title, org, url, matches!inner(eligible, prompt_version)')
+          .eq('matches.prompt_version', RANK_PROMPT_VERSION)
+          .eq('matches.eligible', true)
+          .range(from, to) as unknown as PromiseLike<{ data: TrackableOpportunity[] | null; error: unknown }>,
+      ),
       client
         .from('documents')
         .select('id, application_id, kind, content, fact_ids, gaps, keywords_used, created_at, applications(opportunities(title, org))')
@@ -90,13 +93,12 @@ export default function ApplicationsPage() {
     ]);
 
     if (appsError) throw appsError;
-    if (eligibleError) throw eligibleError;
     if (docsError) throw docsError;
 
     const trackedIds = new Set((apps ?? []).map((a) => a.opportunity_id));
     return {
       applications: (apps ?? []) as unknown as TrackedApplication[],
-      trackable: ((eligible ?? []) as unknown as TrackableOpportunity[]).filter((o) => !trackedIds.has(o.id)),
+      trackable: eligible.filter((o) => !trackedIds.has(o.id)),
       documents: (docs ?? []) as unknown as DraftDocument[],
     };
   }, []);

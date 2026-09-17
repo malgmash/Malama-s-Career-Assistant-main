@@ -1,29 +1,5 @@
 import { createServiceRoleClient } from './client';
-
-const PAGE_SIZE = 1000; // Supabase/PostgREST's own default row cap per request
-
-// Supabase caps any unpaginated .select() at 1000 rows — silently, no
-// error, no warning. Confirmed the hard way: past ~1000 opportunities and
-// ~1000 matches rows, getCandidateOpportunities and getScoredOpportunityIds
-// were each truncated to an arbitrary first 1000, which both hid genuine
-// new candidates past that row and made the "already scored" set
-// incomplete (causing wasteful re-scoring of rows actually already done).
-// This pages through every row regardless of table size — pass a function
-// that runs the same query with a given range.
-async function fetchAllPages<T>(
-  fetchPage: (from: number, to: number) => PromiseLike<{ data: T[] | null; error: unknown }>,
-): Promise<T[]> {
-  const rows: T[] = [];
-  let offset = 0;
-  for (;;) {
-    const { data, error } = await fetchPage(offset, offset + PAGE_SIZE - 1);
-    if (error) throw error;
-    rows.push(...(data ?? []));
-    if (!data || data.length < PAGE_SIZE) break;
-    offset += PAGE_SIZE;
-  }
-  return rows;
-}
+import { fetchAllPages } from './pagination';
 
 export type OpportunityForMatching = {
   id: string;

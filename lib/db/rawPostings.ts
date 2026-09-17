@@ -1,5 +1,6 @@
 import { createHash } from 'node:crypto';
 import { createServiceRoleClient } from './client';
+import { fetchAllPages } from './pagination';
 
 export type RawPostingRow = {
   id: string;
@@ -30,18 +31,24 @@ export async function insertIfNew(sourceId: string, payload: unknown): Promise<b
   return true;
 }
 
-export async function getUnprocessed(): Promise<
-  Array<RawPostingRow & { sources: { kind: string; config: Record<string, unknown> } }>
-> {
+type UnprocessedRow = RawPostingRow & { sources: { kind: string; config: Record<string, unknown> } };
+
+// Same 1000-row PostgREST default cap as lib/db/matches.ts — found here
+// the hard way too: getUnprocessed was capped, so once raw_postings grew
+// past ~1000 unprocessed rows, most never got normalized. malg_dropbox's
+// hackathon/conference postings ended up almost entirely stuck this way,
+// silently, with no error anywhere (lib/normalize's own catch block only
+// guards against a single row's normalize() throwing, not against never
+// being selected at all).
+export async function getUnprocessed(): Promise<UnprocessedRow[]> {
   const db = createServiceRoleClient();
-  const { data, error } = await db
-    .from('raw_postings')
-    .select('id, source_id, payload, sources!inner(kind, config)')
-    .is('processed_at', null);
-  if (error) throw error;
-  return (data ?? []) as unknown as Array<
-    RawPostingRow & { sources: { kind: string; config: Record<string, unknown> } }
-  >;
+  return fetchAllPages<UnprocessedRow>((from, to) =>
+    db
+      .from('raw_postings')
+      .select('id, source_id, payload, sources!inner(kind, config)')
+      .is('processed_at', null)
+      .range(from, to) as unknown as PromiseLike<{ data: UnprocessedRow[] | null; error: unknown }>,
+  );
 }
 
 export async function markProcessed(id: string): Promise<void> {

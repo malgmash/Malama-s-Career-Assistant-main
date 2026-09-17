@@ -1,4 +1,5 @@
 import { createServiceRoleClient } from './client';
+import { fetchAllPages } from './pagination';
 
 export type PendingDraftRequest = {
   id: string;
@@ -8,16 +9,20 @@ export type PendingDraftRequest = {
   applications: { opportunity_id: string; opportunities: { title: string; org: string; description: string | null } };
 };
 
+// Paginated per lib/db/pagination.ts — see reviews.ts's
+// getPendingReviewRequests for why an unprocessed-queue query gets this
+// treatment even at low current volume.
 export async function getPendingDraftRequests(): Promise<PendingDraftRequest[]> {
   const db = createServiceRoleClient();
-  const { data, error } = await db
-    .from('draft_requests')
-    .select(
-      'id, application_id, kind, question, applications!inner(opportunity_id, opportunities(title, org, description))',
-    )
-    .is('processed_at', null);
-  if (error) throw error;
-  return (data ?? []) as unknown as PendingDraftRequest[];
+  return fetchAllPages<PendingDraftRequest>((from, to) =>
+    db
+      .from('draft_requests')
+      .select(
+        'id, application_id, kind, question, applications!inner(opportunity_id, opportunities(title, org, description))',
+      )
+      .is('processed_at', null)
+      .range(from, to) as unknown as PromiseLike<{ data: PendingDraftRequest[] | null; error: unknown }>,
+  );
 }
 
 export async function markDraftProcessed(id: string): Promise<void> {

@@ -1,0 +1,33 @@
+name: Weekly digest
+
+# Deterministic, no Anthropic calls (see lib/digest) — just Supabase reads
+# and one write. Runs weekly plus a manual button for testing.
+#
+# Notification delivery (ntfy.sh) intentionally not wired up yet — the
+# digest is computed and stored, viewable at /digest, but nothing pushes
+# it to a phone yet. Revisit after Phase 7 wraps up.
+on:
+  schedule:
+    - cron: '0 13 * * 1' # Monday 9am ET
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - run: npm run digest:once
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
