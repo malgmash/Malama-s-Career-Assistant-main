@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 83,
+  "count": 84,
   "counts_by_category": {
-    "internships": 51,
+    "internships": 52,
     "conferences_summits_workshops": 9,
     "hackathons": 18,
     "fellowships_and_ambassadorships": 5
@@ -1306,6 +1306,35 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Development Intern \u2014 Summer 2027 \u2014 Tyler Technologies (Lawrenceville, GA)",
+      "organization": "Tyler Technologies",
+      "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD",
+      "description": "Currently studying **Computer Science / Computer Engineering or similar**; strong problem-solving / software design affinity. **No graduation-year cutoff** and **no citizenship / sponsorship / clearance / CPT-OPT bar** on the Jobvite posting \u2014 Class of 2029 OK; confirm on apply. \u00b7 Paid \u2014 **USD $20.00\u2013$25.00 hourly** \u00b7 **In-region (GA)**. Agile SCRUM team; full SDLC + QA; stack learning path C# / Node / Angular / cloud. Ideal-candidate language emphasizes strong natural affinity for development.",
+      "locations": [
+        "Lawrenceville, Georgia (Software Engineering)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Applications open (Jobvite live as of 2026-09-18 5pm ET)",
+      "term": "Summer 2027",
+      "reward": "Paid \u2014 **USD $20.00\u2013$25.00 hourly**",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD"
       }
     },
     {
