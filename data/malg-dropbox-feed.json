@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 82,
+  "count": 83,
   "counts_by_category": {
-    "internships": 50,
+    "internships": 51,
     "conferences_summits_workshops": 9,
     "hackathons": 18,
     "fellowships_and_ambassadorships": 5
@@ -462,6 +462,35 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Data Engineering Intern \u2014 Summer 2027 \u2014 Gordon Food Service (Atlanta)",
+      "organization": "Gordon Food Service",
+      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330",
+      "description": "Currently enrolled undergrad pursuing Bachelor\u2019s in **Computer Information Systems or related**; **3.0+ GPA**. Posting requires being **authorized to work in the U.S.** with **no citizenship / clearance / explicit no-sponsorship / CPT-OPT bar** on the Workday description \u2014 F-1 with CPT typically OK; confirm on apply. **No graduation-year cutoff** \u2014 Class of 2029 OK. \u00b7 Paid weekly + flex hours / benefits package (confirm rate on apply) \u00b7 **In-region (GA)**. Sibling to existing Gordon Data Science Engineer Intern (R-57243). Hands-on data pipelines / CDC with Python, SQL, GCP; monitoring/alerting; onboard sources to GCP data lake. Distinct req **R-57330**.",
+      "locations": [
+        "Atlanta, GA \u2014 Atlanta Tech Hub (onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **12-week** paid internship program",
+      "deadlineLabel": "Applications open (Workday `datePosted` 2026-09-17; `canApply=true` as of 2026-09-18)",
+      "term": "Summer 2027 \u2014 **12-week** paid internship program",
+      "reward": "Paid weekly + flex hours / benefits package (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330"
       }
     },
     {
@@ -1151,7 +1180,7 @@
       ],
       "datesConfirmed": true,
       "dateLabel": "Summer 2027 \u2014 Wed Jun 2 \u2013 Wed Aug 11, 2027 (10 weeks)",
-      "deadlineLabel": "Expected close **~2026-09-18** (iCIMS validThrough **2026-09-19T04:59Z** \u2014 apply ASAP; still open as of 2026-09-16)",
+      "deadlineLabel": "Expected close **~2026-09-18** (iCIMS validThrough **2026-09-19T04:59Z** \u2014 apply ASAP; still open as of 2026-09-18 8am ET \u2014 LAST DAY; validThrough 2026-09-19T04:59Z)",
       "term": "Summer 2027 \u2014 Wed Jun 2 \u2013 Wed Aug 11, 2027 (10 weeks)",
       "reward": "**$28/hour** + **$2,000 stipend**",
       "international_ok": true,
