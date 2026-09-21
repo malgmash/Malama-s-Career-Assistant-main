@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-21",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,11 +9,11 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 84,
+  "count": 80,
   "counts_by_category": {
     "internships": 52,
-    "conferences_summits_workshops": 9,
-    "hackathons": 18,
+    "conferences_summits_workshops": 8,
+    "hackathons": 15,
     "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
@@ -322,6 +322,33 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Tools Programmer Intern \u2014 Summer 2027 \u2014 Epic Games (Cary, NC)",
+      "organization": "Epic Games (Unreal Engine \u2014 Content Architecture)",
+      "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
+      "description": "Strong C++ / OOP / algorithms / debugging; Windows development experience; Unreal Engine a plus not required. **No graduation-year cutoff** on Greenhouse posting. Applicants must be **legally authorized to work** in the posting location for the internship duration \u2014 **no U.S.-citizens-only / clearance / ITAR / explicit no-sponsorship / CPT-OPT bar** on posting text \u2014 Class of 2029 OK; confirm CPT on apply. \u00b7 Paid (Epic Early Career) \u00b7 **In-region (NC)**. Tools / generalist programmer on Content Architecture \u2014 engine features/tools for packaging, distributing, and streaming game content. Distinct from already-tracked Epic Backend Services and Frontend Programmer Cary roles.",
+      "locations": [
+        "Cary, North Carolina, United States"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Flexible start in **2027** (SimplifyJobs lists **Summer 2027**)",
+      "deadlineLabel": "Ongoing recruitment until teams find an ideal match (Greenhouse live as of 2026-09-21 8am ET)",
+      "term": "Flexible start in **2027** (SimplifyJobs lists **Summer 2027**)",
+      "reward": "Paid (Epic Early Career)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004"
       }
     },
     {
@@ -1171,34 +1198,6 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 State Farm (Enterprise Technology)",
-      "organization": "State Farm",
-      "url": "https://jobs.statefarm.com/jobs/45589?icims=1",
-      "description": "Full-time college students (**Freshmen & Sophomores**); majors IS/IT/CS/Engineering/Cybersecurity/Statistics/Data; **at least one semester remaining after Summer 2027** \u2014 Class of 2029 OK. Must be eligible to work in the U.S. immediately; employer will **not sponsor H-1B** (CPT/OPT typically separate \u2014 confirm on apply). No U.S.-citizens-only language on posting. \u00b7 **$28/hour** + **$2,000 stipend** \u00b7 GA hub (Dunwoody) in-region. Seeking Freshmen/Sophomores \u2014 strong Class of 2029 fit. Related Innovation Group / Mainframe SWE postings exist on State Farm careers; this is the Multiple Teams Enterprise Technology Engineer track.",
-      "locations": [
-        "Remote (continental U.S.) with hub options including **Dunwoody, GA**; also Richardson TX, Tempe AZ, Bloomington IL"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 Wed Jun 2 \u2013 Wed Aug 11, 2027 (10 weeks)",
-      "deadlineLabel": "Expected close **~2026-09-18** (iCIMS validThrough **2026-09-19T04:59Z** \u2014 apply ASAP; still open as of 2026-09-18 **2pm ET** \u2014 LAST DAY; JobPosting live, validThrough 2026-09-19T04:59Z)",
-      "term": "Summer 2027 \u2014 Wed Jun 2 \u2013 Wed Aug 11, 2027 (10 weeks)",
-      "reward": "**$28/hour** + **$2,000 stipend**",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://jobs.statefarm.com/jobs/45589?icims=1"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
       "title": "Software Engineer Intern (Summer or Winter) \u2014 Stripe",
       "organization": "Stripe",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745",
@@ -1700,33 +1699,6 @@
     {
       "category": "hackathons",
       "kind": "hackathon",
-      "title": "Hack ITP \u2014 Atlanta Tech Village (Buckhead)",
-      "organization": "Atlanta Tech Village / Hack ITP",
-      "url": "https://www.eventbrite.com/e/hack-itp-a-hackathon-for-builders-tickets-1999030811971",
-      "description": "Open to **students**, software engineers, product folks, creatives/designers (mixed student + professional weekend hackathon) \u00b7 **Free** entry. **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement. \u00b7 Two-day in-perimeter builders hackathon. Team matching + overnight optional. More info/FAQs at hackitp.com. See Funding for travel reimbursement yes/no.",
-      "locations": [
-        "Atlanta Tech Village \u2014 Buckhead, Atlanta, GA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**September 19\u201320, 2026** (doors/opening Sat morning; judging Sun afternoon)",
-      "deadlineLabel": "Eventbrite registration open \u2014 **tickets InStock** as of 2026-09-17; space limited",
-      "reward": "**Free** entry. **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement.",
-      "travel_reimbursement": "**Free** entry. **Travel reimbursement: no** / not advertised. **In-region (GA)** \u2014 included without reimbursement.",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "hackathons",
-        "hackathon"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://www.eventbrite.com/e/hack-itp-a-hackathon-for-builders-tickets-1999030811971"
-      }
-    },
-    {
-      "category": "hackathons",
-      "kind": "hackathon",
       "title": "Hack Like W@CC 2026 \u2014 Back to 2016 \u2014 Georgia Tech",
       "organization": "Women at the College of Computing (W@CC) \u2014 Georgia Tech",
       "url": "https://hack-like-wacc-26.devpost.com/",
@@ -1803,33 +1775,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://hack.gt/"
-      }
-    },
-    {
-      "category": "hackathons",
-      "kind": "hackathon",
-      "title": "HackHers 2026 \u2014 Girls Who Code @ Georgia State University",
-      "organization": "Girls Who Code at GSU / MLH",
-      "url": "https://hackhers.club/",
-      "description": "Student hackathon (diversity-focused); see event site for full rules \u00b7 **Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement. \u00b7 MLH status **in_progress** as of 2026-09-18 11am ET (Sep 18\u201319). Tracks at kickoff. See Funding for travel reimbursement yes/no.",
-      "locations": [
-        "Atlanta, GA \u2014 Georgia State University College of Law, 85 Park Place NE"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**September 18\u201319, 2026**",
-      "deadlineLabel": "Event imminent \u2014 check registration on hackhers.club / MLH",
-      "reward": "**Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement.",
-      "travel_reimbursement": "**Travel reimbursement: no** / not stated. **In-region (GA)** \u2014 included without reimbursement.",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "hackathons",
-        "hackathon"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://hackhers.club/"
       }
     },
     {
@@ -2052,34 +1997,6 @@
       }
     },
     {
-      "category": "conferences_summits_workshops",
-      "kind": "conference",
-      "event_subtype": "conference",
-      "title": "CMD-IT Tapia Conference 2026 \u2014 Atlanta",
-      "organization": "CMD-IT / Tapia",
-      "url": "https://tapiaconference.cmd-it.org/",
-      "description": "Undergrad/grad students and professionals in computing \u00b7 Student scholarships historically cover registration + travel + hotel (many deadlines passed). **Travel reimbursement: scholarship-dependent**. **In-region (GA)** \u2014 included regardless. \u00b7 Focus themes: Frontier AI, Assistive Technologies, Cybersecurity. Urgent if still registering. See Funding for travel reimbursement yes/no.",
-      "locations": [
-        "Hyatt Regency Atlanta, Georgia"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**September 16\u201318, 2026**",
-      "deadlineLabel": "Main student scholarship deadline was earlier (Mar 2026); registration may still be open \u2014 check site ASAP",
-      "reward": "Student scholarships historically cover registration + travel + hotel (many deadlines passed). **Travel reimbursement: scholarship-dependent**. **In-region (GA)** \u2014 included regardless.",
-      "travel_reimbursement": "Student scholarships historically cover registration + travel + hotel (many deadlines passed). **Travel reimbursement: scholarship-dependent**. **In-region (GA)** \u2014 included regardless.",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "conferences_summits_workshops",
-        "conference"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://tapiaconference.cmd-it.org/"
-      }
-    },
-    {
       "category": "hackathons",
       "kind": "hackathon",
       "title": "UGAHacks \u2014 University of Georgia (Athens) \u2014 Feb 2027",
@@ -2104,33 +2021,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://ugahacks.com/"
-      }
-    },
-    {
-      "category": "hackathons",
-      "kind": "hackathon",
-      "title": "VTHacks 14 \u2014 Virginia Tech",
-      "organization": "VTHacks / Virginia Tech / MLH",
-      "url": "https://vthacks.com/",
-      "description": "Open to students including first-years and non-CS; non-VT students welcome (see FAQ on site) \u00b7 **Travel reimbursement: yes \u2014 selective** for attendees not from Blacksburg. Free to participate. **In-region (VA)**. \u00b7 Theme \u201cCode for the Cup.\u201d Free to participate. Apply ASAP \u2014 event is this weekend. See Funding for travel reimbursement yes/no.",
-      "locations": [
-        "Blacksburg, Virginia (in-person; exact venue pending on site)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**September 18\u201320, 2026** (~36 hours)",
-      "deadlineLabel": "Applications **now open** (as of site check)",
-      "reward": "**Travel reimbursement: yes \u2014 selective** for attendees not from Blacksburg. Free to participate. **In-region (VA)**.",
-      "travel_reimbursement": "**Travel reimbursement: yes \u2014 selective** for attendees not from Blacksburg. Free to participate. **In-region (VA)**.",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "hackathons",
-        "hackathon"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://vthacks.com/"
       }
     },
     {
