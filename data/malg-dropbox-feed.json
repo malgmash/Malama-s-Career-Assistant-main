@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 80,
+  "count": 79,
   "counts_by_category": {
-    "internships": 52,
+    "internships": 51,
     "conferences_summits_workshops": 8,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
@@ -382,29 +382,28 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "AI Engineer Intern \u2014 Finastra (Atlanta)",
-      "organization": "Finastra",
-      "url": "https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079",
-      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Confirm Class of 2029 / return-to-school on application.",
+      "title": "Quantitative Analysis Intern \u2014 Summer 2027 \u2014 First Citizens Bank (Raleigh)",
+      "organization": "First Citizens Bank / First Citizens BancShares",
+      "url": "https://firstcitizens.jibeapply.com/jobs/35602?icims=1",
+      "description": "Currently enrolled at an accredited collegiate institution during the summer program; HS Diploma/GED + 1 year experience. Preferred: Math, Engineering, Computer Science, or Finance; SAS/quant software; coding; 3.0+ GPA. **No citizenship / sponsorship / clearance bar** found on JobPosting \u2014 Class of 2029 OK (confirm CPT on apply). \u00b7 Paid bank internship (see jobs.firstcitizens.com/benefits) \u00b7 **In-region (NC)**. Compliance Division \u2014 build statistical models for consumer credit (data collection, research, modeling, code, reports). Data analysis / quant track.",
       "locations": [
-        "Atlanta, GA"
+        "Raleigh, NC"
       ],
       "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027",
-      "reward": "Paid (amount not listed)",
+      "dateLabel": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027**",
+      "deadlineLabel": "Applications open (Simplify added ~2026-09-21; apply ASAP)",
+      "term": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027**",
+      "reward": "Paid bank internship (see jobs.firstcitizens.com/benefits)",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
         "internships",
-        "internship",
-        "software engineering"
+        "internship"
       ],
       "source": {
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
-        "url": "https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079"
+        "url": "https://firstcitizens.jibeapply.com/jobs/35602?icims=1"
       }
     },
     {
@@ -1025,34 +1024,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 OpenGov (Atlanta)",
-      "organization": "OpenGov",
-      "url": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849",
-      "description": "Currently pursuing a **Bachelor's** in CS, Computer Engineering, or related (or equivalent). No U.S.-citizens-only or clearance language on posting. Class of 2029 OK. \u00b7 **$25/hour** (Atlanta) \u00b7 Full-stack production SaaS for public-sector ERP. TypeScript/JS/React/Node preferred. **In-region (GA)**. No citizenship restriction stated on posting.",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **Jun 7 \u2013 Aug 13, 2027** (10 weeks)",
-      "deadlineLabel": "Applications open (rolling / campus cycle \u2014 apply ASAP)",
-      "term": "Summer 2027 \u2014 **Jun 7 \u2013 Aug 13, 2027** (10 weeks)",
-      "reward": "**$25/hour** (Atlanta)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849"
       }
     },
     {
