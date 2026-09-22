@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 84,
+  "count": 86,
   "counts_by_category": {
-    "internships": 56,
+    "internships": 58,
     "conferences_summits_workshops": 8,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
@@ -515,6 +515,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Associate Product Manager Intern, Summer 2027 \u2014 Google",
+      "organization": "Google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
+      "description": "Currently enrolled in a degree program in Product Management, CS, Engineering, Data Science, Math, Statistics, or related technical field; PM/SWE/TA experience and technical presentations preferred path. Must be able to work full-time ~12 weeks and **return to a degree program after** the internship \u2014 Class of 2029 OK. No U.S.-citizens-only / clearance / explicit no-sponsorship bar on the APM Intern posting text. \u00b7 Paid Google internship (confirm range on Careers / offer) \u00b7 USA APM Intern track (not Mexico-citizenship-only roles that can appear in the same Careers shell). Returning-to-school preferred qualification aligns with Class of 2029.",
+      "locations": [
+        "Multiple U.S. sites (Mountain View, San Francisco / San Bruno, New York, and others listed on Careers)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 full-time ~**12 weeks** outside university term",
+      "deadlineLabel": "While live on Google Careers (Simplify added since 2026-09-22 8am; apply early \u2014 peer SWE BS window ~Sep 25)",
+      "term": "Summer 2027 \u2014 full-time ~**12 weeks** outside university term",
+      "reward": "Paid Google internship (confirm range on Careers / offer)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814"
       }
     },
     {
@@ -1445,6 +1473,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 UDig (Richmond / Nashville)",
+      "organization": "UDig",
+      "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003",
+      "description": "Currently pursuing a **Bachelor\u2019s or Master\u2019s** in CS, Software Engineering, Computer Engineering, Information Systems, or related; OOP/modern language (Java/C#/Python/JS/TS); data structures/algorithms/Git. **No citizenship / no-sponsorship / CPT-OPT bar** on Greenhouse posting \u2014 Class of 2029 OK; confirm CPT on apply. \u00b7 Paid \u2014 Virginia good-faith hourly **$25/hr** (posted) \u00b7 **In-region (Richmond, VA)** + Nashville TN hub option. Consulting delivery on live client engagement; mentorship; cloud/DevOps exposure.",
+      "locations": [
+        "Richmond, VA or Nashville, TN (hybrid hub)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **8 weeks** (~**June 7 \u2013 July 30, 2027**)",
+      "deadlineLabel": "Rolling / while live on Greenhouse (listing updated **2026-09-22** ~10:03am ET)",
+      "term": "Summer 2027 \u2014 **8 weeks** (~**June 7 \u2013 July 30, 2027**)",
+      "reward": "Paid \u2014 Virginia good-faith hourly **$25/hr** (posted)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
       }
     },
     {
