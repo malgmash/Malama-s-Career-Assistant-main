@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 79,
+  "count": 84,
   "counts_by_category": {
-    "internships": 51,
+    "internships": 56,
     "conferences_summits_workshops": 8,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
@@ -294,6 +294,61 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Data Science Intern \u2014 Summer 2027 \u2014 Epic Games (Cary, NC)",
+      "organization": "Epic Games (ECOSEC \u2014 Ecosystem Security)",
+      "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+      "description": "Data science intern supporting fraud/abuse detection initiatives. **No graduation-year cutoff** on Greenhouse posting. Applicants must be **legally authorized to work** in the posting location for the internship duration \u2014 **no U.S.-citizens-only / clearance / ITAR / explicit no-sponsorship / CPT-OPT bar** on posting text \u2014 Class of 2029 OK; confirm CPT on apply. \u00b7 Paid (Epic Early Career) \u00b7 **In-region (NC)**. ECOSEC data science \u2014 fraud and abuse detection across products/services. Distinct from already-tracked Epic Tools / Backend / Frontend Cary roles.",
+      "locations": [
+        "Cary, North Carolina, United States"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Flexible start in **2027** (SimplifyJobs lists **Summer 2027**)",
+      "deadlineLabel": "Ongoing recruitment until teams find an ideal match (Greenhouse live as of 2026-09-22 8am ET)",
+      "term": "Flexible start in **2027** (SimplifyJobs lists **Summer 2027**)",
+      "reward": "Paid (Epic Early Career)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Engine Programmer Intern \u2014 Summer 2027 \u2014 Epic Games (Cary, NC)",
+      "organization": "Epic Games (Engineering \u2014 Games / Fortnite Online)",
+      "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+      "description": "Engine / online systems programming for Fortnite Online. **No graduation-year cutoff** on Greenhouse posting. Applicants must be **legally authorized to work** in the posting location for the internship duration \u2014 **no U.S.-citizens-only / clearance / ITAR / explicit no-sponsorship / CPT-OPT bar** on posting text \u2014 Class of 2029 OK; confirm CPT on apply. \u00b7 Paid (Epic Early Career) \u00b7 **In-region (NC)**. Engine Programmer Intern on Fortnite Online \u2014 distinct from Tools / Backend / Frontend / Data Science Cary roles. Another Engine Programmer Intern (6147283004) also on board; this Simplify-new ID is 6202659004.",
+      "locations": [
+        "Cary, North Carolina, United States"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Flexible start in **2027** (SimplifyJobs lists **Summer 2027**; Greenhouse \u201c2027 season\u201d)",
+      "deadlineLabel": "Ongoing recruitment until teams find an ideal match (Greenhouse live as of 2026-09-22 8am ET)",
+      "term": "Flexible start in **2027** (SimplifyJobs lists **Summer 2027**; Greenhouse \u201c2027 season\u201d)",
+      "reward": "Paid (Epic Early Career)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004"
       }
     },
     {
@@ -828,6 +883,91 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Data Engineer Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
+      "organization": "Live Oak Bank",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634",
+      "description": "Undergrad/grad technical track for data engineering (pipelines, models, data marts) \u2014 no citizenship / no-sponsorship language on posting; no grad-year cutoff \u2014 Class of 2029 OK. Confirm exact degree language on apply. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 28. Cross-functional scrum / scaled-agile data products for bank domains (deposits, loans, checking); ingestion patterns, transformative models, RBAC / data platform processes.",
+      "locations": [
+        "Wilmington, NC (onsite HQ)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "deadlineLabel": "**2026-09-28** 11:59 p.m. ET (Workday endDate 2026-09-29)",
+      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "reward": "Paid internship program (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Data Science Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
+      "organization": "Live Oak Bank",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
+      "description": "Currently enrolled full-time in Finance, Applied Mathematics, Computer Science, Statistics, Data Science, or related; experience in scripting (e.g. Python) and data querying. No citizenship / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 28. Analytics team \u2014 KPIs, visualizations, deep-dive analyses for business units.",
+      "locations": [
+        "Wilmington, NC (onsite HQ)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "deadlineLabel": "**2026-09-28** 11:59 p.m. ET (Workday endDate 2026-09-29)",
+      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "reward": "Paid internship program (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
+      "organization": "Live Oak Bank",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643",
+      "description": "Currently pursuing a **Bachelor's or Master's** in CS, Software Engineering, IT, or related technical field; experience with at least one of Java / JavaScript / TypeScript / Python / C# / Go; basics of data structures / OOP / web tech. No citizenship / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 28. Distinct from already-tracked Live Oak AI Enablement / Architecture / TPM roles (those close ~Sep 23). Design/develop/test/maintain software apps with engineers, analysts, and designers.",
+      "locations": [
+        "Wilmington, NC (onsite HQ)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "deadlineLabel": "**2026-09-28** 11:59 p.m. ET (Workday endDate 2026-09-29)",
+      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "reward": "Paid internship program (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
       }
     },
     {
