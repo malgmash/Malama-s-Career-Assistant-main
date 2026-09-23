@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 86,
+  "count": 88,
   "counts_by_category": {
-    "internships": 58,
+    "internships": 60,
     "conferences_summits_workshops": 8,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
@@ -1247,6 +1247,62 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 Backend Focused \u2014 Summer 2027 \u2014 Rippling (SF / Seattle / NYC)",
+      "organization": "Rippling",
+      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "description": "Currently enrolled in a **Bachelor\u2019s or Master\u2019s** in CS or related; **graduating after the internship\u2019s completion** (Class of 2029 OK). Backend-focused programming experience. **No citizenship / no-sponsorship / CPT-OPT bar** on ATS posting \u2014 confirm sponsorship/CPT on apply. \u00b7 Paid (amount not listed on posting) \u00b7 National USA SWE backend internship at HR/IT/Finance platform. Mentorship + scoped production projects. Office hubs SF/Seattle/NYC.",
+      "locations": [
+        "San Francisco, CA; Seattle, WA; or New York, NY (in-office hybrid; office-based policy ~3 days/week)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **~13 weeks** (May/June \u2013 August/September)",
+      "deadlineLabel": "Applications open (Rippling ATS live as of 2026-09-23 8am ET)",
+      "term": "Summer 2027 \u2014 **~13 weeks** (May/June \u2013 August/September)",
+      "reward": "Paid (amount not listed on posting)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Full Stack Software Engineer Intern \u2014 Summer 2027 \u2014 Rippling (SF / NYC / Seattle)",
+      "organization": "Rippling",
+      "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+      "description": "Currently enrolled in a **Bachelor\u2019s or Master\u2019s** in CS or related; **graduation date after completion of the internship** (Class of 2029 OK). Frontend + backend (JS/HTML/CSS + Python called out). **No citizenship / no-sponsorship / CPT-OPT bar** on ATS posting \u2014 confirm sponsorship/CPT on apply. \u00b7 Paid (amount not listed on posting) \u00b7 National USA full-stack SWE internship (explicit front+back). Mentorship + scoped production projects. Office hubs SF/NYC/Seattle.",
+      "locations": [
+        "San Francisco, CA; New York, NY; or Seattle, WA (in-office hybrid; office-based policy ~3 days/week)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **~13 weeks** (May/June \u2013 August/September)",
+      "deadlineLabel": "Applications open (Rippling ATS live as of 2026-09-23 8am ET)",
+      "term": "Summer 2027 \u2014 **~13 weeks** (May/June \u2013 August/September)",
+      "reward": "Paid (amount not listed on posting)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
       }
     },
     {
