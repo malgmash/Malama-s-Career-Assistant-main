@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 88,
+  "count": 91,
   "counts_by_category": {
-    "internships": 60,
+    "internships": 63,
     "conferences_summits_workshops": 8,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
@@ -404,6 +404,90 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Digital Analytics Intern \u2014 Summer 2027 \u2014 Excellus BCBS (Rochester / NY sites)",
+      "organization": "Excellus BlueCross BlueShield (Lifetime Healthcare Companies)",
+      "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2",
+      "description": "Full-time **undergraduate or graduate** enrollment; desired majors include Mathematics & Data Science / Business Analytics / related. **No class-year / Class of 2029 cutoff** on posting. **No citizenship / no-sponsorship / CPT-OPT bar** on Workday posting \u2014 confirm work auth on apply. \u00b7 Paid \u2014 about **$18\u2013$20/hr** (Level I range on posting) \u00b7 Digital analytics / adoption analysis internship. Preferred (not required): Google Analytics, Excel.",
+      "locations": [
+        "Rochester, NY (also listed De Witt, Utica, Albany, Binghamton, Buffalo, NY)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **~10-week** paid college internship",
+      "deadlineLabel": "Applications open (Workday `canApply=true` as of 2026-09-23 11am ET)",
+      "term": "Summer 2027 \u2014 **~10-week** paid college internship",
+      "reward": "Paid \u2014 about **$18\u2013$20/hr** (Level I range on posting)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Mobile Software Engineering Intern \u2014 Summer 2027 \u2014 Excellus BCBS (Rochester / NY sites)",
+      "organization": "Excellus BlueCross BlueShield (Lifetime Healthcare Companies)",
+      "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
+      "description": "Full-time **undergraduate or graduate** enrollment in Computing Sciences / IT / Software Engineering / related; good academic standing. **No class-year / Class of 2029 cutoff** on posting. **No citizenship / no-sponsorship / CPT-OPT bar** on Workday posting \u2014 confirm work auth on apply. \u00b7 Paid \u2014 about **$18\u2013$20/hr** (Level I range on posting) \u00b7 Mobile SWE team internship. Preferred (not required): programming/coding, web design, software development.",
+      "locations": [
+        "Rochester, NY (also listed De Witt, Utica, Albany, Binghamton, Buffalo, NY)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **~10-week** paid college internship",
+      "deadlineLabel": "Applications open (Workday `canApply=true` as of 2026-09-23 11am ET)",
+      "term": "Summer 2027 \u2014 **~10-week** paid college internship",
+      "reward": "Paid \u2014 about **$18\u2013$20/hr** (Level I range on posting)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Excellus BCBS (Rochester / NY sites)",
+      "organization": "Excellus BlueCross BlueShield (Lifetime Healthcare Companies)",
+      "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1",
+      "description": "Full-time **undergraduate or graduate** enrollment in Computing Sciences / IT / Software Engineering / related; good academic standing. **No class-year / Class of 2029 cutoff** on posting. **No citizenship / no-sponsorship / CPT-OPT bar** on Workday posting \u2014 confirm work auth on apply. \u00b7 Paid \u2014 about **$18\u2013$20/hr** (Level I range on posting) \u00b7 Multiple SWE openings. Preferred (not required): Azure/AWS, C#, Angular, GIT, Github Copilot / AI coding tools. USA NY health-plan tech internship.",
+      "locations": [
+        "Rochester, NY (also listed De Witt, Utica, Albany, Binghamton, Buffalo, NY)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **~10-week** paid college internship",
+      "deadlineLabel": "Applications open (Workday `canApply=true` as of 2026-09-23 11am ET)",
+      "term": "Summer 2027 \u2014 **~10-week** paid college internship",
+      "reward": "Paid \u2014 about **$18\u2013$20/hr** (Level I range on posting)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1"
       }
     },
     {
