@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 91,
+  "count": 87,
   "counts_by_category": {
-    "internships": 63,
+    "internships": 59,
     "conferences_summits_workshops": 8,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
@@ -944,62 +944,6 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "AI Enablement & Forward-Deployed Engineering Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
-      "organization": "Live Oak Bank",
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
-      "description": "Currently enrolled in an **undergraduate or graduate** program; portfolio/GitHub of shipped projects; AI-tool fluency. No citizenship / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 23. Embed with lending/ops teams, ship AI solutions employees use, teach AI champions. Builders preferred over pure coursework resumes.",
-      "locations": [
-        "Wilmington, NC (onsite HQ)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "deadlineLabel": "**2026-09-23** 11:59 p.m. ET",
-      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "reward": "Paid internship program (confirm rate on apply)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Architecture / Engineering Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
-      "organization": "Live Oak Bank",
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630",
-      "description": "**Sophomore, junior, or senior** pursuing CS, Computer Engineering, or equivalent; Git + one of Python/Java/JS/TS/C#; APIs/REST familiarity. No citizenship / no-sponsorship language on posting \u2014 Class of 2029 (sophomore path) OK. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** software/systems architecture (not civil). Vendor/AI integrations, PoCs, internal tools with eng + business stakeholders. Deadline Sep 23.",
-      "locations": [
-        "Wilmington, NC (onsite HQ)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "deadlineLabel": "**2026-09-23** 11:59 p.m. ET",
-      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "reward": "Paid internship program (confirm rate on apply)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
       "title": "Data Engineer Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
       "organization": "Live Oak Bank",
       "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634",
@@ -1080,33 +1024,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Technology Project Management Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
-      "organization": "Live Oak Bank",
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Technology-Project-Management_R-002625",
-      "description": "Currently enrolled in an **undergraduate** program; coursework/involvement related to project management, business, information systems, or related field. Interest in agile/PM tools (SmartSheet, Jira, Confluence a plus). No citizenship / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Paid internship program (posting lists a broad base pay range; confirm intern rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 23 (same window as Live Oak AI + Architecture). Technology Portfolio Management Office \u2014 support project managers on real delivery, agile ceremonies, capstone + mentor. Tech PM / delivery track (not product manager title). Soft filters: USA, undergrad, no citizenship bar.",
-      "locations": [
-        "Wilmington, NC (onsite HQ)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "deadlineLabel": "**2026-09-23** 11:59 p.m. ET",
-      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "reward": "Paid internship program (posting lists a broad base pay range; confirm intern rate on apply)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Technology-Project-Management_R-002625"
       }
     },
     {
@@ -1698,34 +1615,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Full-Stack Software Engineer Intern (Undergraduate) \u2014 Summer 2027 \u2014 WEX (Remote)",
-      "organization": "WEX Inc.",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
-      "description": "Pursuing **Bachelor's** in CS / ML / Software Engineering / related; **at least Sophomore year completed** before internship start. No U.S.-citizens-only or clearance language on posting. Class of 2029 OK. \u00b7 **$27\u2013$35/hour** \u00b7 React + C#/.NET full-stack; AI agents/LLM exposure. Related undergrad tracks also open: Backend C#/Java & AI Workflows (R22586), Backend Cloud Security & AI (R22589), AI & Data Platform Engineering (R23055). Confirm CPT/work auth on apply \u2014 posting does not bar international students.",
-      "locations": [
-        "Remote (U.S.); hybrid/onsite options also offered in WEX program"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 ~13 weeks late May to mid-August",
-      "deadlineLabel": "Campus recruiting **Sep\u2013Dec 2026** (apply ASAP)",
-      "term": "Summer 2027 \u2014 ~13 weeks late May to mid-August",
-      "reward": "**$27\u2013$35/hour**",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593"
       }
     },
     {
