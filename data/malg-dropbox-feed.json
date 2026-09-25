@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 87,
+  "count": 89,
   "counts_by_category": {
-    "internships": 59,
+    "internships": 61,
     "conferences_summits_workshops": 8,
     "hackathons": 15,
     "fellowships_and_ambassadorships": 5
@@ -522,6 +522,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "IT Summer Intern \u2014 Software Developer \u2014 Summer 2027 \u2014 First Citizens Bank (Raleigh)",
+      "organization": "First Citizens Bank / First Citizens BancShares",
+      "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1",
+      "description": "Currently enrolled at an accredited collegiate institution during the summer program; HS Diploma/GED + 1 year experience. Preferred: Bachelor\u2019s in Computer Science, MIS, Systems Engineering, or related; 3.0+ GPA. **No citizenship / sponsorship / clearance bar** on JobPosting \u2014 Class of 2029 OK (confirm CPT on apply). \u00b7 Paid bank internship (see jobs.firstcitizens.com/benefits) \u00b7 **In-region (NC)**. Distinct from Quantitative Analysis intern (job 35602). IT org Software Developer track \u2014 research/analytics/projects/process improvement/tech support; mentor + peer advisor; wrap-up presentation to CIO.",
+      "locations": [
+        "Raleigh, NC (onsite Data Center 100 East Tryon Road; some WFH but weekly in-office)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027**",
+      "deadlineLabel": "Applications open (Simplify new 2026-09-25 11am; apply ASAP)",
+      "term": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027**",
+      "reward": "Paid bank internship (see jobs.firstcitizens.com/benefits)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Quantitative Analysis Intern \u2014 Summer 2027 \u2014 First Citizens Bank (Raleigh)",
       "organization": "First Citizens Bank / First Citizens BancShares",
       "url": "https://firstcitizens.jibeapply.com/jobs/35602?icims=1",
@@ -853,6 +881,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Developer Intern \u2014 Summer 2027 \u2014 ICF (Reston, VA)",
+      "organization": "ICF",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+      "description": "By start date, minimum 15 completed college-level credit hours; pursuing/planning bachelor\u2019s or master\u2019s in CS, IS, SWE, Data Science, IT, or related. **Must be authorized to work in the United States** (federal contract wording \u2014 CPT/OPT typically qualifies; **no U.S. citizenship / clearance / no-sponsorship bar** on posting). Class of 2029 OK. \u00b7 Paid (pay range listed ~$37,855\u2013$64,354 annualized guideline); no housing/relocation assistance \u00b7 **In-region (VA)**. Enterprise software / low-code (Salesforce, ServiceNow, Appian), automation, cloud, AI-assisted development; Agile. Reappeared active on Simplify this run.",
+      "locations": [
+        "Reston, VA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 ~10 weeks June\u2013August",
+      "deadlineLabel": "Applications open (Simplify false\u2192active 2026-09-25 11am; apply ASAP)",
+      "term": "Summer 2027 \u2014 ~10 weeks June\u2013August",
+      "reward": "Paid (pay range listed ~$37,855\u2013$64,354 annualized guideline); no housing/relocation assistance",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
       }
     },
     {
