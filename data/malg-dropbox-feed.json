@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -132,28 +132,29 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "AI/Automation Intern \u2014 Summer 2027 \u2014 Cox (Atlanta)",
-      "organization": "Cox",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
-      "description": "Pursuing a **bachelor\u2019s or advanced degree** in Computer Science, Information Systems, Data Analytics, MIS, Engineering, AI, Machine Learning, or related \u2014 **no hard grad-year cutoff** stated; 2029-ok \u00b7 Paid \u2014 confirm on apply \u00b7 Complements existing Cox DS/PM Atlanta files. RPA (UiPath/Blue Prism) + AI automation focus.",
+      "title": "WaveLogic Software Intern \u2014 Summer 2027 \u2014 Ciena (Atlanta)",
+      "organization": "Ciena",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695",
+      "description": "Actively enrolled in a **bachelor's** degree in Electrical/Computer Engineering (C/C++, embedded systems). **No citizenship / clearance / no-sponsorship / CPT-OPT bar** on Workday posting text \u2014 confirm work auth on apply. No hard grad-year cutoff stated \u2014 Class of 2029 OK if enrolled. \u00b7 Paid \u2014 listed range **$27.00\u2013$37.50**/hr (primary location) \u00b7 Embedded/WaveLogic software (C/C++, Linux/RTOS, device drivers) \u2014 systems/software track, not the previously barred Ciena Atlanta Spring hardware role. Distinct requisition R031695.",
       "locations": [
         "Atlanta, GA"
       ],
       "datesConfirmed": true,
       "dateLabel": "Summer 2027",
-      "deadlineLabel": "Not stated \u2014 apply early",
+      "deadlineLabel": "Applications open (Workday `canApply=true` as of 2026-09-25 8am ET)",
       "term": "Summer 2027",
-      "reward": "Paid \u2014 confirm on apply",
+      "reward": "Paid \u2014 listed range **$27.00\u2013$37.50**/hr (primary location)",
       "international_ok": true,
       "tags": [
         "malg-dropbox",
         "internships",
-        "internship"
+        "internship",
+        "software engineering"
       ],
       "source": {
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342"
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695"
       }
     },
     {
@@ -576,6 +577,61 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "ML Research Intern \u2013 BS/MS \u2014 Summer 2027 \u2014 Genesis Molecular AI (NYC / SF Bay)",
+      "organization": "Genesis Molecular AI",
+      "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e",
+      "description": "Currently enrolled in a **Bachelor's or Master's** in Computer Science, Machine Learning, or related technical field. **No citizenship / clearance / no-sponsorship bar** on Ashby posting text \u2014 confirm work auth on apply. Class of 2029 OK. \u00b7 Paid (confirm on apply) \u00b7 BS/MS track (not the separate PhD Summer 2027 posting). Drug-discovery ML / multi-modal models.",
+      "locations": [
+        "NYC or SF Bay Area (hybrid)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Applications open (Ashby live as of 2026-09-25 8am ET; deadline field blank on posting)",
+      "term": "Summer 2027",
+      "reward": "Paid (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern \u2014 2027 \u2014 Genesis Molecular AI (San Mateo)",
+      "organization": "Genesis Molecular AI",
+      "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+      "description": "Strong software engineer profile for tools/infra around ML + chemistry workflows. **No citizenship / clearance / no-sponsorship bar** on Ashby posting text \u2014 confirm work auth on apply. No hard grad-year cutoff on posting \u2014 Class of 2029 OK if enrolled. \u00b7 Paid (confirm on apply) \u00b7 Core software platform for molecular AI (visualization, ML tooling, infra). Sibling BS/MS ML Research Intern also added this run.",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "2027 internship (Simplify tags Summer 2027)",
+      "deadlineLabel": "Applications open (Ashby live as of 2026-09-25 8am ET; deadline field blank on posting)",
+      "term": "2027 internship (Simplify tags Summer 2027)",
+      "reward": "Paid (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Data Analytics Intern, Summer 2027 \u2014 Genworth (Richmond, VA)",
       "organization": "Genworth Financial",
       "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1",
@@ -713,64 +769,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Engineer Intern \u2014 The Hartford Tech & Data (Charlotte)",
-      "organization": "The Hartford",
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648",
-      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Data-track role; verify eligibility details on Workday.",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 Tech & Data Program",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027 \u2014 Tech & Data Program",
-      "reward": "Paid (amount not listed)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 The Hartford Tech & Data (Charlotte)",
-      "organization": "The Hartford",
-      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
-      "description": "Bachelor's or Master's (Simplify) \u00b7 Paid (amount not listed) \u00b7 Confirm return-to-school / Class of 2029 on posting.",
-      "locations": [
-        "Charlotte, NC"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 Tech & Data Program",
-      "deadlineLabel": "Not stated \u2014 apply early",
-      "term": "Summer 2027 \u2014 Tech & Data Program",
-      "reward": "Paid (amount not listed)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
       }
     },
     {
