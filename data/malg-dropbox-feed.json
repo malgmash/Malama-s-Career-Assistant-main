@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 85,
+  "count": 86,
   "counts_by_category": {
-    "internships": 60,
+    "internships": 61,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -628,6 +628,35 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Data-Analytics-Intern---Summer-2027_REQ-260288-1"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Engineering Summer Analyst \u2014 Americas \u2014 Summer 2027 \u2014 Goldman Sachs (Salt Lake City)",
+      "organization": "Goldman Sachs",
+      "url": "https://higher.gs.com/roles/171565?type=students",
+      "description": "Students pursuing a **Bachelor\u2019s** / graduate degree; Engineering Division (Technology / strategists). **No citizenship / sponsorship / clearance language** on higher.gs role page \u2014 Class of 2029 OK (no grad-year cutoff). \u00b7 Paid Summer Analyst (confirm on apply) \u00b7 Role title on GS: \u201c2027 | Americas | Salt Lake City | Engineering | Summer Analyst\u201d. status=POSTED, applyActive=true. Distinct from NYC/other GS locations. USA-only keep.",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (nine to ten week Summer Analyst Program)",
+      "deadlineLabel": "Not stated \u2014 apply early while `applyActive`",
+      "term": "Summer 2027 (nine to ten week Summer Analyst Program)",
+      "reward": "Paid Summer Analyst (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://higher.gs.com/roles/171565?type=students"
       }
     },
     {
