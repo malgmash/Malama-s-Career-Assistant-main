@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 86,
+  "count": 85,
   "counts_by_category": {
-    "internships": 61,
+    "internships": 60,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -1304,34 +1304,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Associate Software Engineer Intern \u2014 Sophomore Only \u2014 Summer 2027 \u2014 RRS Group (Remote / SF)",
-      "organization": "RRS Group",
-      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
-      "description": "Currently enrolled bachelor\u2019s; **classified as a Sophomore for 2026\u20132027**; expected graduation **December 2028 or August 2029**; min 3.0 GPA; experience with at least one of Java / C/C++ / .NET / Python / JavaScript / HTML. **No citizenship / no-sponsorship / clearance language** on posting \u2014 Class of 2029 OK. \u00b7 Paid (confirm rate on apply); benefits/wellness programs listed \u00b7 Explicit **sophomore-only** cohort \u2014 strong Class of 2029 fit. Collaborative/international team language; Agile practices.",
-      "locations": [
-        "Remote in USA (San Francisco listed; `#Remote` on posting)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "Rolling \u2014 apply early (programs close when filled; only **9** positions)",
-      "term": "Summer 2027",
-      "reward": "Paid (confirm rate on apply); benefits/wellness programs listed",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819"
       }
     },
     {
