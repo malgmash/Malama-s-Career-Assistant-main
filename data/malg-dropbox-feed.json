@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 86,
+  "count": 84,
   "counts_by_category": {
-    "internships": 61,
+    "internships": 59,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -916,91 +916,6 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "Data Engineer Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
-      "organization": "Live Oak Bank",
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634",
-      "description": "Undergrad/grad technical track for data engineering (pipelines, models, data marts) \u2014 no citizenship / no-sponsorship language on posting; no grad-year cutoff \u2014 Class of 2029 OK. Confirm exact degree language on apply. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 28. Cross-functional scrum / scaled-agile data products for bank domains (deposits, loans, checking); ingestion patterns, transformative models, RBAC / data platform processes.",
-      "locations": [
-        "Wilmington, NC (onsite HQ)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "deadlineLabel": "**2026-09-28** 11:59 p.m. ET (Workday endDate 2026-09-29)",
-      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "reward": "Paid internship program (confirm rate on apply)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Science Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
-      "organization": "Live Oak Bank",
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
-      "description": "Currently enrolled full-time in Finance, Applied Mathematics, Computer Science, Statistics, Data Science, or related; experience in scripting (e.g. Python) and data querying. No citizenship / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 28. Analytics team \u2014 KPIs, visualizations, deep-dive analyses for business units.",
-      "locations": [
-        "Wilmington, NC (onsite HQ)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "deadlineLabel": "**2026-09-28** 11:59 p.m. ET (Workday endDate 2026-09-29)",
-      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "reward": "Paid internship program (confirm rate on apply)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
-      "organization": "Live Oak Bank",
-      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643",
-      "description": "Currently pursuing a **Bachelor's or Master's** in CS, Software Engineering, IT, or related technical field; experience with at least one of Java / JavaScript / TypeScript / Python / C# / Go; basics of data structures / OOP / web tech. No citizenship / no-sponsorship language on posting \u2014 Class of 2029 OK. \u00b7 Paid internship program (confirm rate on apply) \u00b7 **In-region (NC)** + hard deadline Sep 28. Distinct from already-tracked Live Oak AI Enablement / Architecture / TPM roles (those close ~Sep 23). Design/develop/test/maintain software apps with engineers, analysts, and designers.",
-      "locations": [
-        "Wilmington, NC (onsite HQ)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "deadlineLabel": "**2026-09-28** 11:59 p.m. ET (Workday endDate 2026-09-29)",
-      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
-      "reward": "Paid internship program (confirm rate on apply)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
       "title": "Exploratory Software Engineer Intern \u2014 Summer 2027 \u2014 Lowe\u2019s (Charlotte)",
       "organization": "Lowe\u2019s",
       "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542",
@@ -1277,6 +1192,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://phs.weill.cornell.edu/research-collaboration/divisions-institutes/biostatistics/biostatistics-summer-internship"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Robot Software Engineer Intern \u2014 Rhoda AI (Mountain View)",
+      "organization": "Rhoda AI",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5",
+      "description": "Currently pursuing an **undergraduate or graduate** degree in CS, Robotics, Electrical Engineering, or related \u2014 or recent graduate. Solid CS foundations (data structures, algorithms, OS, networking). No U.S.-citizens-only / no-sponsorship language on Ashby posting. **Class of 2029 OK.** \u00b7 Paid internship (confirm rate on apply) \u00b7 On-robot software platform stack \u2014 networking/comms, data collection pipelines, telemetry, teleop, inference infra, developer tooling; ship code that runs on physical robots. Related PM\u2013Robot Data Systems Internship also on Ashby (not added \u2014 \u201cclose to graduation\u201d language less Class-of-2029 fit).",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (listed on SimplifyJobs Summer2027-Internships; dates confirm on apply)",
+      "deadlineLabel": "Applications open (apply ASAP)",
+      "term": "Summer 2027 (listed on SimplifyJobs Summer2027-Internships; dates confirm on apply)",
+      "reward": "Paid internship (confirm rate on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5"
       }
     },
     {
