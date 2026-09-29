@@ -1563,12 +1563,12 @@
     {
       "category": "internships",
       "kind": "internship",
-      "title": "Software Engineer Intern (BS/MS) \u2014 Summer 2027 \u2014 Waymo (San Francisco)",
+      "title": "Software Engineer Intern (BS/MS), Commercialization \u2014 Summer 2027 \u2014 Waymo (Mountain View / San Francisco)",
       "organization": "Waymo",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
-      "description": "**BS or MS** software engineering track. Proficient in **C++**; data fluency. Robotics/ML preferred but not required. No U.S.-citizens-only or clearance language on posting. Class of 2029 OK for BS track. \u00b7 **$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility \u00b7 Analyze ML vs production behavior; cluster analysis; port desirable ML behavior to production systems. Autonomous driving software. Confirm CPT/work auth on apply \u2014 posting does not bar international students. Related: Commercialization SWE Intern also open (separate gh_jid).",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "description": "Progressing toward **BS or MS** in Computer Science or related. Backend/infrastructure + commercial ops interest; C++ preferred. No U.S.-citizens-only or clearance language on posting. Class of 2029 OK for BS track. \u00b7 **$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility \u00b7 Backend infrastructure stability/reliability; Event Response / vehicle maintenance features; robotaxi marketplace supply-demand; ML/optimization for routing, demand, dispatch, ETA. Confirm CPT/work auth on apply \u2014 posting does not bar international students. Related keep: Driver Refinement BS (`8224900`) still live.",
       "locations": [
-        "San Francisco / Mountain View, CA (hybrid onsite)"
+        "Mountain View / San Francisco, CA (hybrid onsite)"
       ],
       "datesConfirmed": true,
       "dateLabel": "Summer 2027",
@@ -1585,7 +1585,7 @@
       "source": {
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
       }
     },
     {
