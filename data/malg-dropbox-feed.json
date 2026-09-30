@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 84,
+  "count": 86,
   "counts_by_category": {
-    "internships": 59,
+    "internships": 61,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -860,6 +860,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Product Manager Intern \u2014 Summer 2027 \u2014 Intuit (Mountain View / San Diego)",
+      "organization": "Intuit",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
+      "description": "Currently enrolled in a degree-seeking program (associate\u2019s / bachelor's / master\u2019s / MBA / PhD) with **expected graduation after the internship ends** \u2014 **Class of 2029 OK**. Must be **legally authorized to work in the U.S. for the duration of the internship** (CPT typically relevant \u2014 confirm). No U.S.-citizens-only / no-sponsorship bar on posting. \u00b7 Paid (confirm range on apply) \u00b7 Inclusive US PM intern posting across Intuit product orgs. Same work-auth wording as existing Intuit Mobile SWE keep. Confirm CPT on apply.",
+      "locations": [
+        "Mountain View, CA / San Diego, CA (US Product Management internship posting)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 Cohort 1 May 17\u2013Aug 6 **or** Cohort 2 June 14\u2013Sep 3",
+      "deadlineLabel": "Applications open (campus cycle \u2014 apply ASAP)",
+      "term": "Summer 2027 \u2014 Cohort 1 May 17\u2013Aug 6 **or** Cohort 2 June 14\u2013Sep 3",
+      "reward": "Paid (confirm range on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Data Science Intern \u2014 Summer 2027 \u2014 LexisNexis Legal & Professional (Raleigh)",
       "organization": "LexisNexis Legal & Professional (RELX)",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
@@ -1530,6 +1558,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern, BS \u2014 Depot Automation \u2014 Summer 2027 \u2014 Waymo (San Francisco)",
+      "organization": "Waymo",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
+      "description": "Currently pursuing a **Bachelor's** degree. Data pipelines (C++/SQL), full-stack/UI for ops dashboards, integration testing. **No U.S.-citizens-only / sponsorship / clearance language** on Greenhouse posting. **Class of 2029 OK** (no grad-year cutoff). \u00b7 **$60/hour (Bachelors)** + benefits eligibility \u00b7 SysEng Commercialization / depot ops \u2014 low-latency C++/SQL telemetry pipelines + responsive frontend ops dashboard; collaborate with triage/ops. Distinct from MS/PhD Planner ML (`8234876`, skipped \u2014 PhD). Related keeps: Driver Refinement BS (`8224900`), Commercialization BS/MS (`8198218`).",
+      "locations": [
+        "San Francisco, CA (hybrid onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling until filled (apply ASAP; apply separately to each Waymo role of interest \u2014 top 3 recommended)",
+      "term": "Summer 2027",
+      "reward": "**$60/hour (Bachelors)** + benefits eligibility",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553"
       }
     },
     {
