@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 92,
+  "count": 93,
   "counts_by_category": {
-    "internships": 67,
+    "internships": 68,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -1726,6 +1726,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern, BS \u2014 Labeling \u2014 Summer 2027 \u2014 Waymo (Mountain View)",
+      "organization": "Waymo",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+      "description": "Currently pursuing a **Bachelor's** degree in Computer Science or related field. C++ and TypeScript labeling infrastructure / compiler design for ML data curation. **No U.S.-citizens-only / sponsorship / clearance language** on Greenhouse posting. **Class of 2029 OK** (no grad-year cutoff). \u00b7 **$60/hour (Bachelors)** + benefits eligibility \u00b7 Labeling team \u2014 labeling infrastructure / compiler design / C++ & TypeScript for data curation feeding Waymo ML models. Distinct from Embedded BS/MS (`8221198`), Scenes BS/MS (`8210170`), Depot Automation BS (`8234553`), Driver Refinement Foundations BS (`8224900`), Commercialization BS/MS (`8198218`).",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling until filled (apply ASAP; apply separately to each Waymo role of interest \u2014 top 3 recommended)",
+      "term": "Summer 2027",
+      "reward": "**$60/hour (Bachelors)** + benefits eligibility",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
       }
     },
     {
