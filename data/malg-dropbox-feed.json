@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 86,
+  "count": 92,
   "counts_by_category": {
-    "internships": 61,
+    "internships": 67,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -127,6 +127,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Developer Intern \u2014 Summer 2027 \u2014 Athene (West Des Moines)",
+      "organization": "Athene",
+      "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125",
+      "description": "Must be **enrolled at an accredited college/university for Fall term 2027**; currently enrolled in Computer Science, Information Technology, or related. C#/.NET MVC/Angular/AWS/Azure a plus. **No U.S.-citizens-only / sponsorship / clearance language** on Workday posting \u2014 Class of 2029 OK (confirm CPT on apply). \u00b7 Paid; paid housing option if eligible \u00b7 Build small\u2013medium apps, testing, technical design docs with senior mentorship; SDLC/project exposure. Professional development + networking events.",
+      "locations": [
+        "West Des Moines, IA (onsite \u2014 7700 Mills Civic Parkway)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 mid-May to early August (in-office)",
+      "deadlineLabel": "Interviews/hiring expected prior to mid-November (some as early as late September) \u2014 apply ASAP",
+      "term": "Summer 2027 \u2014 mid-May to early August (in-office)",
+      "reward": "Paid; paid housing option if eligible",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125"
       }
     },
     {
@@ -522,6 +550,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "IT Summer Intern \u2014 Software Developer \u2014 Summer 2027 \u2014 First Citizens Bank (Raleigh)",
+      "organization": "First Citizens Bank / First Citizens BancShares",
+      "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1",
+      "description": "Currently enrolled at an accredited collegiate institution during the summer program; HS Diploma/GED + 1 year experience. Preferred: Bachelor\u2019s in Computer Science, MIS, Systems Engineering, or related; 3.0+ GPA. **No citizenship / sponsorship / clearance bar** on JobPosting \u2014 Class of 2029 OK (confirm CPT on apply). \u00b7 Paid bank internship (see jobs.firstcitizens.com/benefits) \u00b7 **In-region (NC)**. Distinct from Quantitative Analysis intern (job 35602). IT org Software Developer track \u2014 research/analytics/projects/process improvement/tech support; mentor + peer advisor; wrap-up presentation to CIO. Previously archived 2026-09-28 as unavailable; **live again** in `/api/jobs` search results.",
+      "locations": [
+        "Raleigh, NC (onsite Data Center 100 East Tryon Road; some WFH but weekly in-office)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027**",
+      "deadlineLabel": "Applications open (Simplify F2A 2026-09-30 11am; jibeapply JobPosting `datePosted` 2026-09-30 \u2014 apply ASAP)",
+      "term": "Summer 2027 \u2014 **May 24 \u2013 July 30, 2027**",
+      "reward": "Paid bank internship (see jobs.firstcitizens.com/benefits)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Software Engineer Intern, Summer 2027 \u2014 Garmin (Cary, NC)",
       "organization": "Garmin",
       "url": "https://careers.garmin.com/jobs/20131?icims=1",
@@ -888,6 +944,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 KLA (Milpitas)",
+      "organization": "KLA",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572",
+      "description": "Currently pursuing a **Bachelor's or Master's** in CS, Computer Engineering, Software Engineering, or related. **Expected graduation December 2027 \u2013 June 2029** \u2014 **Class of 2029 OK**. C++/C#/Python/Java/JS; OOP/DSA. **No U.S.-citizens-only / sponsorship / clearance language** on Workday posting. \u00b7 **$37 \u2013 $49 / hour** (Bachelors\u2013Masters range posted) \u00b7 FaST / Semi PC software team \u2014 design, implement, test software for semiconductor process control & inspection; Git/CI/CD; optional AI/ML/vision exposure. Distinct from Optical Engineer Intern posts (skipped \u2014 wrong field).",
+      "locations": [
+        "Milpitas, CA (USA primary)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Applications open (Simplify new 2026-09-30 11am; apply ASAP)",
+      "term": "Summer 2027",
+      "reward": "**$37 \u2013 $49 / hour** (Bachelors\u2013Masters range posted)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Data Science Intern \u2014 Summer 2027 \u2014 LexisNexis Legal & Professional (Raleigh)",
       "organization": "LexisNexis Legal & Professional (RELX)",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
@@ -939,6 +1023,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Architecture / Engineering Intern \u2014 Summer 2027 \u2014 Live Oak Bank (Wilmington)",
+      "organization": "Live Oak Bank",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630",
+      "description": "**Sophomore, junior, or senior** pursuing CS, Computer Engineering, or equivalent; Git + one of Python/Java/JS/TS/C#; APIs/REST familiarity. No citizenship / no-sponsorship language on posting \u2014 Class of 2029 (sophomore path) OK. \u00b7 **$19.77 \u2013 $32.12 / hour** (posted range) \u00b7 **In-region (NC)** software/systems architecture (not civil). Vendor/AI integrations, PoCs, internal tools with eng + business stakeholders. Previously archived 2026-09-24 after Sep 23 deadline; **reposted today** with new Oct 2 application deadline.",
+      "locations": [
+        "Wilmington, NC (onsite HQ)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "deadlineLabel": "**2026-10-02** 11:59 p.m. ET (Workday endDate **2026-10-03** / \u201c2 days left to apply\u201d as of 2026-09-30 11am ET)",
+      "term": "Summer 2027 \u2014 **May 17 \u2013 July 23, 2027** (10 weeks)",
+      "reward": "**$19.77 \u2013 $32.12 / hour** (posted range)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
       }
     },
     {
@@ -1642,6 +1754,62 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern, BS/MS \u2014 Embedded \u2014 Summer 2027 \u2014 Waymo (Mountain View)",
+      "organization": "Waymo",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "description": "Enrolled in a **BS or MS** program in CS, Computer Engineering, Software Engineering, Information Systems, or related. Strong C/C++, data structures, pointers/memory, Linux/Git. **No U.S.-citizens-only / sponsorship / clearance language** on Greenhouse posting. **Class of 2029 OK** (no grad-year cutoff). \u00b7 **$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility \u00b7 Hardware-org Embedded SWE \u2014 on-vehicle firmware + off-vehicle simulation/tooling at the edge of the Waymo Driver (steering/braking/sensors). Distinct from Depot Automation BS (`8234553`), Driver Refinement BS (`8224900`), Commercialization BS/MS (`8198218`), Scenes BS/MS (`8210170`).",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling until filled (apply ASAP; apply separately to each Waymo role of interest \u2014 top 3 recommended)",
+      "term": "Summer 2027",
+      "reward": "**$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern, BS/MS \u2014 Scenes \u2014 Summer 2027 \u2014 Waymo (Mountain View)",
+      "organization": "Waymo",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170",
+      "description": "Currently pursuing a degree in Computer Science or related; C++ and Python; data structures / problem solving. **No U.S.-citizens-only / sponsorship / clearance language** on Greenhouse posting. **Class of 2029 OK** (no grad-year cutoff). \u00b7 **$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility \u00b7 Launch features improving driving behavior in dynamic scenes; work with onboard eng to integrate/validate large ML models in real-time systems. Prefer ML/CV/motion-planning exposure. Distinct from Depot Automation / Driver Refinement / Commercialization / Embedded keeps.",
+      "locations": [
+        "Mountain View, CA (hybrid onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling until filled (apply ASAP; apply separately to each Waymo role of interest \u2014 top 3 recommended)",
+      "term": "Summer 2027",
+      "reward": "**$60/hour (Bachelors)** / **$70/hour (Masters)** + benefits eligibility",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170"
       }
     },
     {
