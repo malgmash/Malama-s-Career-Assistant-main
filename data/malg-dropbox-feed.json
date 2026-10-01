@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 93,
+  "count": 95,
   "counts_by_category": {
-    "internships": 68,
+    "internships": 70,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -132,6 +132,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Assurant (Atlanta / Miami / Chicago)",
+      "organization": "Assurant",
+      "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727",
+      "description": "Currently enrolled in a **bachelor\u2019s** in CS, Software Development, Information Systems, or related; **at least one semester remaining** after the internship; expected graduation **December 2027 \u2013 June 2029**. **Class of 2029 fit.** No U.S.-citizenship / no-sponsorship language on Workday posting. \u00b7 Paid **$20 \u2013 $25 / hour** \u00b7 **In-region (GA)** among location options. Hands-on SWE intern (integrations, cloud, observability). Confirm CPT/work-auth on apply \u2014 posting does not bar international students.",
+      "locations": [
+        "Hybrid \u2014 **Atlanta, GA** / Miami, FL / Chicago, IL (team dependent)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **May 17 \u2013 August 7, 2027** (12 weeks)",
+      "deadlineLabel": "Rolling / pipeline (no posting end date listed; apply ASAP)",
+      "term": "Summer 2027 \u2014 **May 17 \u2013 August 7, 2027** (12 weeks)",
+      "reward": "Paid **$20 \u2013 $25 / hour**",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Software Developer Intern \u2014 Summer 2027 \u2014 Athene (West Des Moines)",
       "organization": "Athene",
       "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125",
@@ -188,6 +216,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 Clay (New York City)",
+      "organization": "Clay",
+      "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa",
+      "description": "Currently pursuing a degree in **Computer Science or related**; hands-on building experience (internships, coursework, projects, or hackathons). No U.S.-citizenship / no-sponsorship language on Ashby posting; **no hard grad-year cutoff**. Class of 2029 OK. \u00b7 Paid (confirm on apply) \u00b7 Full-stack / AI-forward product eng (React, TypeScript, Python, Node, AWS). Out-of-region (NYC) but Class-of-2029-ok with no citizenship bar.",
+      "locations": [
+        "New York, NY (onsite)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (term per Ashby / Simplify Summer2027 listing)",
+      "deadlineLabel": "Rolling while listed (apply ASAP)",
+      "term": "Summer 2027 (term per Ashby / Simplify Summer2027 listing)",
+      "reward": "Paid (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Data Scientist Intern, Summer 2027 \u2014 Cox (Atlanta, GA)",
       "organization": "Cox",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
@@ -239,34 +295,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Thrive \u2014 Summer 2027 \u2014 Duolingo (Pittsburgh)",
-      "organization": "Duolingo",
-      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
-      "description": "**Second-year undergraduate** pursuing Bachelor\u2019s in CS or related; graduating **December 2028 \u2013 August 2029**; \u22652 college-level CS courses (transcript); Java/Python/Kotlin/Swift. Asks sponsorship/OPT questions on apply (does not state a ban). **Class of 2029 fit.** \u00b7 Paid (Duolingo intern benefits; confirm on apply) \u00b7 Thrive track is explicitly for earlier-year undergrads / Class of 2029 window. Regular Duolingo SWE Intern requires graduating Dec 2027\u2013Aug 2028 \u2014 **skipped** (excludes 2029). Prefer Pittsburgh Thrive if applying as Class of 2029.",
-      "locations": [
-        "Pittsburgh, PA (relocate for internship)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 **June 14 \u2013 August 20, 2027** (10 consecutive weeks)",
-      "deadlineLabel": "**2026-09-30**",
-      "term": "Summer 2027 \u2014 **June 14 \u2013 August 20, 2027** (10 consecutive weeks)",
-      "reward": "Paid (Duolingo intern benefits; confirm on apply)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002"
       }
     },
     {
@@ -406,6 +434,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Technical Product Management Intern \u2014 Epic Games (Cary, NC)",
+      "organization": "Epic Games",
+      "url": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004",
+      "description": "Currently enrolled in, or recently graduated from, a degree program in Business, MIS, CS, Software Engineering, or related. Same Epic early-career language as other Cary keepers: must be **legally authorized to work** at the posting location for the internship duration; **no hard grad-year cutoff** in Greenhouse content. Class of 2029 OK. \u00b7 Paid (Epic early career) \u00b7 **In-region (NC)**. TPM track complements existing Cary programmer / data-science intern keepers. Confirm CPT as work authorization on apply.",
+      "locations": [
+        "Cary, North Carolina"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Flexible start in **2027** (recruitment ongoing until teams match)",
+      "deadlineLabel": "Ongoing until filled",
+      "term": "Flexible start in **2027** (recruitment ongoing until teams match)",
+      "reward": "Paid (Epic early career)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004"
       }
     },
     {
