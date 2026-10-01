@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 95,
+  "count": 96,
   "counts_by_category": {
-    "internships": 70,
+    "internships": 71,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -434,6 +434,33 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Gameplay Programmer Intern \u2014 Epic Games (Cary, NC)",
+      "organization": "Epic Games",
+      "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004",
+      "description": "Strong C++ and interest in gameplay programming; same Epic early-career language as other Cary keepers \u2014 must be **legally authorized to work** at the posting location for the internship duration; **no hard grad-year cutoff** in Greenhouse content. Class of 2029 OK. \u00b7 Paid (Epic early career) \u00b7 **In-region (NC)**. Hands-on Unreal/C++ gameplay features for Fortnite Reload. Complements existing Cary programmer / TPM / data-science intern keepers. Confirm CPT as work authorization on apply.",
+      "locations": [
+        "Cary, North Carolina"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Flexible start in **2027** (Fortnite Reload / Games engineering; recruitment ongoing until teams match)",
+      "deadlineLabel": "Ongoing until filled",
+      "term": "Flexible start in **2027** (Fortnite Reload / Games engineering; recruitment ongoing until teams match)",
+      "reward": "Paid (Epic early career)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004"
       }
     },
     {
