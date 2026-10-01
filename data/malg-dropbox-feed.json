@@ -1987,12 +1987,12 @@
       "title": "Clojure Conj 2026 \u2014 Charlotte, NC",
       "organization": "Clojure Conj",
       "url": "https://2026.clojure-conj.org",
-      "description": "Open registration \u00b7 **Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement. \u00b7 Niche functional-programming conference; good if exploring Clojure/FP. See Funding for travel reimbursement yes/no.",
+      "description": "Open registration \u00b7 **Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement. \u00b7 Niche functional-programming conference; good if exploring Clojure/FP. See Funding for travel reimbursement yes/no. **Scan note (2026-10-01 5pm ET):** Official site lists **Sept 30 \u2013 Oct 2, 2026** (multi-day; still in progress / ends tomorrow). Do not archive until after Oct 2.",
       "locations": [
         "Charlotte, North Carolina"
       ],
       "datesConfirmed": true,
-      "dateLabel": "**September 30, 2026** (per conference-data; confirm end date on site)",
+      "dateLabel": "**September 30 \u2013 October 2, 2026** (live site 2026.clojure-conj.org; ongoing through Oct 2)",
       "deadlineLabel": "See 2026.clojure-conj.org",
       "reward": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
       "travel_reimbursement": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
@@ -2046,8 +2046,8 @@
         "UNC Charlotte \u2013 Union, Charlotte, NC"
       ],
       "datesConfirmed": true,
-      "dateLabel": "**October 9\u201311, 2026** (submissions Oct 9 7:00pm \u2013 Oct 11 11:00am EDT)",
-      "deadlineLabel": "Registration/submissions via Devpost \u2014 listed as opening soon; watch crownhacks.devpost.com",
+      "dateLabel": "**November 6\u20138, 2026** (submissions Nov 6 7:00pm \u2013 Nov 8 11:00am EST; Devpost startDate/endDate confirmed 2026-10-01 5pm ET)",
+      "deadlineLabel": "Registration/submissions via Devpost (open / upcoming Nov 6\u20138)",
       "reward": "**Travel reimbursement: not stated**. **In-region (NC)** \u2014 included without reimbursement. Prizes: iPad+Pencil / Apple Watch SE / AirPods (team awards).",
       "travel_reimbursement": "**Travel reimbursement: not stated**. **In-region (NC)** \u2014 included without reimbursement. Prizes: iPad+Pencil / Apple Watch SE / AirPods (team awards).",
       "international_ok": true,
