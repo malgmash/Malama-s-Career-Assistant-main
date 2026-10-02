@@ -9,14 +9,41 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 97,
+  "count": 99,
   "counts_by_category": {
-    "internships": 72,
-    "conferences_summits_workshops": 8,
+    "internships": 75,
+    "conferences_summits_workshops": 7,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Intern, Quantitative Research \u2014 American Bankers Association (Washington, DC)",
+      "organization": "American Bankers Association (ABA)",
+      "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
+      "description": "Currently enrolled pursuing undergrad/grad/PhD with **expected graduation December 2027 or later** \u2014 **Class of 2029 OK**. Excel + Python or R for data cleaning/stats/visualization; financial statement analysis. No U.S.-citizenship / no-sponsorship / clearance language on Workday posting. \u00b7 **$25/hour** undergrad ($30 grad / $35 PhD/Law); 37.5 hrs/week \u00b7 Quant/policy data analysis on banks & NBFIs; trade association research team.",
+      "locations": [
+        "Washington, DC (onsite \u22652 days/week)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 **June 7 \u2013 August 13, 2027**",
+      "deadlineLabel": "Rolling while listed (Workday `canApply=true` as of 2026-10-02 11am ET)",
+      "term": "Summer 2027 \u2014 **June 7 \u2013 August 13, 2027**",
+      "reward": "**$25/hour** undergrad ($30 grad / $35 PhD/Law); 37.5 hrs/week",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614"
+      }
+    },
     {
       "category": "internships",
       "kind": "internship",
@@ -689,6 +716,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Summer Analyst Intern \u2014 Gas South (Atlanta)",
+      "organization": "Gas South",
+      "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586",
+      "description": "Currently enrolled; must be a **rising junior or rising senior during Summer 2027** \u2014 **Class of 2029 OK**. Open to all majors; Excel/SQL/Power BI data analysis work. No U.S.-citizenship / no-sponsorship / clearance language on Greenhouse posting. \u00b7 Paid (confirm on apply) \u00b7 Business/ops data analysis \u2014 reports, dashboards, SQL/Power BI, market research. In-region (GA).",
+      "locations": [
+        "Atlanta, Georgia"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling while listed (apply ASAP)",
+      "term": "Summer 2027",
+      "reward": "Paid (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "ML Research Intern \u2013 BS/MS \u2014 Summer 2027 \u2014 Genesis Molecular AI (NYC / SF Bay)",
       "organization": "Genesis Molecular AI",
       "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e",
@@ -910,6 +965,35 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Machine Learning and Data Science Engineering Intern \u2014 Graphcore (Austin)",
+      "organization": "Graphcore",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8862951002",
+      "description": "Current enrollment at **junior or senior undergraduate** level, or master\u2019s, in data science, AI, machine learning, computer science, statistics, or related \u2014 **Class of 2029 rising-junior path OK**. Python + ML/stats coursework. No U.S.-citizenship / no-sponsorship / clearance language on Greenhouse posting. \u00b7 Paid benefits listed (healthcare, 401k, etc.; confirm stipend on apply) \u00b7 Facilities Reliability Engineering team \u2014 telemetry/ML on AI infrastructure data. SoftBank Group / AI compute.",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (SimplifyJobs Summer2027 listing; Greenhouse `8862951002`)",
+      "deadlineLabel": "Rolling while listed (apply ASAP)",
+      "term": "Summer 2027 (SimplifyJobs Summer2027 listing; Greenhouse `8862951002`)",
+      "reward": "Paid benefits listed (healthcare, 401k, etc.; confirm stipend on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8862951002"
       }
     },
     {
@@ -2006,34 +2090,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://2026.allthingsopen.org/"
-      }
-    },
-    {
-      "category": "conferences_summits_workshops",
-      "kind": "conference",
-      "event_subtype": "conference",
-      "title": "Clojure Conj 2026 \u2014 Charlotte, NC",
-      "organization": "Clojure Conj",
-      "url": "https://2026.clojure-conj.org",
-      "description": "Open registration \u00b7 **Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement. \u00b7 Niche functional-programming conference; good if exploring Clojure/FP. See Funding for travel reimbursement yes/no. **Scan note (2026-10-01 5pm ET):** Official site lists **Sept 30 \u2013 Oct 2, 2026** (multi-day; still in progress / ends tomorrow). Do not archive until after Oct 2.",
-      "locations": [
-        "Charlotte, North Carolina"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**September 30 \u2013 October 2, 2026** (live site 2026.clojure-conj.org; ongoing through Oct 2)",
-      "deadlineLabel": "See 2026.clojure-conj.org",
-      "reward": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
-      "travel_reimbursement": "**Travel reimbursement: no** / not advertised. **In-region (NC)** \u2014 included without reimbursement.",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "conferences_summits_workshops",
-        "conference"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://2026.clojure-conj.org"
       }
     },
     {
