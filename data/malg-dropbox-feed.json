@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "source": "MALG Assistant Opportunity Dropbox",
   "owner": "Malama Masheke",
   "rules": {
@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 96,
+  "count": 97,
   "counts_by_category": {
-    "internships": 71,
+    "internships": 72,
     "conferences_summits_workshops": 8,
     "hackathons": 12,
     "fellowships_and_ambassadorships": 5
@@ -772,6 +772,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Software Engineer Intern, Autonomous Vehicle: Simulation \u2014 Summer 2027 \u2014 General Motors (Sunnyvale)",
+      "organization": "General Motors",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+      "description": "Currently pursuing a **Bachelor\u2019s** in CS, AI/ML, robotics, engineering, or related STEM; **at least one additional quarter/semester remaining after the internship** \u2014 Class of 2029 OK. Python or C++. No U.S.-citizenship / no-sponsorship / clearance / ITAR language on Workday posting (EOE mentions citizenship status only as a protected category). \u00b7 **$8,100 \u2013 $9,600 / month** (posted range; location-dependent) \u00b7 Simulation features with AV validation teams; preferred master\u2019s / ROS / Unreal / data pipelines not required.",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 \u2014 ~12 weeks (windows **May 24 \u2013 Aug 13** or **June 14 \u2013 Sep 3, 2027**)",
+      "deadlineLabel": "Rolling while listed (Workday `canApply=true` as of 2026-10-02)",
+      "term": "Summer 2027 \u2014 ~12 weeks (windows **May 24 \u2013 Aug 13** or **June 14 \u2013 Sep 3, 2027**)",
+      "reward": "**$8,100 \u2013 $9,600 / month** (posted range; location-dependent)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Engineering Summer Analyst \u2014 Americas \u2014 Summer 2027 \u2014 Goldman Sachs (Salt Lake City)",
       "organization": "Goldman Sachs",
       "url": "https://higher.gs.com/roles/171565?type=students",
@@ -971,6 +999,34 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Business Data Analyst Intern, Strategy & Planning \u2014 Summer 2027 \u2014 Intuit",
+      "organization": "Intuit",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360",
+      "description": "Currently enrolled in a **Bachelor\u2019s or Master\u2019s** in Business Analytics, Data Science, Finance, Economics, or related technical/analytical field; **graduation date after the internship end date (at least four months post-internship)** \u2014 Class of 2029 OK. Must be **legally authorized to work in the US on a full-time basis during the internship** (CPT typically relevant \u2014 confirm). No U.S.-citizens-only / explicit no-sponsorship bar on posting. \u00b7 Paid (confirm on apply) \u00b7 Strategy & Planning analytics \u2014 data trends from financials/operations into stakeholder insights. Fits data-analysis scope.",
+      "locations": [
+        "Mountain View, CA (onsite \u22653 days/week)"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling while listed on Intuit careers",
+      "term": "Summer 2027",
+      "reward": "Paid (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "data"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Mobile Software Engineering Intern (iOS / Android) \u2014 Summer 2027 \u2014 Intuit",
       "organization": "Intuit",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568",
@@ -1050,62 +1106,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Science Intern \u2014 Summer 2027 \u2014 LexisNexis Legal & Professional (Raleigh)",
-      "organization": "LexisNexis Legal & Professional (RELX)",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1",
-      "description": "Currently enrolled student pursuing data science, CS, statistics, mathematics, engineering, or related. **Graduation date AFTER June 2027** \u2014 Class of 2029 OK. No citizenship / clearance / no-sponsorship language on official Workday posting. \u00b7 **$22\u2013$34/hour** depending on degree level \u00b7 **In-region (NC)**. ML / generative AI / product data science for legal & professional products.",
-      "locations": [
-        "Raleigh, NC (onsite)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
-      "deadlineLabel": "Applications open (apply while live)",
-      "term": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
-      "reward": "**$22\u2013$34/hour** depending on degree level",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Science-Internship_R118691-1"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Software Engineer Intern \u2014 Summer 2027 \u2014 LexisNexis Legal & Professional (Raleigh)",
-      "organization": "LexisNexis Legal & Professional (RELX)",
-      "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692",
-      "description": "Currently enrolled student pursuing CS, engineering, computer engineering, or related. **Graduation date AFTER June 2027** \u2014 Class of 2029 OK. No citizenship / clearance / no-sponsorship language on official Workday posting (EOE lists citizenship status among protected categories). \u00b7 **$22\u2013$34/hour** depending on degree level \u00b7 **In-region (NC)**. AI-enabled legal products; agile, secure coding, APIs/services. Pair with LexisNexis Data Science Intern Raleigh.",
-      "locations": [
-        "Raleigh, NC (onsite)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
-      "deadlineLabel": "Applications open (apply while live)",
-      "term": "Summer 2027 \u2014 start **June 7, 2027**; **11\u201312 weeks**",
-      "reward": "**$22\u2013$34/hour** depending on degree level",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692"
       }
     },
     {
@@ -1388,6 +1388,34 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers-peraton.icims.com/jobs/169665/job"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
+      "title": "Software Engineer Intern 2027 (USA) \u2014 Pinterest",
+      "organization": "Pinterest",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+      "description": "Currently enrolled toward a **Bachelor\u2019s or Master\u2019s** in Computer Science or related; **on track to graduate by June 2029** \u2014 **Class of 2029 OK**. No U.S.-citizenship / no-sponsorship / clearance language on Greenhouse posting. \u00b7 Paid (confirm on apply) \u00b7 University Engineering track; CS fundamentals + AI-assisted coding fluency called out. USA SF or remote.",
+      "locations": [
+        "San Francisco, CA / Remote, US"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027 (Greenhouse / Simplify Summer2027)",
+      "deadlineLabel": "Rolling while listed (apply ASAP)",
+      "term": "Summer 2027 (Greenhouse / Simplify Summer2027)",
+      "reward": "Paid (confirm on apply)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
       }
     },
     {
@@ -1730,6 +1758,35 @@
     {
       "category": "internships",
       "kind": "internship",
+      "title": "Software Development Intern \u2014 Summer 2027 \u2014 Tyler Technologies (Maine)",
+      "organization": "Tyler Technologies",
+      "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg",
+      "description": "Pursuing a **bachelor\u2019s** in Computer Science, Software Engineering, or related; exposure to SQL / VB.NET / C++/C# / ASP.NET. **No graduation-year cutoff** and **no citizenship / sponsorship / clearance bar** on Jobvite posting \u2014 Class of 2029 OK; confirm on apply. \u00b7 **$20 \u2013 $25 / hour** (posted) \u00b7 Separate from existing Tyler Lawrenceville (GA) keeper. Research, testing, and coding with product/eng mentors.",
+      "locations": [
+        "Yarmouth / Falmouth / Orono, Maine"
+      ],
+      "datesConfirmed": true,
+      "dateLabel": "Summer 2027",
+      "deadlineLabel": "Rolling while listed on Jobvite",
+      "term": "Summer 2027",
+      "reward": "**$20 \u2013 $25 / hour** (posted)",
+      "international_ok": true,
+      "tags": [
+        "malg-dropbox",
+        "internships",
+        "internship",
+        "software engineering",
+        "product management"
+      ],
+      "source": {
+        "id": "malg-dropbox",
+        "name": "MALG Opportunity Dropbox",
+        "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg"
+      }
+    },
+    {
+      "category": "internships",
+      "kind": "internship",
       "title": "Software Engineering Intern \u2014 Summer 2027 \u2014 UDig (Richmond / Nashville)",
       "organization": "UDig",
       "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003",
@@ -1921,35 +1978,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "AI & Data Platform Engineering Intern (Undergraduate) \u2014 Summer 2027 \u2014 WEX (Remote)",
-      "organization": "WEX Inc.",
-      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-      "description": "Currently pursuing a **Bachelor's** in CS / ML / Software Engineering / related; **at least Sophomore year completed** at internship start. No U.S.-citizens-only language on posting. Class of 2029 OK. \u00b7 Paid WEX summer intern rate (see posting; sibling full-stack undergrad role lists **$27\u2013$35/hour**) \u00b7 Data/AI platform undergrad track. Confirm CPT on apply. Sibling: fullstack undergrad R22593.",
-      "locations": [
-        "Remote (U.S.)"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027 \u2014 ~13 weeks late May to mid-August",
-      "deadlineLabel": "Campus recruiting **Sep\u2013Nov 2026** (apply ASAP)",
-      "term": "Summer 2027 \u2014 ~13 weeks late May to mid-August",
-      "reward": "Paid WEX summer intern rate (see posting; sibling full-stack undergrad role lists **$27\u2013$35/hour**)",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "software engineering",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"
       }
     },
     {
