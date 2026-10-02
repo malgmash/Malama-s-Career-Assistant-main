@@ -9,9 +9,9 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 98,
+  "count": 96,
   "counts_by_category": {
-    "internships": 75,
+    "internships": 73,
     "conferences_summits_workshops": 7,
     "hackathons": 11,
     "fellowships_and_ambassadorships": 5
@@ -266,62 +266,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Data Scientist Intern, Summer 2027 \u2014 Cox (Atlanta, GA)",
-      "organization": "Cox",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
-      "description": "Undergrad/grad data science track per title; verify year cutoffs on posting \u00b7 Paid \u00b7 Companion to Cox PM Atlanta listing.",
-      "locations": [
-        "Atlanta, Georgia"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "While live on Workday",
-      "term": "Summer 2027",
-      "reward": "Paid",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "data"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164"
-      }
-    },
-    {
-      "category": "internships",
-      "kind": "internship",
-      "title": "Product Management Intern, Summer 2027 \u2014 Cox (Atlanta, GA)",
-      "organization": "Cox",
-      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174",
-      "description": "Bachelor\u2019s per SimplifyJobs listing \u00b7 Paid \u00b7 Atlanta GA location confirmed in listings JSON.",
-      "locations": [
-        "Atlanta, Georgia"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "Summer 2027",
-      "deadlineLabel": "While live on Workday",
-      "term": "Summer 2027",
-      "reward": "Paid",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "internships",
-        "internship",
-        "product management"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"
       }
     },
     {
