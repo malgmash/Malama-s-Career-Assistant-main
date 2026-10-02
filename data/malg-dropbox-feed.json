@@ -9,11 +9,11 @@
     "events_region": "NC/SC/VA/GA \u2014 include with or without travel reimbursement; note if present",
     "events_elsewhere": "Only with travel reimbursement; must mention it"
   },
-  "count": 99,
+  "count": 98,
   "counts_by_category": {
     "internships": 75,
     "conferences_summits_workshops": 7,
-    "hackathons": 12,
+    "hackathons": 11,
     "fellowships_and_ambassadorships": 5
   },
   "opportunities": [
@@ -2090,33 +2090,6 @@
         "id": "malg-dropbox",
         "name": "MALG Opportunity Dropbox",
         "url": "https://2026.allthingsopen.org/"
-      }
-    },
-    {
-      "category": "hackathons",
-      "kind": "hackathon",
-      "title": "codeLinc 11 \u2014 Lincoln Financial & AWS",
-      "organization": "Lincoln Financial Group / AWS",
-      "url": "https://codelinc11.devpost.com/",
-      "description": "Ages 16+; students only; U.S. residents for prizes \u00b7 **Travel reimbursement: yes \u2014 $200** available. $10,000 prize pool. **In-region (NC)**. \u00b7 Mobile development project templates. Contact codelinc@lfg.com. Entire team must be on-site to present. See Funding for travel reimbursement yes/no.",
-      "locations": [
-        "Greensboro, NC \u2014 Lincoln Financial"
-      ],
-      "datesConfirmed": true,
-      "dateLabel": "**October 3\u20134, 2026** (24-hour coding challenge)",
-      "deadlineLabel": "Register on Devpost; submissions due ~10:30 AM EST Oct 4",
-      "reward": "**Travel reimbursement: yes \u2014 $200** available. $10,000 prize pool. **In-region (NC)**.",
-      "travel_reimbursement": "**Travel reimbursement: yes \u2014 $200** available. $10,000 prize pool. **In-region (NC)**.",
-      "international_ok": true,
-      "tags": [
-        "malg-dropbox",
-        "hackathons",
-        "hackathon"
-      ],
-      "source": {
-        "id": "malg-dropbox",
-        "name": "MALG Opportunity Dropbox",
-        "url": "https://codelinc11.devpost.com/"
       }
     },
     {
